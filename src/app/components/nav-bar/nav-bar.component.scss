@@ -1,0 +1,39 @@
+@use "variables";
+
+// Define the navbar height
+
+$link-border-active: 7px solid variables.$darken-primary;
+
+nav {
+  background-color: black;
+  padding-left: 2rem;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: white;
+  padding: 0 2rem;
+  text-decoration: none;
+
+  &.active {
+    background-color: variables.$primary-color;
+    border-bottom: $link-border-active;
+    box-sizing: border-box;
+    color: black;
+  }
+
+  &:hover {
+    color: black;
+    background-color: variables.$lighten-primary;
+    border-bottom: $link-border-active;
+  }
+}
+
+
+

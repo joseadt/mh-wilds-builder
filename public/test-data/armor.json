@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "type": "HEAD",
+        "name": "test helmet",
+        "set": "Test",
+        "stats": {
+            "defense": 10,
+            "fireResist": 2,
+            "waterResist": -1,
+            "thunderResist": 1,
+            "iceResist": 0,
+            "dragonResist": -20
+        },
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "HEAD",
+        "name": "Other helmet",
+        "set": "Other",
+        "stats": {
+            "defense": 10,
+            "fireResist": 2,
+            "waterResist": -1,
+            "thunderResist": 1,
+            "iceResist": 0,
+            "dragonResist": -20
+        },
+        "skills": [
+            {
+                "name": "Divine Bless",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "CHEST",
+        "name": "Test chest",
+        "set": "Test",
+        "stats": {
+            "defense": 10,
+            "fireResist": 2,
+            "waterResist": -1,
+            "thunderResist": 1,
+            "iceResist": 0,
+            "dragonResist": -20
+        },
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 3
+            }
+        ]
+    }
+]

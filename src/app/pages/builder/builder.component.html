@@ -1,0 +1,19 @@
+<div class="container">
+    <app-container>
+        <h1>Hello!</h1>
+        <div class="flex row">
+            <div class="col-8">
+                <div class="flex column">
+                    <app-armor-selector type="HEAD" class="col" [(selected)]="head"></app-armor-selector>
+                    <app-armor-selector type="CHEST" class="col" [(selected)]="chest"></app-armor-selector>
+                    <app-armor-selector type="ARMS" class="col" [(selected)]="arms"></app-armor-selector>
+                    <app-armor-selector type="WAIST" class="col" [(selected)]="waist"></app-armor-selector>
+                    <app-armor-selector type="LEGS" class="col" [(selected)]="legs"></app-armor-selector>
+                </div>
+            </div>
+            <div class="col-4">
+                <app-stats [equipment]="equipment()"></app-stats>
+            </div>
+        </div>
+    </app-container>
+  </div>

@@ -1,0 +1,11 @@
+@use "variables";
+@use "functions" as fn;
+
+
+.item-container {
+    background: fn.gradient-bg(0.7);
+    color: variables.$container-text-color;
+    border: 2px solid rgba(variables.$container-bg-color, 1);
+    padding: 1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,50 @@
+@use "functions" as fn;
+
+.container {
+    z-index: 5;
+    position: relative;
+
+    padding: 3rem 5.5rem;
+
+    .content {
+        position: relative;
+        z-index: 1;
+    }
+
+    &::before {
+        @include fn.corner-border(url("/images/borders/box_top.png"), top);
+    }
+
+    &::after {
+        @include fn.corner-border(url("/images/borders/box_bottom.png"), bottom);
+    }
+
+
+
+    &.simple-container {
+        padding: 2rem;
+
+        &::before {
+            @include fn.corner-border(url("/images/borders/simple_top.png"));
+            background-size: 2.5rem;
+        }
+
+        &::after {
+            @include fn.corner-border(url("/images/borders/simple_bottom.png"), bottom);
+            background-size: 2.5rem;
+            bottom: 0;
+            right: 0;
+            background-position: 100% 100%;
+        }
+    }
+}
+
+
+.container-box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}

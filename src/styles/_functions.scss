@@ -1,0 +1,54 @@
+@use "sass:color";
+@use "variables";
+
+
+@function gradient-bg($alpha) {
+    @return linear-gradient(to bottom, rgba(variables.$container-bg-color, $alpha), rgba(variables.$container-bg-color-dark, $alpha));
+}
+
+
+@mixin responsive($device) {
+    @if map-has-key(variables.$breakpoints, $device) {
+        @media (min-width: map-get(variables.$breakpoints, $device)) {
+            @content;
+        }
+    }
+
+    @else {
+        @warn "Breakpoint '#{$device}' not found in $breakpoints map.";
+    }
+}
+
+@mixin corner-border($bg-image, $position: top) {
+    content: "";
+    display: block;
+    width: 20rem;
+    height: 20rem;
+    position: absolute;
+    background: $bg-image no-repeat;
+    background-size: 100% auto;
+
+    @if($position == top) {
+        top: 0;
+        left: 0;
+        background-position: 0 0;
+    } @else if($position == bottom) {
+        bottom: 0;
+        right: 0;
+        background-position: 100% 100%;
+        z-index: -1;
+    }
+}
+
+
+@mixin media-down($device) {
+    @if map-has-key(variables.$breakpoints, $device) {
+        @media (max-width: map-get(variables.$breakpoints, $device)) {
+            @content;
+        }
+    }
+
+    @else {
+        @warn "Breakpoint '#{$device}' not found in $breakpoints map.";
+    }
+}

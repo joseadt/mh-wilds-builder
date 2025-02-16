@@ -1,0 +1,66 @@
+@use "theme";
+@use "variables";
+
+
+.nav-menu {
+    position: sticky;
+    width: 100vw;
+    background-color: black;
+    height: variables.$nav-height;
+    display: flex;
+    align-items: center;
+
+    img {
+        height: variables.$nav-height;
+    }
+}
+
+main {
+    padding: 1rem 3rem;
+    min-height: calc(100vh - variables.$nav-height);
+}
+
+.container {
+    min-height: 80%;
+    color: variables.$container-text-color;
+
+    &.light {
+        @include theme.light-container(0.95);
+        color: variables.$light-container-text-color;
+    }
+
+    & > .container-box {
+        @include theme.container(0.8);
+        filter: blur(6px);
+    }
+}
+
+
+.search-box {
+    background-color: #6d6a66;
+    flex: 1 0 auto;
+    padding: 10px 10px;
+    font-size: 18px;
+    border: 2px solid variables.$container-bg-color-dark;
+    border-radius: 30px;
+    outline: none;
+    transition: border-color 0.3s, box-shadow 0.3s;
+
+    &:focus {
+        border-color: variables.$primary-color;
+        box-shadow: 0 0 8px rgba(0, 123, 255, 0.3);
+    }
+}
+
+input {
+    background-color: variables.$container-bg-color-dark;
+    color: variables.$container-text-color;
+}
+
+
+.section-title {
+    h1, h2, h3, h4, h5, h6 {
+        border-bottom: 2px solid transparent;
+        border-image: linear-gradient(45deg, variables.$container-text-color, rgba(variables.$container-text-color, 0)) 1;
+    }
+}

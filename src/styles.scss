@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+@use "variables";
+@use "functions";
+@use "theme";
+@use "modals";
+@use "layout";
+@use "components";
+
+@import '@angular/cdk/overlay-prebuilt.css';
+
+body {
+  font-family: 'Markazi Text', sans-serif;
+}

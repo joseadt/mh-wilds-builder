@@ -1,0 +1,85 @@
+@use "sass:math";
+@use "variables";
+@use "functions" as fn;
+@use "theme";
+
+
+
+
+
+body {
+    margin: 0;
+    background-image: url("https://blog.es.playstation.com/tachyon/sites/14/2024/05/86ecbb85c8d6104a2d07a29a005215546fefa135.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+
+}
+
+
+
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+
+    &.row {
+        flex-direction: row;
+        margin-left: -1rem;
+        margin-right: -1rem;
+    }
+
+    &.column {
+        margin-left: -1rem;
+        margin-right: -1rem;
+        flex-direction: column;
+    }
+}
+
+
+.col {
+    flex: 1 0 0%;
+    padding: 0.25rem 1rem;
+    box-sizing: border-box;
+}
+
+@for $i from 1 through 12 {
+    $width: $i * 8.33333;
+
+    .col-#{$i} {
+        width: calc(math.percentage(math.round($width*100) / 10000));
+        flex: 0 0 auto;
+        padding: 0.25rem 1rem;
+        box-sizing: border-box;
+    }
+}
+
+
+$width-step: 5;
+$width-steps: 100 / $width-step;
+
+@for $i from 1 through $width-steps {
+    $width: $i * $width-step;
+
+    .w-#{$width} {
+        width: math.percentage($width / 100);
+    }
+}
+@each $key, $value in variables.$spacers {
+    .m-#{$key} {
+        margin: $value;
+    }
+
+    .m-t-#{$key} {
+        margin-top: $value;
+    }
+
+    .p-#{$key} {
+        padding: $value;
+    }
+}
+
+
+
+
+

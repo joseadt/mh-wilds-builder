@@ -1,0 +1,16 @@
+@use "variables";
+@use "functions" as fn;
+
+
+@mixin container($alpha: 1, $border-alpha: null) {
+    $border-alpha: if($border-alpha == null, $alpha, $border-alpha);
+    background: fn.gradient-bg($alpha);
+    border: 2px solid rgba(variables.$container-bg-color, $border-alpha);
+}
+
+@mixin light-container($alpha: 1, $border-alpha: null) {
+    $border-alpha: if($border-alpha == null, $alpha, $border-alpha);
+    background: rgba(variables.$light-container-bg-color, $alpha);
+    border: 2px solid rgba(variables.$container-bg-color, $border-alpha);
+}
+

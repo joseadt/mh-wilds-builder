@@ -1,0 +1,83 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "ArmorSkill": {
+            "properties": {
+                "level": {
+                    "type": "number"
+                },
+                "name": {
+                    "type": "string"
+                }
+            },
+            "type": "object"
+        },
+        "ArmorType": {
+            "enum": [
+                "HEAD",
+                "CHEST",
+                "ARMS",
+                "WAIST",
+                "LEGS"
+            ],
+            "type": "string"
+        },
+        "Stats": {
+            "properties": {
+                "affinity": {
+                    "type": "number"
+                },
+                "attack": {
+                    "type": "number"
+                },
+                "critBoost": {
+                    "type": "number"
+                },
+                "defense": {
+                    "type": "number"
+                },
+                "dragonResist": {
+                    "type": "number"
+                },
+                "fireResist": {
+                    "type": "number"
+                },
+                "iceResist": {
+                    "type": "number"
+                },
+                "thunderResist": {
+                    "type": "number"
+                },
+                "waterResist": {
+                    "type": "number"
+                }
+            },
+            "type": "object"
+        }
+    },
+    "properties": {
+        "id": {
+            "type": "number"
+        },
+        "name": {
+            "type": "string"
+        },
+        "set": {
+            "type": "string"
+        },
+        "skills": {
+            "items": {
+                "$ref": "#/definitions/ArmorSkill"
+            },
+            "type": "array"
+        },
+        "stats": {
+            "$ref": "#/definitions/Stats"
+        },
+        "type": {
+            "$ref": "#/definitions/ArmorType"
+        }
+    },
+    "type": "object"
+}
+

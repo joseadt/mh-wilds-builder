@@ -1,0 +1,14 @@
+<div class="flex">
+    <input type="text" name="search-text" class="search-box" [(ngModel)]="searchText">
+</div>
+
+<div class="flex column m-t-2">
+    @for(item of items(); track item.id ) {
+    <div class="col">
+        <div class="item-container" (click)="selected(item)">
+            <td>{{item.name}}</td>
+        </div>
+    </div>
+    }
+</div>
+

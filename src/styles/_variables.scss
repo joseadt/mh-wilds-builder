@@ -1,0 +1,41 @@
+@use 'sass:color';
+
+// MAIN COLORS
+$primary-color: #ffc44f;
+$lighten-primary: color.adjust($primary-color, $lightness: 20%);
+$darken-primary: color.adjust($primary-color, $lightness: -20%);
+
+$secondary-color: #dddc4A;
+
+
+// CONTAINER COLORS
+$container-bg-color: #342701;
+$container-bg-color-dark: #0a0800;
+$container-text-color: #c7c0ab;
+
+$light-container-bg-color: #BAB497;
+$light-container-text-color: #443f32;
+
+// NAV BAR
+$nav-height: 80px;
+
+
+// SPACER AND BREAKPOINTS
+$breakpoints: (
+    sm: 576px,
+    md: 768px,
+    lg: 992px
+);
+
+$spacer: 1rem;
+$spacers: (
+  0: 0,
+  1: $spacer * 0.25, // 0.25rem (4px)
+  2: $spacer * 0.5,  // 0.5rem (8px)
+  3: $spacer,        // 1rem (16px)
+  4: $spacer * 1.5,  // 1.5rem (24px)
+  5: $spacer * 3     // 3rem (48px)
+)
+
+
+
