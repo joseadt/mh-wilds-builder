@@ -7,7 +7,7 @@
         "build": "ng build",
         "watch": "ng build --watch --configuration development",
         "test": "ng test",
-        "generate-schema": "typescript-json-schema src/app/models/armor.model.ts Armor --out public/schemas/armor-schema.json"
+        "generate-schema": "typescript-json-schema src/app/models/armor.model.ts Armor --out public/schemas/armor-schema.json && typescript-json-schema src/app/models/skill.model.ts Skill --out public/schemas/skill-schema.json"
     },
     "private": true,
     "dependencies": {

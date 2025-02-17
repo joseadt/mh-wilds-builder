@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Attack Boost",
+        "levels": [
+            {
+                "description": "Slightly increases attack power.",
+                "effects": [
+                    {
+                        "stat": "attack",
+                        "type": "ADD",
+                        "value": 3
+                    }
+                ]
+            },
+            {
+                "description": "Moderately increases attack power.",
+                "effects": [
+                    {
+                        "stat": "attack",
+                        "type": "ADD",
+                        "value": 6
+                    }
+                ]
+            },
+            {
+                "description": "Greatly increases attack power and slightly improves affinity.",
+                "effects": [
+                    {
+                        "stat": "attack",
+                        "type": "ADD",
+                        "value": 9
+                    },
+                    {
+                        "stat": "affinity",
+                        "type": "PERCENTAGE",
+                        "value": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Critical Boost",
+        "levels": [
+            {
+                "description": "Increases the damage of critical hits.",
+                "effects": [
+                    {
+                        "stat": "critBoost",
+                        "type": "PERCENTAGE",
+                        "value": 30
+                    }
+                ]
+            },
+            {
+                "description": "Further increases the damage of critical hits.",
+                "effects": [
+                    {
+                        "stat": "critBoost",
+                        "type": "PERCENTAGE",
+                        "value": 35
+                    }
+                ]
+            },
+            {
+                "description": "Massively increases the damage of critical hits.",
+                "effects": [
+                    {
+                        "stat": "critBoost",
+                        "type": "PERCENTAGE",
+                        "value": 40
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fire Resistance",
+        "levels": [
+            {
+                "description": "Slightly increases fire resistance.",
+                "effects": [
+                    {
+                        "stat": "fireResist",
+                        "type": "ADD",
+                        "value": 3
+                    }
+                ]
+            },
+            {
+                "description": "Moderately increases fire resistance.",
+                "effects": [
+                    {
+                        "stat": "fireResist",
+                        "type": "ADD",
+                        "value": 6
+                    }
+                ]
+            },
+            {
+                "description": "Greatly increases fire resistance.",
+                "effects": [
+                    {
+                        "stat": "fireResist",
+                        "type": "ADD",
+                        "value": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defense Boost",
+        "levels": [
+            {
+                "description": "Slightly increases defense.",
+                "effects": [
+                    {
+                        "stat": "defense",
+                        "type": "ADD",
+                        "value": 5
+                    }
+                ]
+            },
+            {
+                "description": "Moderately increases defense.",
+                "effects": [
+                    {
+                        "stat": "defense",
+                        "type": "ADD",
+                        "value": 10
+                    }
+                ]
+            },
+            {
+                "description": "Greatly increases defense.",
+                "effects": [
+                    {
+                        "stat": "defense",
+                        "type": "ADD",
+                        "value": 20
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,16 +1,19 @@
 [
     {
         "id": 1,
+        "name": "Rathalos Helm",
+        "set": "Rathalos",
         "type": "HEAD",
-        "name": "test helmet",
-        "set": "Test",
         "stats": {
-            "defense": 10,
-            "fireResist": 2,
-            "waterResist": -1,
-            "thunderResist": 1,
-            "iceResist": 0,
-            "dragonResist": -20
+            "defense": 50,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": 3,
+            "waterResist": -2,
+            "thunderResist": 0,
+            "iceResist": -1,
+            "dragonResist": 1
         },
         "skills": [
             {
@@ -21,40 +24,253 @@
     },
     {
         "id": 2,
+        "name": "Kushala Glare",
+        "set": "Kushala",
         "type": "HEAD",
-        "name": "Other helmet",
-        "set": "Other",
         "stats": {
-            "defense": 10,
-            "fireResist": 2,
-            "waterResist": -1,
-            "thunderResist": 1,
-            "iceResist": 0,
-            "dragonResist": -20
+            "defense": 52,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": -3,
+            "waterResist": 2,
+            "thunderResist": -2,
+            "iceResist": 4,
+            "dragonResist": 1
         },
         "skills": [
             {
-                "name": "Divine Bless",
+                "name": "Ice Resistance",
                 "level": 2
             }
         ]
     },
     {
-        "id": 2,
-        "type": "CHEST",
-        "name": "Test chest",
-        "set": "Test",
+        "id": 3,
+        "name": "Diablos Helm",
+        "set": "Diablos",
+        "type": "HEAD",
         "stats": {
-            "defense": 10,
+            "defense": 53,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
             "fireResist": 2,
-            "waterResist": -1,
-            "thunderResist": 1,
+            "waterResist": 0,
+            "thunderResist": -3,
+            "iceResist": -1,
+            "dragonResist": 1
+        },
+        "skills": [
+            {
+                "name": "Defense Boost",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Nargacuga Mail",
+        "set": "Nargacuga",
+        "type": "CHEST",
+        "stats": {
+            "defense": 48,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": -3,
+            "waterResist": 1,
+            "thunderResist": -2,
             "iceResist": 0,
-            "dragonResist": -20
+            "dragonResist": 1
+        },
+        "skills": [
+            {
+                "name": "Critical Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Lagiacrus Mail",
+        "set": "Lagiacrus",
+        "type": "CHEST",
+        "stats": {
+            "defense": 50,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": -4,
+            "waterResist": 4,
+            "thunderResist": -2,
+            "iceResist": 0,
+            "dragonResist": 1
+        },
+        "skills": [
+            {
+                "name": "Water Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Teostra Mail",
+        "set": "Teostra",
+        "type": "CHEST",
+        "stats": {
+            "defense": 55,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": 4,
+            "waterResist": -2,
+            "thunderResist": -1,
+            "iceResist": 2,
+            "dragonResist": 3
+        },
+        "skills": [
+            {
+                "name": "Fire Resistance",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Anjanath Vambraces",
+        "set": "Anjanath",
+        "type": "ARMS",
+        "stats": {
+            "defense": 52,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": 2,
+            "waterResist": -3,
+            "thunderResist": 0,
+            "iceResist": -2,
+            "dragonResist": 1
         },
         "skills": [
             {
                 "name": "Attack Boost",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Barioth Vambraces",
+        "set": "Barioth",
+        "type": "ARMS",
+        "stats": {
+            "defense": 49,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": -3,
+            "waterResist": 0,
+            "thunderResist": -1,
+            "iceResist": 3,
+            "dragonResist": 1
+        },
+        "skills": [
+            {
+                "name": "Ice Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Lunastra Coil",
+        "set": "Lunastra",
+        "type": "WAIST",
+        "stats": {
+            "defense": 55,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": 4,
+            "waterResist": -2,
+            "thunderResist": -1,
+            "iceResist": 3,
+            "dragonResist": 2
+        },
+        "skills": [
+            {
+                "name": "Fire Resistance",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Uragaan Coil",
+        "set": "Uragaan",
+        "type": "WAIST",
+        "stats": {
+            "defense": 60,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": 3,
+            "waterResist": -2,
+            "thunderResist": -2,
+            "iceResist": 2,
+            "dragonResist": 0
+        },
+        "skills": [
+            {
+                "name": "Defense Boost",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Bazelgeuse Greaves",
+        "set": "Bazelgeuse",
+        "type": "LEGS",
+        "stats": {
+            "defense": 57,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": 3,
+            "waterResist": 0,
+            "thunderResist": -3,
+            "iceResist": 1,
+            "dragonResist": 2
+        },
+        "skills": [
+            {
+                "name": "Defense Boost",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Kirin Leg Guards",
+        "set": "Kirin",
+        "type": "LEGS",
+        "stats": {
+            "defense": 45,
+            "attack": 0,
+            "affinity": 0,
+            "critBoost": 0,
+            "fireResist": -3,
+            "waterResist": 2,
+            "thunderResist": 4,
+            "iceResist": -1,
+            "dragonResist": 0
+        },
+        "skills": [
+            {
+                "name": "Thunder Resistance",
                 "level": 3
             }
         ]

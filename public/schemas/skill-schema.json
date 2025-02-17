@@ -1,0 +1,68 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "EffectType": {
+            "enum": [
+                "PERCENTAGE",
+                "ADD",
+                "OTHER"
+            ],
+            "type": "string"
+        },
+        "SkillLevel": {
+            "properties": {
+                "description": {
+                    "type": "string"
+                },
+                "effects": {
+                    "items": {
+                        "$ref": "#/definitions/SkillLevelStatEffect"
+                    },
+                    "type": "array"
+                }
+            },
+            "type": "object"
+        },
+        "SkillLevelStatEffect": {
+            "properties": {
+                "stat": {
+                    "$ref": "#/definitions/StatKeys"
+                },
+                "type": {
+                    "$ref": "#/definitions/EffectType"
+                },
+                "value": {
+                    "type": "number"
+                }
+            },
+            "type": "object"
+        },
+        "StatKeys": {
+            "enum": [
+                "attack",
+                "affinity",
+                "critBoost",
+                "defense",
+                "fireResist",
+                "waterResist",
+                "thunderResist",
+                "iceResist",
+                "dragonResist"
+            ],
+            "type": "string"
+        }
+    },
+    "properties": {
+        "levels": {
+            "items": {
+                "$ref": "#/definitions/SkillLevel"
+            },
+            "type": "array"
+        },
+        "name": {
+            "type": "string"
+        }
+    },
+    "type": "object"
+}
+

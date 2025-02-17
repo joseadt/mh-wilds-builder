@@ -1,0 +1,16 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "**/armor.json"
+            ],
+            "url": "./public/schemas/equipment-schema.json"
+        } ,
+        {
+            "fileMatch": [
+                "**/skills.json"
+            ],
+            "url": "./public/schemas/skills-schema.json"
+        }
+    ]
+}
