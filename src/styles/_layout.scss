@@ -18,7 +18,6 @@ body {
 
 
 
-
 .flex {
     display: flex;
     flex-wrap: wrap;
@@ -55,29 +54,10 @@ body {
 }
 
 
-$width-step: 5;
-$width-steps: 100 / $width-step;
 
-@for $i from 1 through $width-steps {
-    $width: $i * $width-step;
 
-    .w-#{$width} {
-        width: math.percentage($width / 100);
-    }
-}
-@each $key, $value in variables.$spacers {
-    .m-#{$key} {
-        margin: $value;
-    }
 
-    .m-t-#{$key} {
-        margin-top: $value;
-    }
 
-    .p-#{$key} {
-        padding: $value;
-    }
-}
 
 
 
