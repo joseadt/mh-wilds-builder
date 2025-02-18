@@ -1,0 +1,14 @@
+@use "variables";
+
+.skill-level-indicator {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    border: 0.5px solid variables.$container-text-color;
+    margin-right: 1px;
+    filter: blur();
+
+    &.active {
+        background-color: variables.$container-text-color;
+    }
+}

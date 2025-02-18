@@ -1,5 +1,5 @@
 import { ArmorType } from '../enums/armor-type.enum';
-import { ArmorSkill } from './skills.model';
+import { ArmorSkill } from './armor-skill.model';
 import { Stats } from './stats.model';
 
 export interface Armor {

@@ -1,6 +1,7 @@
 [
     {
         "name": "Attack Boost",
+        "color": "#B22222",
         "levels": [
             {
                 "description": "Slightly increases attack power.",
@@ -41,6 +42,7 @@
     },
     {
         "name": "Critical Boost",
+        "color": "#493e75",
         "levels": [
             {
                 "description": "Increases the damage of critical hits.",
@@ -76,6 +78,7 @@
     },
     {
         "name": "Fire Resistance",
+        "color": "#ff4802",
         "levels": [
             {
                 "description": "Slightly increases fire resistance.",
@@ -111,6 +114,7 @@
     },
     {
         "name": "Defense Boost",
+        "color": "#bf9e1c",
         "levels": [
             {
                 "description": "Slightly increases defense.",

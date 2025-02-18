@@ -53,6 +53,9 @@
         }
     },
     "properties": {
+        "color": {
+            "type": "string"
+        },
         "levels": {
             "items": {
                 "$ref": "#/definitions/SkillLevel"

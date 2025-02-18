@@ -1,13 +1,13 @@
-export enum Stat {
-    ATTACK = 'ATTACK',
-    AFFINITY = 'AFFINITY',
-    CRITICAL_BOOST = 'CRITICAL_BOOST',
-    DEFFENSE = 'DEFFENSE',
-    FIRE_RESIST = 'FIRE_RESIST',
-    WATER_RESIST = 'WATER_RESIST',
-    THUNDER_RESIST = 'THUNDER_RESIST',
-    ICE_RESIST = 'ICE_RESIST',
-    DRAGON_RESIST = 'DRAGON_RESIST',
+export enum StatKeys {
+    ATTACK = 'attack',
+    AFFINITY = 'affinity',
+    CRITICAL_BOOST = 'critBoost',
+    DEFFENSE = 'defense',
+    FIRE_RESIST = 'fireResist',
+    WATER_RESIST = 'waterResist',
+    THUNDER_RESIST = 'thunderResist',
+    ICE_RESIST = 'iceResist',
+    DRAGON_RESIST = 'dragonResist',
 }
 
 export interface Stats {

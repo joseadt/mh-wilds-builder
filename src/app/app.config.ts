@@ -9,12 +9,16 @@ import { provideRouter } from '@angular/router';
 import { provideHttpClient } from '@angular/common/http';
 import { routes } from './app.routes';
 import { EquipmentService } from './services/equipment.service';
+import { SkillService } from './services/skill.service';
 
 export const appConfig: ApplicationConfig = {
     providers: [
         provideZoneChangeDetection({ eventCoalescing: true }),
         provideRouter(routes),
         provideHttpClient(),
-        provideAppInitializer(() => inject(EquipmentService).loadArmor()),
+        provideAppInitializer(() => {
+            inject(EquipmentService).loadArmor();
+            inject(SkillService).loadSkills();
+        }),
     ],
 };

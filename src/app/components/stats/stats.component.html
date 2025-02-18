@@ -22,6 +22,11 @@
             <div class="section-title">
                 <h4 i18n>Skills</h4>
             </div>
+            <div class="flex column">
+                @for(skill of skills(); track skill.name) {
+                    <app-skill class="col" [skill]="skill"></app-skill>
+                }
+            </div>
         </div>
     </div>
 </app-container>

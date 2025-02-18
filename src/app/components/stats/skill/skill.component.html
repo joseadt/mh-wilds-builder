@@ -1,0 +1,14 @@
+<div class="flex">
+    <span class="stat-label">{{armorSkill().name}}</span>
+    <span class="stat-value ml-auto">
+        @if(maxLevel() != null && maxLevel()! < armorSkill().level) {
+        {{maxLevel()}}
+        } @else {
+        {{armorSkill().level}}
+        }
+
+        @for(level of storedSkill()?.levels; track level) {
+            <span class="skill-level-indicator" [class.active]="$index < this.armorSkill().level" [ngStyle]="getStyle($index)"></span>
+        }
+    </span>
+</div>

@@ -1,6 +1,6 @@
-@if(this.field()) {
-    <div class="flex">
-        <span class="label">{{STATS_I18N[this.field()!]}}</span>
-        <span class="value">{{this.stats()[this.field()!]}}</span>
-    </div>
+@if(field()) {
+<div class="flex">
+    <span class="stat-label">{{STATS_I18N[field()!]}}</span>
+    <span class="stat-value ml-auto">{{stats()[field()!]}}</span>
+</div>
 }
