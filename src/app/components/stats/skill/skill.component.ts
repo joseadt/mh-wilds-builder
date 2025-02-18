@@ -29,8 +29,6 @@ export class SkillComponent {
         return untracked(() => this.skillService.get(skill.name));
     });
 
-    maxLevel = computed(() => this.storedSkill()?.levels?.length);
-
     getStyle(index: number) {
         if (
             this.storedSkill()?.color != null &&
