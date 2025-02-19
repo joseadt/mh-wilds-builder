@@ -1,4 +1,4 @@
-import { StatKeys as StatKey } from './stats.model';
+import { StatKey } from './stats.model';
 
 export enum EffectType {
     PERCENTAGE = 'PERCENTAGE',

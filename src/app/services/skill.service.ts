@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { environment } from '../../environments/environment';
-import { Skill } from '../models/skill.model';
+import { Skill, SkillLevel } from '../models/skill.model';
 
 @Injectable({
     providedIn: 'root',
@@ -19,5 +19,11 @@ export class SkillService {
 
     get(name: string): Skill | undefined {
         return this.skills.find((s) => s.name === name);
+    }
+
+    getLevel(name: string, level: number): SkillLevel | undefined {
+        const skill = this.skills.find((s) => s.name === name);
+        const levels = skill?.levels;
+        return levels?.at(level < levels.length ? level : -1);
     }
 }

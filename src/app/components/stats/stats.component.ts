@@ -2,12 +2,15 @@ import {
     ChangeDetectionStrategy,
     Component,
     computed,
+    inject,
     input,
 } from '@angular/core';
 import { ArmorSkill } from '../../models/armor-skill.model';
 import { Armor } from '../../models/armor.model';
 import { Equipment } from '../../models/equipment.model';
-import { Stats } from '../../models/stats.model';
+import { EffectType } from '../../models/skill.model';
+import { StatKey, Stats } from '../../models/stats.model';
+import { SkillService } from '../../services/skill.service';
 import { ContainerComponent } from '../container/container.component';
 import { SkillComponent } from './skill/skill.component';
 import { StatComponent } from './stat/stat.component';
@@ -20,13 +23,19 @@ import { StatComponent } from './stat/stat.component';
     changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class StatsComponent {
+    // DI
+    skillService = inject(SkillService);
+
+    // Attributes
     equipment = input<Equipment>({});
+
+    baseStats = computed(() => this.calculateBaseStats());
 
     stats = computed(() => this.calculateStats());
 
     skills = computed(() => this.calculateSkills());
 
-    private calculateStats(): Stats {
+    private calculateBaseStats(): Stats {
         const stats: Stats = {
             attack: 0,
             affinity: 0,
@@ -41,9 +50,24 @@ export class StatsComponent {
 
         for (const item of Object.values(this.equipment())) {
             for (const stat in stats) {
-                const key = stat as keyof Stats;
+                const key = stat as StatKey;
                 stats[key]! += item?.stats[key] || 0;
             }
+        }
+
+        return stats;
+    }
+
+    private calculateStats(): Stats {
+        const stats = { ...this.baseStats() };
+
+        for (const skill of this.skills()) {
+            const level = this.skillService.getLevel(skill.name, skill.level);
+            level?.effects?.forEach((se) => {
+                if (se.type === EffectType.ADD) {
+                    stats[se.stat]! += se.value;
+                }
+            });
         }
 
         return stats;
