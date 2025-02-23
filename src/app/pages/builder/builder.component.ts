@@ -8,7 +8,7 @@ import { ArmorSelectorComponent } from '../../components/armor-selector/armor-se
 import { ContainerComponent } from '../../components/container/container.component';
 import { StatsComponent } from '../../components/stats/stats.component';
 import { Armor } from '../../models/armor.model';
-import { Equipment } from '../../models/equipment.model';
+import { Loadout } from '../../models/loadout.model';
 
 @Component({
     selector: 'app-builder',
@@ -24,7 +24,7 @@ export class BuilderComponent {
     arms = signal<Armor | null>(null);
     legs = signal<Armor | null>(null);
 
-    equipment = computed<Equipment>(() => {
+    loadout = computed<Loadout>(() => {
         return {
             head: this.head() as Armor,
             chest: this.chest() as Armor,

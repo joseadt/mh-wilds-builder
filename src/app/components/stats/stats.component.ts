@@ -7,7 +7,7 @@ import {
 } from '@angular/core';
 import { ArmorSkill } from '../../models/armor-skill.model';
 import { Armor } from '../../models/armor.model';
-import { Equipment } from '../../models/equipment.model';
+import { Loadout } from '../../models/loadout.model';
 import { EffectType } from '../../models/skill.model';
 import { StatKey, Stats } from '../../models/stats.model';
 import { SkillService } from '../../services/skill.service';
@@ -27,7 +27,7 @@ export class StatsComponent {
     skillService = inject(SkillService);
 
     // Attributes
-    equipment = input<Equipment>({});
+    loadout = input.required<Loadout>();
 
     baseStats = computed(() => this.calculateBaseStats());
 
@@ -48,7 +48,7 @@ export class StatsComponent {
             dragonResist: 0,
         };
 
-        for (const item of Object.values(this.equipment())) {
+        for (const item of Object.values(this.loadout())) {
             for (const stat in stats) {
                 const key = stat as StatKey;
                 stats[key]! += item?.stats[key] || 0;
@@ -74,7 +74,7 @@ export class StatsComponent {
     }
 
     private calculateSkills(): ArmorSkill[] {
-        const data = Object.values(this.equipment())
+        const data = Object.values(this.loadout())
             .filter((a) => a)
             .map((a: Armor) => a?.skills)
             .flat()
