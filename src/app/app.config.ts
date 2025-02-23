@@ -18,7 +18,9 @@ export const appConfig: ApplicationConfig = {
         provideRouter(routes),
         provideHttpClient(),
         provideAppInitializer(() => {
-            inject(EquipmentService).loadArmor();
+            const equipmentService = inject(EquipmentService);
+            equipmentService.loadArmor();
+            equipmentService.loadWeapons();
             inject(SkillService).loadSkills();
             inject(DecorationService).loadDecorations();
         }),

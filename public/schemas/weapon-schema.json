@@ -71,6 +71,25 @@
                 }
             },
             "type": "object"
+        },
+        "WeaponType": {
+            "enum": [
+                "GREATSWORD",
+                "LONG_SWORD",
+                "SWORD_AND_SHIELD",
+                "DUAL_BLADES",
+                "HAMMER",
+                "HUNTING_HORN",
+                "LANCE",
+                "GUNLANCE",
+                "SWITCH_AXE",
+                "CHARGE_BLADE",
+                "INSECT_GLAIVE",
+                "LIGHT_BOWGUN",
+                "HEAVY_BOWGUN",
+                "BOW"
+            ],
+            "type": "string"
         }
     },
     "properties": {
@@ -100,6 +119,9 @@
         },
         "type": {
             "$ref": "#/definitions/GearType"
+        },
+        "weaponType": {
+            "$ref": "#/definitions/WeaponType"
         }
     },
     "type": "object"

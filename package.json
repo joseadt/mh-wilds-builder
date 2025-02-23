@@ -7,7 +7,8 @@
         "build": "ng build",
         "watch": "ng build --watch --configuration development",
         "test": "ng test",
-        "generate-schema": "npm run generate-schema:gear && npm run generate-schema:skill && npm run generate-schema:decoration",
+        "generate-schema": "npm run generate-schema:gear && npm run generate-schema:weapon && npm run generate-schema:skill && npm run generate-schema:decoration",
+        "generate-schema:weapon": "typescript-json-schema src/app/models/gear.model.ts Weapon --out public/schemas/weapon-schema.json",
         "generate-schema:gear": "typescript-json-schema src/app/models/gear.model.ts Gear --out public/schemas/gear-schema.json ",
         "generate-schema:skill": "typescript-json-schema src/app/models/skill.model.ts Skill --out public/schemas/skill-schema.json",
         "generate-schema:decoration": "typescript-json-schema src/app/models/decoration.model.ts Decoration --out public/schemas/decoration-schema.json"

@@ -9,10 +9,10 @@ import {
     model,
     signal,
 } from '@angular/core';
-import { GearType } from '../../enums/armor-type.enum';
+import { GearType, WeaponType } from '../../enums/armor-type.enum';
 import { Decoration } from '../../models/decoration.model';
 import { GearSkill } from '../../models/gear-skill.model';
-import { Gear } from '../../models/gear.model';
+import { Gear, isWeapon } from '../../models/gear.model';
 import { DecorationService } from '../../services/decoration.service';
 import { EquipmentService } from '../../services/equipment.service';
 import { ContainerComponent } from '../container/container.component';
@@ -31,9 +31,7 @@ export class ArmorSelectorComponent {
             typeof value === 'string' ? GearType[value] : value,
     });
 
-    iconUrl = computed(
-        () => `/images/${GearType[this.type()].toLowerCase()}.png`
-    );
+    iconUrl = computed(() => this.computeIconUrl());
 
     selectedAmor = signal<Gear | null>(null);
 
@@ -67,6 +65,20 @@ export class ArmorSelectorComponent {
 
             this.selected.set(selected);
         });
+    }
+
+    computeIconUrl() {
+        const selected = this.selectedAmor();
+        console.log(selected);
+        if (isWeapon(selected)) {
+            return `/images/${selected.weaponType.toLowerCase()}.png`;
+        }
+
+        const iconName =
+            this.type() === GearType.WEAPON
+                ? WeaponType.GREATSWORD
+                : this.type();
+        return `/images/${iconName.toLowerCase()}.png`;
     }
 
     onClick() {

@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "name": "Great Sword of the Dragon King",
+        "set": "Dragon King Set",
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 3
+            }
+        ],
+        "slots": [
+            {
+                "level": 2
+            }
+        ],
+        "stats": {
+            "attack": 1000,
+            "affinity": 20
+        },
+        "type": "WEAPON",
+        "weaponType": "GREATSWORD"
+    },
+    {
+        "id": 2,
+        "name": "Long Sword of the Phoenix",
+        "set": "Phoenix Set",
+        "skills": [
+            {
+                "name": "Critical Boost",
+                "level": 2
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 800,
+            "affinity": 25
+        },
+        "type": "WEAPON",
+        "weaponType": "LONG_SWORD"
+    },
+    {
+        "id": 3,
+        "name": "Sword and Shield of the Tiger",
+        "set": "Tiger Set",
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 2
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 600,
+            "affinity": 15
+        },
+        "type": "WEAPON",
+        "weaponType": "SWORD_AND_SHIELD"
+    },
+    {
+        "id": 4,
+        "name": "Dual Blades of the Wolf",
+        "set": "Wolf Set",
+        "skills": [
+            {
+                "name": "Critical Boost",
+                "level": 1
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 500,
+            "affinity": 30
+        },
+        "type": "WEAPON",
+        "weaponType": "DUAL_BLADES"
+    },
+    {
+        "id": 5,
+        "name": "Hammer of the Bear",
+        "set": "Bear Set",
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 3
+            }
+        ],
+        "slots": [
+            {
+                "level": 2
+            }
+        ],
+        "stats": {
+            "attack": 1200,
+            "affinity": 10
+        },
+        "type": "WEAPON",
+        "weaponType": "HAMMER"
+    },
+    {
+        "id": 6,
+        "name": "Hunting Horn of the Eagle",
+        "set": "Eagle Set",
+        "skills": [
+            {
+                "name": "Critical Boost",
+                "level": 2
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 700,
+            "affinity": 20
+        },
+        "type": "WEAPON",
+        "weaponType": "HUNTING_HORN"
+    },
+    {
+        "id": 7,
+        "name": "Lance of the Dragon",
+        "set": "Dragon Set",
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 2
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 900,
+            "affinity": 5
+        },
+        "type": "WEAPON",
+        "weaponType": "LANCE"
+    },
+    {
+        "id": 8,
+        "name": "Gunlance of the Phoenix",
+        "set": "Phoenix Set",
+        "skills": [
+            {
+                "name": "Critical Boost",
+                "level": 1
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 950,
+            "affinity": 10
+        },
+        "type": "WEAPON",
+        "weaponType": "GUNLANCE"
+    },
+    {
+        "id": 9,
+        "name": "Switch Axe of the Tiger",
+        "set": "Tiger Set",
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 3
+            }
+        ],
+        "slots": [
+            {
+                "level": 2
+            }
+        ],
+        "stats": {
+            "attack": 1100,
+            "affinity": 15
+        },
+        "type": "WEAPON",
+        "weaponType": "SWITCH_AXE"
+    },
+    {
+        "id": 10,
+        "name": "Charge Blade of the Wolf",
+        "set": "Wolf Set",
+        "skills": [
+            {
+                "name": "Critical Boost",
+                "level": 2
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 950,
+            "affinity": 20
+        },
+        "type": "WEAPON",
+        "weaponType": "CHARGE_BLADE"
+    },
+    {
+        "id": 11,
+        "name": "Insect Glaive of the Bear",
+        "set": "Bear Set",
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 2
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 800,
+            "affinity": 25
+        },
+        "type": "WEAPON",
+        "weaponType": "INSECT_GLAIVE"
+    },
+    {
+        "id": 12,
+        "name": "Light Bowgun of the Eagle",
+        "set": "Eagle Set",
+        "skills": [
+            {
+                "name": "Critical Boost",
+                "level": 1
+            }
+        ],
+        "slots": [
+            {
+                "level": 1
+            }
+        ],
+        "stats": {
+            "attack": 600,
+            "affinity": 30
+        },
+        "type": "WEAPON",
+        "weaponType": "LIGHT_BOWGUN"
+    }
+]
