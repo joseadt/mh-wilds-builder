@@ -1,0 +1,78 @@
+[
+    {
+        "slotLevel": 1,
+        "skills": [
+            {
+                "name": "Attack Boost",
+                "level": 1
+            }
+        ],
+        "color": "#B22222",
+        "name": "Attack Jewel 1"
+    },
+    {
+        "slotLevel": 2,
+        "skills": [
+            {
+                "name": "Critical Boost",
+                "level": 1
+            }
+        ],
+        "color": "#493e75",
+        "name": "Critical Jewel 2"
+    },
+    {
+        "slotLevel": 1,
+        "skills": [
+            {
+                "name": "Fire resistance",
+                "level": 1
+            }
+        ],
+        "color": "#ff4802",
+        "name": "Fire Res Jewel 1"
+    },
+    {
+        "slotLevel": 4,
+        "skills": [
+            {
+                "name": "Fire resistance",
+                "level": 2
+            }
+        ],
+        "color": "#ff4802",
+        "name": "Fire Res Jewel 4"
+    },
+    {
+        "slotLevel": 1,
+        "skills": [
+            {
+                "name": "Defense Boost",
+                "level": 1
+            }
+        ],
+        "color": "#6e293f",
+        "name": "Defense Jewel 1"
+    },
+    {
+        "slotLevel": 4,
+        "skills": [
+            {
+                "name": "Defense Boost",
+                "level": 2
+            }
+        ],
+        "color": "#6e293f",
+        "name": "Defense Jewel 4"
+    },
+    {
+        "slotLevel": 3,
+        "skills": [
+            {
+                "name": "Elderseal Boost"
+            }
+        ],
+        "color": "#6e293f",
+        "name": "Dragonseal Jewel 3"
+    }
+]

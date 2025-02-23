@@ -8,6 +8,7 @@ import { provideRouter } from '@angular/router';
 
 import { provideHttpClient } from '@angular/common/http';
 import { routes } from './app.routes';
+import { DecorationService } from './services/decoration.service';
 import { EquipmentService } from './services/equipment.service';
 import { SkillService } from './services/skill.service';
 
@@ -19,6 +20,7 @@ export const appConfig: ApplicationConfig = {
         provideAppInitializer(() => {
             inject(EquipmentService).loadArmor();
             inject(SkillService).loadSkills();
+            inject(DecorationService).loadDecorations();
         }),
     ],
 };

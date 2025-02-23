@@ -86,6 +86,9 @@ export class StatsComponent {
     }
 
     private skillAccumulator(acc: any, current: ArmorSkill) {
+        if (!current) {
+            return acc;
+        }
         acc[current.name] = acc[current.name] || {
             name: current.name,
             level: 0,

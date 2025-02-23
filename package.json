@@ -7,7 +7,10 @@
         "build": "ng build",
         "watch": "ng build --watch --configuration development",
         "test": "ng test",
-        "generate-schema": "typescript-json-schema src/app/models/armor.model.ts Armor --out public/schemas/armor-schema.json && typescript-json-schema src/app/models/skill.model.ts Skill --out public/schemas/skill-schema.json"
+        "generate-schema": "npm run generate-schema:armor && npm run generate-schema:skill && npm run generate-schema:decoration",
+        "generate-schema:armor": "typescript-json-schema src/app/models/armor.model.ts Armor --out public/schemas/armor-schema.json ",
+        "generate-schema:skill": "typescript-json-schema src/app/models/skill.model.ts Skill --out public/schemas/skill-schema.json",
+        "generate-schema:decoration": "typescript-json-schema src/app/models/decoration.model.ts Decoration --out public/schemas/decoration-schema.json"
     },
     "private": true,
     "dependencies": {

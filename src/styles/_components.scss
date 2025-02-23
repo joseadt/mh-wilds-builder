@@ -64,3 +64,17 @@ input {
         border-image: linear-gradient(45deg, variables.$container-text-color, rgba(variables.$container-text-color, 0)) 1;
     }
 }
+
+.delete-button {
+
+    padding-top: 0.5em;
+
+    cursor: pointer;
+
+    &::before {
+        content: url('/images/close-icon.svg');
+
+    }
+
+}
+

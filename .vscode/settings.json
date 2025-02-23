@@ -11,6 +11,12 @@
                 "**/skills.json"
             ],
             "url": "./public/schemas/skills-schema.json"
+        },
+        {
+            "fileMatch": [
+                "**/decorations.json"
+            ],
+            "url": "./public/schemas/decorations-schema.json"
         }
     ]
 }

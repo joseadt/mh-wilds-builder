@@ -26,7 +26,7 @@
         "SkillLevelStatEffect": {
             "properties": {
                 "stat": {
-                    "$ref": "#/definitions/StatKeys"
+                    "$ref": "#/definitions/StatKey"
                 },
                 "type": {
                     "$ref": "#/definitions/EffectType"
@@ -37,17 +37,17 @@
             },
             "type": "object"
         },
-        "StatKeys": {
+        "StatKey": {
             "enum": [
-                "attack",
                 "affinity",
+                "attack",
                 "critBoost",
                 "defense",
+                "dragonResist",
                 "fireResist",
-                "waterResist",
-                "thunderResist",
                 "iceResist",
-                "dragonResist"
+                "thunderResist",
+                "waterResist"
             ],
             "type": "string"
         }

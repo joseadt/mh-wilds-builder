@@ -1,4 +1,4 @@
-<div class="flex">
+<div class="flex" cdkOverlayOrigin #skillElement="cdkOverlayOrigin">
     <span class="stat-label">{{armorSkill().name}}</span>
     <span class="stat-value ml-auto">
         @for(level of storedSkill()?.levels; track level) {
@@ -6,3 +6,9 @@
         }
     </span>
 </div>
+<ng-template cdkConnectedOverlay [cdkConnectedOverlayOrigin]="skillElement" [cdkConnectedOverlayOpen]="isHovered()"
+    (detach)="onMouseLeave()">
+
+    <div class="container">{{skillDescription()}}</div>
+
+</ng-template>

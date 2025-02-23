@@ -1,4 +1,38 @@
-<div class="armor-selector" (click)="onClick()">
-    <img class="armor-icon" [src]="iconUrl()">
-    {{this.selected()?.name}}
+
+<app-container simple inline>
+    <div class="flex row">
+        <div class="armor-selector col-11" (click)="onClick()">
+                <img class="armor-icon" [src]="iconUrl()">
+                {{this.selected()?.name}}
+        </div>
+            @if(this.selected()) {
+                <div class="col-1 flex">
+                    <span class="delete-button ml-auto" (click)="clearArmor()">
+                    </span>
+                </div>
+            }
+    </div>
+</app-container>
+
+@if (this.slots()) {
+<div class="mx-3 mb-2">
+    <div class="flex row">
+        @for(item of slots(); track $index) {
+        <app-container class="col-12 col-lg-6 col-xl-4 decoration-container" simple inline>
+            <div class="flex row">
+                <div class="slot col-10" (click)="onClickSlot($index)">
+                    <img [src]="slotUrl(item.slotLevel!)" class="mr-1">
+                    {{item.name || '-'}}
+                </div>
+                @if(item.name) {
+                <div class="col-1">
+                    <span class="delete-button " (click)="clearSlot($index)">
+                    </span>
+                </div>
+                }
+            </div>
+        </app-container>
+        }
+    </div>
 </div>
+}

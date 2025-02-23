@@ -20,12 +20,12 @@ body {
 
 .flex {
     display: flex;
-    flex-wrap: wrap;
 
     &.row {
         flex-direction: row;
         margin-left: -1rem;
         margin-right: -1rem;
+        flex-wrap: wrap;
     }
 
     &.column {
@@ -68,8 +68,6 @@ body {
         }
     }
 }
-
-
 
 
 

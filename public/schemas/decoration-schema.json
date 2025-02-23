@@ -1,0 +1,44 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "ArmorSkill": {
+            "properties": {
+                "level": {
+                    "type": "number"
+                },
+                "name": {
+                    "type": "string"
+                }
+            },
+            "type": "object"
+        },
+        "SlotLevel": {
+            "enum": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "type": "number"
+        }
+    },
+    "properties": {
+        "color": {
+            "type": "string"
+        },
+        "name": {
+            "type": "string"
+        },
+        "skills": {
+            "items": {
+                "$ref": "#/definitions/ArmorSkill"
+            },
+            "type": "array"
+        },
+        "slotLevel": {
+            "$ref": "#/definitions/SlotLevel"
+        }
+    },
+    "type": "object"
+}
+

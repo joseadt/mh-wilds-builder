@@ -13,10 +13,14 @@
 
     &::before {
         @include fn.corner-border(url("/images/borders/box_top.png"), top);
+        max-height: 100%;
+        pointer-events: none;
     }
 
     &::after {
         @include fn.corner-border(url("/images/borders/box_bottom.png"), bottom);
+        max-height: 100%;
+        pointer-events: none;
     }
 
 
@@ -27,6 +31,7 @@
         &::before {
             @include fn.corner-border(url("/images/borders/simple_top.png"));
             background-size: 2.5rem;
+
         }
 
         &::after {
@@ -35,6 +40,19 @@
             bottom: 0;
             right: 0;
             background-position: 100% 100%;
+        }
+    }
+
+    &.inline-container {
+        padding: 0.3rem 1rem;
+
+        &::before, &::after {
+            background-size: 1.5rem;
+
+        }
+
+        .container-box {
+            filter: blur(2px);
         }
     }
 }

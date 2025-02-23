@@ -15,4 +15,6 @@ import {
 })
 export class ContainerComponent {
     simple = input(false, { transform: booleanAttribute });
+
+    inline = input(false, { transform: booleanAttribute });
 }
