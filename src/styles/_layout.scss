@@ -42,18 +42,32 @@ body {
     box-sizing: border-box;
 }
 
-@for $i from 1 through 12 {
-    $width: $i * 8.33333;
-
-    .col-#{$i} {
-        width: calc(math.percentage(math.round($width*100) / 10000));
-        flex: 0 0 auto;
-        padding: 0.25rem 1rem;
-        box-sizing: border-box;
-    }
+@mixin response-col($width) {
+    width: calc(math.percentage(math.round($width*100) / 10000));
+    flex: 0 0 auto;
+    padding: 0.25rem 1rem ;
+    box-sizing: border-box ;
 }
 
+@each $breakpoint, $value in variables.$breakpoints {
+    @media (min-width: $value) {
+        @for $i from 1 through 12 {
+            $width: $i * 8.33333;
 
+            @if $breakpoint == xs {
+                // Default columns (applies when no specific breakpoint is set)
+                .col-#{$i} {
+                    @include response-col($width);
+                }
+            } @else {
+                // Responsive columns (applies inside media queries only)
+                .col-#{$breakpoint}-#{$i} {
+                    @include response-col($width);
+                }
+            }
+        }
+    }
+}
 
 
 

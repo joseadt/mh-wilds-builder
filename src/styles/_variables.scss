@@ -22,9 +22,12 @@ $nav-height: 80px;
 
 // SPACER AND BREAKPOINTS
 $breakpoints: (
+    xs: 0,
     sm: 576px,
     md: 768px,
-    lg: 992px
+    lg: 992px,
+    xl: 1200px,
+    xxl: 1400px
 );
 
 $spacer: 1rem;
