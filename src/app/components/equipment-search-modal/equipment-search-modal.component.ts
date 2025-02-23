@@ -8,7 +8,7 @@ import {
     signal,
 } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { Armor } from '../../models/armor.model';
+import { Gear } from '../../models/gear.model';
 
 @Component({
     selector: 'app-equipment-search-modal',
@@ -26,14 +26,14 @@ export class EquipmentSearchModalComponent {
     searchText = signal('');
 
     items = computed(() =>
-        this.data.equipment.filter((e: Armor) =>
+        this.data.equipment.filter((e: Gear) =>
             e.name.toLowerCase().includes(this.searchText().toLowerCase())
         )
     );
 
     constructor(private dialogRef: DialogRef) {}
 
-    selected(item: Armor) {
+    selected(item: Gear) {
         this.dialogRef.close({ selection: item });
     }
 }

@@ -10,7 +10,7 @@ import {
     signal,
     untracked,
 } from '@angular/core';
-import { ArmorSkill } from '../../../models/armor-skill.model';
+import { GearSkill } from '../../../models/gear-skill.model';
 import { SkillService } from '../../../services/skill.service';
 
 @Component({
@@ -23,7 +23,7 @@ import { SkillService } from '../../../services/skill.service';
 export class SkillComponent {
     skillService = inject(SkillService);
 
-    armorSkill = input.required<ArmorSkill>({
+    armorSkill = input.required<GearSkill>({
         alias: 'skill',
     });
 

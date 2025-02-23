@@ -5,8 +5,8 @@ import {
     inject,
     input,
 } from '@angular/core';
-import { ArmorSkill } from '../../models/armor-skill.model';
-import { Armor } from '../../models/armor.model';
+import { GearSkill } from '../../models/gear-skill.model';
+import { Gear } from '../../models/gear.model';
 import { Loadout } from '../../models/loadout.model';
 import { EffectType } from '../../models/skill.model';
 import { StatKey, Stats } from '../../models/stats.model';
@@ -73,19 +73,19 @@ export class StatsComponent {
         return stats;
     }
 
-    private calculateSkills(): ArmorSkill[] {
+    private calculateSkills(): GearSkill[] {
         const data = Object.values(this.loadout())
             .filter((a) => a)
-            .map((a: Armor) => a?.skills)
+            .map((a: Gear) => a?.skills)
             .flat()
             .reduce(this.skillAccumulator, {});
 
         return Object.values(data).sort(
             (a: any, b: any) => b?.level - a?.level
-        ) as ArmorSkill[];
+        ) as GearSkill[];
     }
 
-    private skillAccumulator(acc: any, current: ArmorSkill) {
+    private skillAccumulator(acc: any, current: GearSkill) {
         if (!current) {
             return acc;
         }

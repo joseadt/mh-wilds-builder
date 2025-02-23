@@ -1,7 +1,15 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "definitions": {
-        "ArmorSkill": {
+        "DecorationSlot": {
+            "properties": {
+                "level": {
+                    "$ref": "#/definitions/SlotLevel"
+                }
+            },
+            "type": "object"
+        },
+        "GearSkill": {
             "properties": {
                 "level": {
                     "type": "number"
@@ -12,7 +20,7 @@
             },
             "type": "object"
         },
-        "ArmorType": {
+        "GearType": {
             "enum": [
                 "HEAD",
                 "CHEST",
@@ -21,14 +29,6 @@
                 "LEGS"
             ],
             "type": "string"
-        },
-        "DecorationSlot": {
-            "properties": {
-                "level": {
-                    "$ref": "#/definitions/SlotLevel"
-                }
-            },
-            "type": "object"
         },
         "SlotLevel": {
             "enum": [
@@ -84,7 +84,7 @@
         },
         "skills": {
             "items": {
-                "$ref": "#/definitions/ArmorSkill"
+                "$ref": "#/definitions/GearSkill"
             },
             "type": "array"
         },
@@ -98,7 +98,7 @@
             "$ref": "#/definitions/Stats"
         },
         "type": {
-            "$ref": "#/definitions/ArmorType"
+            "$ref": "#/definitions/GearType"
         }
     },
     "type": "object"

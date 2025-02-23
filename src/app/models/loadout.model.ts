@@ -1,10 +1,10 @@
-import { Armor } from './armor.model';
+import { Gear } from './gear.model';
 
 export interface Loadout {
-    weapon?: Armor;
-    head?: Armor;
-    chest?: Armor;
-    arms?: Armor;
-    waist?: Armor;
-    legs?: Armor;
+    weapon?: Gear;
+    head?: Gear;
+    chest?: Gear;
+    arms?: Gear;
+    waist?: Gear;
+    legs?: Gear;
 }

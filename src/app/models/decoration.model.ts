@@ -1,9 +1,9 @@
-import { ArmorSkill } from './armor-skill.model';
+import { GearSkill } from './gear-skill.model';
 
 export type SlotLevel = 1 | 2 | 3 | 4;
 
 export interface Decoration {
-    skills: ArmorSkill[];
+    skills: GearSkill[];
     slotLevel: SlotLevel;
     name: string;
     color: string;

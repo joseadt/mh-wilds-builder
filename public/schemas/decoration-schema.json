@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "definitions": {
-        "ArmorSkill": {
+        "GearSkill": {
             "properties": {
                 "level": {
                     "type": "number"
@@ -31,7 +31,7 @@
         },
         "skills": {
             "items": {
-                "$ref": "#/definitions/ArmorSkill"
+                "$ref": "#/definitions/GearSkill"
             },
             "type": "array"
         },

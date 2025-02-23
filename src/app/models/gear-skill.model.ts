@@ -1,4 +1,4 @@
-export interface ArmorSkill {
+export interface GearSkill {
     name: string;
     level: number;
 }

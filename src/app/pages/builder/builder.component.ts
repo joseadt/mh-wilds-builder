@@ -7,7 +7,7 @@ import {
 import { ArmorSelectorComponent } from '../../components/armor-selector/armor-selector.component';
 import { ContainerComponent } from '../../components/container/container.component';
 import { StatsComponent } from '../../components/stats/stats.component';
-import { Armor } from '../../models/armor.model';
+import { Gear } from '../../models/gear.model';
 import { Loadout } from '../../models/loadout.model';
 
 @Component({
@@ -18,19 +18,21 @@ import { Loadout } from '../../models/loadout.model';
     changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class BuilderComponent {
-    head = signal<Armor | null>(null);
-    chest = signal<Armor | null>(null);
-    waist = signal<Armor | null>(null);
-    arms = signal<Armor | null>(null);
-    legs = signal<Armor | null>(null);
+    weapon = signal<Gear | null>(null);
+    head = signal<Gear | null>(null);
+    chest = signal<Gear | null>(null);
+    waist = signal<Gear | null>(null);
+    arms = signal<Gear | null>(null);
+    legs = signal<Gear | null>(null);
 
     loadout = computed<Loadout>(() => {
         return {
-            head: this.head() as Armor,
-            chest: this.chest() as Armor,
-            waist: this.waist() as Armor,
-            arms: this.arms() as Armor,
-            legs: this.legs() as Armor,
+            weapon: this.weapon() as Gear,
+            head: this.head() as Gear,
+            chest: this.chest() as Gear,
+            waist: this.waist() as Gear,
+            arms: this.arms() as Gear,
+            legs: this.legs() as Gear,
         };
     });
 }
