@@ -1,3 +1,3 @@
 export const environment = {
-    baseUrl: '/data',
+    baseUrl: 'DATA_URL',
 };
