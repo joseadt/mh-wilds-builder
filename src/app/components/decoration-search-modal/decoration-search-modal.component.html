@@ -2,7 +2,7 @@
     <input type="text" name="search-text" class="search-box" [(ngModel)]="searchText">
 </div>
 
-<div class="flex column mt-2">
+<div class="flex column mt-2 decoration-container">
     @for(item of items(); track item.id ) {
     <app-container class="col" inline simple>
         <div class="item-container" (click)="selected(item)">

@@ -87,13 +87,13 @@ export class EquipmentService {
                 responseType: 'text',
             })
             .subscribe((result) => {
-                Papa.parse(result as string, {
+                Papa.parse<TsvWeapon>(result as string, {
                     delimiter: '\t',
                     header: true,
                     skipEmptyLines: true,
                     complete: (parsed) => {
                         this.weapons = parsed.data.map((row) =>
-                            this.tsvToWeapon(row as TsvWeapon, weaponType)
+                            this.tsvToWeapon(row, weaponType)
                         );
                         this.weaponMap.set(
                             weaponType,
