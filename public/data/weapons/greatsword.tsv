@@ -1,0 +1,76 @@
+id	name	slots	damage	element	affinity	skills
+0	Hope Blade I	ーーー	90
+1	Hope Blade II	ーーー	100			Speed Sharpening 1
+2	Hope Blade III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+3	Hope Blade IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+4	Hope Blade V	32ー	190			Speed Sharpening 2, Critical Eye 1
+5	Valkyrie Blade I	21ー	160	21, Poison	15	Critical Status 2, Poison Duration Up 1
+6	Valkyrie Blade II	32ー	190	27, Poison	15	Critical Status 3, Poison Duration Up 1
+7	Sieglinde	321	210	30, Poison	15	Critical Status 3, Poison Duration Up 1
+8	Chicken Decapitator I	21ー	180	45, Fire		Focus 1, Charge Master 1
+9	Chicken Decapitator II	21ー	210	55, Fire		Focus 2, Charge Master 2
+10	Rooster Decapitator	321	220	60, Fire		Focus 2, Charge Master 2
+11	Nihil Great Sword I	1ーー	160	20, Water		Critical Draw 2
+12	Nihil Great Sword II	211	190	26, Water		Critical Draw 2
+13	Prinvrilo's Dissolution	321	220	30, Water		Critical Draw 3
+14	Quematrice Espada I	ーーー	100	14, Fire	5	Punishing Draw 1
+15	Quematrice Espada II	ーーー	140	18, Fire	5	Punishing Draw 2
+16	Quematrice Espada III	21ー	170	23, Fire	5	Punishing Draw 2
+17	Quematrice Espada IV	32ー	210	27, Fire	5	Punishing Draw 3
+18	Firetrail Blaisdell	321	240	30, Fire	5	Punishing Draw 3
+19	Buster Sword I	ーーー	120			Critical Draw 1
+20	Buster Sword II	1ーー	160			Critical Draw 2
+21	Buster Sword III	21ー	190			Critical Draw 3
+22	Ravager Blade	321	220			Critical Draw 3
+23	Jin Dhavaar I	32ー	190	55, Ice		Focus 2
+24	Precipice Metallam	321	210	60, Ice		Focus 3
+25	Albirath Wing I	1ーー	160	28, Fire	15	Master's Touch 1, Critical Element 1
+26	Albirath Wing II	21ー	180	34, Fire	15	Master's Touch 1, Critical Element 1
+27	Whitefire Rathguard	321	210	40, Fire	15	Master's Touch 1, Critical Element 1
+28	Red Wing I	21ー	180	44, Fire	10	Critical Boost 3
+29	Rathalos Firesword	321	200	50, Fire	10	Critical Boost 3
+30	Immane Blade I	ーーー	120	21, Sleep	10	Offensive Guard 1, Guard 1
+31	Immane Blade II	21ー	150	31, Sleep	15	Offensive Guard 1, Guard 1
+32	Immane Blade III	32ー	180	37, Sleep	15	Offensive Guard 2, Guard 1
+33	Immolator Blade	321	200	40, Sleep	15	Offensive Guard 2, Guard 1
+34	Schattenstolz I	321	180	37, Dragon	20	Critical Element 2
+35	Düsterstolz	321	210	40, Dragon	20	Critical Element 3
+36	Bone Blade I	ーーー	110			Focus 1
+37	Bone Blade II	ーーー	130			Focus 1, Attack Boost 1
+38	Bone Blade III	1ーー	170			Focus 2, Attack Boost 1
+39	Bone Blade IV	21ー	200			Focus 3, Attack Boost 1
+40	Bone Slasher	321	230			Focus 3, Attack Boost 1
+41	Nu Krake I	1ーー	170	27, Fire	-15	Protective Polish 2, Speed Sharpening 1
+42	Nu Krake II	32ー	210	37, Fire	-15	Protective Polish 2, Speed Sharpening 2
+43	Abaddonian Krake	321	230	40, Fire	-15	Protective Polish 3, Speed Sharpening 2
+44	Slaughter I	21ー	180	41, Poison		Critical Draw 1, Punishing Draw 1
+45	Slaughter II	21ー	200	44, Poison		Critical Draw 2, Punishing Draw 1
+46	Poison King	321	230	50, Poison		Critical Draw 2, Punishing Draw 2
+47	Dosha Fellslayer I	ーーー	140		-10, 20 Def	Punishing Draw 1
+48	Dosha Fellslayer II	1ーー	180		-10, 20 Def	Punishing Draw 2
+49	Dosha Fellslayer III	21ー	210		-10, 20 Def	Punishing Draw 3
+50	Dosha Grimslayer I	11ー	180		-20	Focus 1
+51	Dosha Grimslayer II	211	220		-20	Focus 2
+52	Grimslayer Urgeom	331	250		-20	Focus 2
+53	Smiting Fulgur I	21ー	180	44, Thunder	15	Critical Element 2
+54	Fulgurcleaver Guardiana	321	210	50, Thunder	15	Critical Element 3
+55	G. Veldian Gladius I	11ー	170	20, Dragon	-10	Focus 2
+56	G. Veldian Gladius II	22ー	210	26, Dragon	-10	Focus 2
+57	G. Stalwart Lamorak	331	240	30, Dragon	-10	Focus 2
+58	Veldian Gladius I	32ー	200	47, Dragon		Focus 3
+59	Frozen Speartuna I	ーーー	150	50, Ice		Punishing Draw 3
+60	Frozen Speartuna II	2ーー	180	60, Ice		Punishing Draw 3, Slugger 1
+61	Freezer Speartuna	32ー	220	70, Ice		Punishing Draw 3, Slugger 2
+62	Paretic Blade I	ーーー	90	25, Paralysis		Speed Sharpening 1
+63	Paretic Blade II	ーーー	120	31, Paralysis		Speed Sharpening 2
+64	Paretic Blade III	211	150	41, Paralysis		Speed Sharpening 2
+65	Paretic Blade IV	321	180	47, Paralysis		Speed Sharpening 2
+66	Destructive Torpor	331	200	50, Paralysis		Speed Sharpening 2
+67	Artian Blade I	222	170	30	5
+68	Artian Blade II	222	180	30	5
+69	Varianza	333	190	45	5
+70	Esperanza Blade	321	210			Speed Sharpening 2, Critical Eye 2
+71	Fellslayer Dangeom	321	240		-10, 20 Def	Punishing Draw 3
+72	Stalwart Lamorak	321	220	50, Dragon		Focus 3
+73	Jawblade I	21ー	200			Focus 2, Protective Polish 2
+74	Giant Jawblade	321	240			Focus 2, Protective Polish 2

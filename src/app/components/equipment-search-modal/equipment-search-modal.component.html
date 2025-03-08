@@ -2,13 +2,27 @@
     <input type="text" name="search-text" class="search-box" [(ngModel)]="searchText">
 </div>
 
-<div class="flex column mt-2">
+@if(data.weapon) {
+
+<div class="flex row weapon-selector-row">
+    @for(item of (WeaponType | keyvalue); track $index) {
+    <app-container simple inline class="col" (click)="changeWeaponType(item.key)">
+        <img src="/images/{{item.key.toLowerCase()}}.png" class="weapon-icon-selector" [alt]="item.key.toLowerCase()">
+    </app-container>
+    }
+</div>
+
+}
+
+<div class="flex column mt-2 items-wrapper">
     @for(item of items(); track item.id ) {
-    <div class="col">
+
+    <app-container class="col" inline simple>
         <div class="item-container" (click)="selected(item)">
+            <img src="/images/{{itemIcon()}}.png" height="30px" class="mr-1">
             <td>{{item.name}}</td>
         </div>
-    </div>
+    </app-container>
     }
 </div>
 

@@ -15,6 +15,7 @@ export interface Gear {
 
 export interface Weapon extends Gear {
     weaponType: WeaponType;
+    element?: string;
 }
 
 export function isWeapon(value: any): value is Weapon {

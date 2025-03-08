@@ -1,0 +1,74 @@
+id	name	slots	damage	element	affinity	skills
+0	Hope Horn I	ーーー	90
+1	Hope Horn II	ーーー	100			Speed Sharpening 1
+2	Hope Horn III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+3	Hope Horn IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+4	Hope Horn V	32ー	190			Speed Sharpening 2, Critical Eye 1
+5	Bone Horn I	ーーー	110			Stamina Thief 1
+6	Bone Horn II	ーーー	130			Stamina Thief 1, Attack Boost 1
+7	Bone Horn III	1ーー	170			Stamina Thief 2, Attack Boost 1
+8	Bone Horn IV	21ー	190			Stamina Thief 3, Attack Boost 1
+9	Hardened Bone Horn	321	220			Stamina Thief 3, Attack Boost 1
+10	Metal Bagpipe I	ーーー	120			Critical Draw 1, Horn Maestro 1
+11	Metal Bagpipe II	1ーー	160			Critical Draw 2, Horn Maestro 1
+12	Metal Bagpipe III	21ー	180			Critical Draw 3, Horn Maestro 1
+13	Great Bagpipe	321	210			Critical Draw 3, Horn Maestro 1
+14	War Bongo I	ーーー	110		5	Horn Maestro 1
+15	War Bongo II	211	160		5	Horn Maestro 1, Speed Sharpening 1
+16	War Conga	331	210		5	Horn Maestro 2, Speed Sharpening 1
+17	Balahara Horn I	ーーー	110	16, Water	10	Slugger 1
+18	Balahara Horn II	1ーー	150	20, Water	10	Slugger 2
+19	Balahara Horn III	21ー	160	23, Water	10	Slugger 2
+20	Balahara Horn IV	32ー	190	27, Water	10	Slugger 3
+21	Sandsea Ghantisil	321	210	30, Water	10	Slugger 3
+22	Dosha Farsounder I	ーーー	140		-5, 20 Def	Slugger 1
+23	Dosha Farsounder II	1ーー	180		-5, 20 Def	Slugger 1, Horn Maestro 1
+24	Dosha Farsounder III	21ー	210		-5, 20 Def	Slugger 2, Horn Maestro 1
+25	Rey Perun I	ーーー	140	18, Thunder		Stamina Thief 2, Horn Maestro 1
+26	Rey Perun II	21ー	170	23, Thunder		Stamina Thief 2, Horn Maestro 1
+27	Rey Perun III	32ー	200	27, Thunder		Stamina Thief 3, Horn Maestro 1
+28	Perun Clairhorn	321	220	30, Thunder		Stamina Thief 3, Horn Maestro 1
+29	Ajara Reverberator I	ーーー	130	14, Nitro	10	Slugger 2
+30	Ajara Reverberator II	21ー	180	19, Nitro	10	Slugger 3
+31	Ajara-Jivaka	321	210	25, Nitro	10	Slugger 3
+32	Dosha Grudgesounder I	1ーー	180		-15	Stamina Thief 2, Horn Maestro 1
+33	Dosha Grudgesounder II	21ー	220		-15	Stamina Thief 3, Horn Maestro 1
+34	Grudgesounder Urga	321	250		-15	Stamina Thief 3, Horn Maestro 1
+35	Albirath Feroce I	1ーー	160	21, Fire	15	Master's Touch 1, Critical Element 1
+36	Albirath Feroce II	21ー	170	26, Fire	15	Master's Touch 1, Critical Element 1
+37	G. Rathalos Feroce	321	200	30, Fire	15	Master's Touch 1, Critical Element 1
+38	Jin Dhaang I	32ー	190	47, Ice		Slugger 3
+39	Precipice Kovira	321	210	50, Ice		Slugger 3
+40	Nihil Chord I	1ーー	160	16, Water		Stamina Thief 2, Horn Maestro 1
+41	Nihil Chord II	21ー	190	21, Water		Stamina Thief 3, Horn Maestro 1
+42	Kae-Jin's Lament	321	220	25, Water		Stamina Thief 3, Horn Maestro 1
+43	G. Veldian Sibilus I	11ー	170	16, Dragon	-10	Horn Maestro 2
+44	G. Veldian Sibilus II	22ー	200	21, Dragon	-10	Horn Maestro 2
+45	G. Resounding Galahad	331	230	25, Dragon	-10	Horn Maestro 2
+46	Kut-Ku's Song I	21ー	190	41, Fire		Stamina Thief 2, Horn Maestro 1
+47	Kut-Ku's Song II	32ー	220	47, Fire		Stamina Thief 3, Horn Maestro 1
+48	Kut-Ku Cantabile	321	230	50, Fire		Stamina Thief 3, Horn Maestro 1
+49	Poisoned Capri I	21ー	180	31, Poison		Critical Draw 2, Horn Maestro 1
+50	Poisoned Capri II	21ー	200	34, Poison		Critical Draw 3, Horn Maestro 1
+51	Crazed Melody	321	230	40, Poison		Critical Draw 3, Horn Maestro 1
+52	Valkyrie Chordmaker I	21ー	150	19, Poison	15	Critical Status 2, Poison Duration Up 1
+53	Valkyrie Chordmaker II	32ー	180	22, Poison	15	Critical Status 3, Poison Duration Up 1
+54	Queen Chordmaker	321	200	25, Poison	15	Critical Status 3, Poison Duration Up 1
+55	Deafening Fulgur I	21ー	180	34, Thunder	15	Critical Element 3
+56	Fulgurhowl Guardiana	321	210	40, Thunder	15	Critical Element 3
+57	Flame Feroce I	21ー	180	34, Fire	10	Critical Boost 3
+58	Rathalos Feroce	321	200	40, Fire	10	Critical Boost 3
+59	Kummerklang I	32ー	170	27, Dragon	20	Critical Element 3
+60	Gramklang	321	200	30, Dragon	20	Critical Element 3
+61	Veldian Sibilus I	32ー	190	37, Dragon		Slugger 2, Horn Maestro 2
+62	Sonic Horn I	ーーー	90	15, Paralysis		Protective Polish 1
+63	Sonic Horn II	ーーー	120	21, Paralysis		Protective Polish 2, Speed Sharpening 1
+64	Sonic Horn III	21ー	150	31, Paralysis		Protective Polish 2, Speed Sharpening 1
+65	Sonic Horn IV	32ー	180	37, Paralysis		Protective Polish 3, Speed Sharpening 1
+66	Glass Royale	321	200	40, Paralysis		Protective Polish 3, Speed Sharpening 2
+67	Artian Sounder I	222	170	27	5
+68	Artian Sounder II	222	180	27	5
+69	Omiltika	333	190	32	5
+70	Esperanza Horn	321	210			Speed Sharpening 2, Critical Eye 2
+71	Farsounder Honga	321	240		-5, 20 Def	Slugger 2, Horn Maestro 1
+72	Resounding Galahad	321	210	40, Dragon		Slugger 2, Horn Maestro 2

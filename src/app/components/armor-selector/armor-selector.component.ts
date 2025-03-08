@@ -69,7 +69,6 @@ export class ArmorSelectorComponent {
 
     computeIconUrl() {
         const selected = this.selectedAmor();
-        console.log(selected);
         if (isWeapon(selected)) {
             return `/images/${selected.weaponType.toLowerCase()}.png`;
         }
@@ -85,6 +84,8 @@ export class ArmorSelectorComponent {
         const dialogRef = this.dialog.open(EquipmentSearchModalComponent, {
             data: {
                 equipment: this.equipmentService.get(this.type()),
+                weapon: this.type() === GearType.WEAPON,
+                gearType: this.type(),
             },
         });
 
@@ -109,7 +110,6 @@ export class ArmorSelectorComponent {
         dialogRef.closed.subscribe((result: any) => {
             if (result?.selection) {
                 this.slots.update((currentValue) => {
-                    console.log(currentValue);
                     const slots = [...currentValue!];
                     slots[slotIndex] = result?.selection;
                     return slots;

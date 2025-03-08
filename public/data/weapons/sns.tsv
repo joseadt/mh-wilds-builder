@@ -1,0 +1,79 @@
+id	name	slots	damage	element	affinity	skills
+0	Hope Sword I	ーーー	90
+1	Hope Sword II	ーーー	100			Speed Sharpening 1
+2	Hope Sword III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+3	Hope Sword IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+4	Hope Sword V	32ー	190			Speed Sharpening 2, Critical Eye 1
+5	Rey Kuara I	ーーー	140	12, Thunder		Guard 1, Offensive Guard 1
+6	Rey Kuara II	21ー	170	15, Thunder		Guard 1, Offensive Guard 1
+7	Rey Kuara III	32ー	200	17, Thunder		Guard 2, Offensive Guard 1
+8	Kuara Clairsword	321	220	20, Thunder		Guard 2, Offensive Guard 1
+9	Sucher-Ankh I	32ー	180	16, Dragon	20	Critical Element 3
+10	Jäger-Ankh	321	210	20, Dragon	20	Critical Element 3
+11	Barina Dague I	ーーー	100	10, Paralysis	10	Critical Draw 1
+12	Barina Dague II	ーーー	120	12, Paralysis	10	Critical Draw 1, Critical Status 1
+13	Barina Dague III	21ー	150	15, Paralysis	15	Critical Draw 1, Critical Status 1
+14	Barina Dague IV	32ー	180	17, Paralysis	15	Critical Draw 2, Critical Status 1
+15	Lala Acanthopelm	321	200	20, Paralysis	15	Critical Draw 2, Critical Status 1
+16	Quematrice Cuchillo I	ーーー	100	10, Fire	5	Offensive Guard 1
+17	Quematrice Cuchillo II	ーーー	140	12, Fire	5	Offensive Guard 2
+18	Quematrice Cuchillo III	21ー	170	14, Fire	5	Offensive Guard 2
+19	Quematrice Cuchillo IV	32ー	210	16, Fire	5	Offensive Guard 3
+20	Firetrail Fornax	321	240	18, Fire	5	Offensive Guard 3
+21	Gravios Syphos I	22ー	210	19, Nitro	-15, 30 Def	Guard Up 3
+22	Titan's Armament	331	240	25, Nitro	-15, 30 Def	Guard Up 3
+23	Iron Beater I	ーーー	120			Guard 1
+24	Iron Beater II	1ーー	160			Guard 2
+25	Iron Beater III	21ー	190			Guard 3
+26	Smithy's Pride	321	220			Guard 3
+27	Jin Dhaklab I	32ー	190	32, Ice		Guard 3
+28	Precipice Mateptro	321	210	35, Ice		Guard 3
+29	Albirath Edge I	1ーー	160	12, Fire	15	Master's Touch 1, Critical Element 1
+30	Albirath Edge II	21ー	180	17, Fire	15	Master's Touch 1, Critical Element 1
+31	Melting Point	321	210	20, Fire	15	Master's Touch 1, Critical Element 1
+32	Heat Edge I	21ー	180	21, Fire	10	Critical Boost 3
+33	Corona	321	200	25, Fire	10	Critical Boost 3
+34	Princess Rapier I	21ー	160	12, Poison	15	Critical Status 2, Poison Duration Up 1
+35	Princess Rapier II	32ー	190	15, Poison	15	Critical Status 3, Poison Duration Up 1
+36	Queen Rapier	321	210	18, Poison	15	Critical Status 3, Poison Duration Up 1
+37	Scaly Sword I	ーーー	120	12, Sleep	10	Guard 2
+38	Scaly Sword II	21ー	150	15, Sleep	15	Guard 2
+39	Scaly Sword III	32ー	180	17, Sleep	15	Guard 3
+40	Nerskiller	321	200	20, Sleep	15	Guard 3
+41	Balahara Blade I	ーーー	110	10, Water	10	Offensive Guard 1
+42	Balahara Blade II	1ーー	150	12, Water	10	Offensive Guard 2
+43	Balahara Blade III	21ー	160	15, Water	10	Offensive Guard 2
+44	Balahara Blade IV	32ー	190	17, Water	10	Offensive Guard 3
+45	Sandsea Katduva	321	210	20, Water	10	Offensive Guard 3
+46	Bone Kukri I	ーーー	110			Stamina Thief 1
+47	Bone Kukri II	ーーー	130			Stamina Thief 1, Attack Boost 1
+48	Bone Kukri III	1ーー	170			Stamina Thief 2, Attack Boost 1
+49	Bone Kukri IV	21ー	200			Stamina Thief 3, Attack Boost 1
+50	Chief Kukri	321	230			Stamina Thief 3, Attack Boost 1
+51	Rending Fulgur I	21ー	180	21, Thunder	15	Critical Element 3
+52	Fulgursword Guardiana	321	210	25, Thunder	15	Critical Element 3
+53	Venom's Pain I	21ー	180	16, Poison		Punishing Draw 2, Critical Draw 1
+54	Venom's Pain II	21ー	200	19, Poison		Punishing Draw 2, Critical Draw 2
+55	Viperine Saber	331	230	25, Poison		Punishing Draw 3, Critical Draw 2
+56	Ajara Saber I	ーーー	130	12, Nitro	10	Offensive Guard 2
+57	Ajara Saber II	21ー	180	15, Nitro	10	Offensive Guard 3
+58	Ajara-Subinda	321	210	18, Nitro	10	Offensive Guard 3
+59	Snow-white Jambiya I	21ー	200	14, Ice	-10	Critical Draw 2, Offensive Guard 1
+60	Snow Lion Jambiya	321	230	18, Ice	-10	Critical Draw 2, Offensive Guard 1
+61	Chata Club I	ーーー	110		, 15 Def	Guard 1
+62	Chata Club II	ーーー	150		, 15 Def	Guard 2
+63	Chata Club III	21ー	180		, 15 Def	Guard 2
+64	Chata Club IV	32ー	210		, 15 Def	Guard 2, Guard Up 1
+65	Nihil Sword I	1ーー	160	12, Water		Guard 2
+66	Nihil Sword II	21ー	190	15, Water		Guard 3
+67	Cordayle's Revocation	321	220	18, Water		Guard 3
+68	G. Veldian Mucro I	11ー	170	12, Dragon	-10	Guard 2
+69	G. Veldian Mucro II	22ー	210	15, Dragon	-10	Guard 2
+70	G. Guiding Artorius	331	240	18, Dragon	-10	Guard 2
+71	Veldian Mucro I	32ー	200	22, Dragon		Guard 3
+72	Artian Sword I	222	170	23	5
+73	Artian Sword II	222	180	23	5
+74	Verdoloto	333	190	26	5
+75	Esperanza Sword	321	210			Speed Sharpening 2, Critical Eye 2
+76	Shrouded Katalo	321	230		, 15 Def	Guard 3, Guard Up 1
+77	Guiding Artorius	321	220	25, Dragon		Guard 3

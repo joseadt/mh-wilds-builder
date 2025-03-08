@@ -46,15 +46,17 @@ export class StatsComponent {
             thunderResist: 0,
             iceResist: 0,
             dragonResist: 0,
+            elementDamage: 0,
         };
 
         for (const item of Object.values(this.loadout())) {
             for (const stat in stats) {
                 const key = stat as StatKey;
-                stats[key]! += item?.stats[key] || 0;
+                if (!isNaN(item?.stats[key])) {
+                    stats[key]! += item?.stats[key];
+                }
             }
         }
-
         return stats;
     }
 

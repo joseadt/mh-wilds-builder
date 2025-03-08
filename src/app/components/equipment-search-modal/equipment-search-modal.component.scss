@@ -2,10 +2,31 @@
 @use "functions" as fn;
 
 
+.items-wrapper {
+    max-height: 500px;
+    overflow: scroll;
+}
+
+.weapon-selector-row {
+
+    app-container  {
+        cursor: pointer;
+    }
+    .col {
+        padding: 0.23rem;
+    }
+    .weapon-icon-selector {
+        height: 20px;
+    }
+}
+
+
+
 .item-container {
-    background: fn.gradient-bg(0.7);
-    color: variables.$container-text-color;
-    border: 2px solid rgba(variables.$container-bg-color, 1);
-    padding: 1rem;
+    display: flex;
+    align-items: center;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+
     cursor: pointer;
 }

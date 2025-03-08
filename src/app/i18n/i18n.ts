@@ -8,4 +8,5 @@ export const STATS_I18N = {
     thunderResist: $localize`Thunder resistance`,
     iceResist: $localize`Ice resistance`,
     dragonResist: $localize`Dragon resistance`,
+    elementDamage: $localize`Element`,
 };

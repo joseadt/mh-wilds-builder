@@ -1,0 +1,75 @@
+id	name	slots	damage	element	affinity	skills
+0	Hope Bow I	ーーー	90
+1	Hope Bow II	ーーー	100			Ballistics 1
+2	Hope Bow III	ーーー	130			Ballistics 1, Critical Eye 1
+3	Hope Bow IV	21ー	160			Ballistics 2, Critical Eye 1
+4	Hope Bow V	32ー	190			Ballistics 3, Critical Eye 1
+5	Nihil Bow I	1ーー	160	11, Water		Focus 2
+6	Nihil Bow II	21ー	190	13, Water		Focus 3
+7	Bookwilthe's Punisher	321	230	15, Water		Focus 3
+8	Rey Perkonis I	ーーー	140	9, Thunder		Focus 1, Special Ammo Boost 1
+9	Rey Perkonis II	21ー	170	11, Thunder		Focus 1, Special Ammo Boost 1
+10	Rey Perkonis III	32ー	200	13, Thunder		Focus 2, Special Ammo Boost 1
+11	Perkonis Clairbow	321	220	15, Thunder		Focus 2, Special Ammo Boost 1
+12	Windbrace Bow I	ーーー	140	9, Ice		Focus 2, Airborne 1
+13	Windbrace Bow II	21ー	170	11, Ice		Focus 2, Airborne 1
+14	Windbrace Bow III	32ー	200	13, Ice		Focus 3, Airborne 1
+15	Windbrace Ibami	321	220	15, Ice		Focus 3, Airborne 1
+16	Quematrice Arco I	ーーー	100	7, Fire	5	Focus 1
+17	Quematrice Arco II	ーーー	140	9, Fire	5	Focus 2
+18	Quematrice Arco III	21ー	170	11, Fire	5	Focus 2
+19	Quematrice Arco IV	32ー	210	13, Fire	5	Focus 3
+20	Firetrail Leviora	321	220	15, Fire	5	Focus 3
+21	Dragon Perforator I	ーーー	120			Tetrad Shot 1
+22	Dragon Perforator II	1ーー	160			Tetrad Shot 2
+23	Dragon Perforator III	21ー	190			Tetrad Shot 3
+24	True Dragon Perforator	321	220			Tetrad Shot 3
+25	Albirath Bow I	1ーー	160	11, Fire	15	Critical Element 1, Ballistics 1
+26	Albirath Bow II	21ー	180	13, Fire	15	Critical Element 2, Ballistics 1
+27	Solar Spicule	321	210	15, Fire	15	Critical Element 2, Ballistics 1
+28	Prominence Bow I	21ー	180	16, Fire	10	Critical Boost 3
+29	Dark Filament	321	200	20, Fire	10	Critical Boost 3
+30	Queen Blaster I	21ー	160	11, Fire	15	Tetrad Shot 2, Poison Duration Up 1
+31	Queen Blaster II	32ー	190	13, Fire	15	Tetrad Shot 3, Poison Duration Up 1
+32	Queen's Melody	321	210	15, Fire	15	Tetrad Shot 3, Poison Duration Up 1
+33	Scylla Fist I	ーーー	120		20	Charge Master 1, Focus 1
+34	Scylla Fist II	21ー	150		20	Charge Master 1, Focus 1
+35	Scylla Fist III	32ー	180		20	Charge Master 2, Focus 1
+36	Nershock	321	210		20	Charge Master 2, Focus 1
+37	Dosha Fearbringer I	ーーー	140		-5, 20 Def	Stamina Thief 1
+38	Dosha Fearbringer II	11ー	180		-5, 20 Def	Stamina Thief 2
+39	Dosha Fearbringer III	22ー	210		-5, 20 Def	Stamina Thief 3
+40	Dosha Griefbringer I	1ーー	180		-15	Ballistics 1, Special Ammo Boost 1
+41	Dosha Griefbringer II	22ー	220		-15	Ballistics 2, Special Ammo Boost 1
+42	Griefbringer Urstox	331	250		-15	Ballistics 2, Special Ammo Boost 1
+43	Hunter's Bow I	ーーー	110			Focus 1
+44	Hunter's Bow II	ーーー	130			Focus 1, Attack Boost 1
+45	Hunter's Bow III	1ーー	170			Focus 2, Attack Boost 1
+46	Hunter's Bow IV	21ー	200			Focus 3, Attack Boost 1
+47	Hunter's Stoutbow	321	230			Focus 3, Attack Boost 1
+48	Blinding Fulgur I	21ー	180	16, Thunder	15	Critical Element 3
+49	Fulgurbow Guardiana	321	200	20, Thunder	15	Critical Element 3
+50	Uth Khviluk I	ーーー	160	10, Water	-20	Tetrad Shot 2
+51	Uth Khviluk II	21ー	190	14, Water	-20	Tetrad Shot 2
+52	Uth Khviluk III	32ー	220	17, Water	-20	Tetrad Shot 3
+53	Khviluk-of-the-Waves	321	240	20, Water	-20	Tetrad Shot 3
+54	Entbehrung I	32ー	180	12, Dragon	20	Critical Element 3
+55	Verzweiflung	321	210	15, Dragon	20	Critical Element 3
+56	Wild Power Bow I	ーーー	120		5	Special Ammo Boost 1
+57	Wild Power Bow II	21ー	170		5	Special Ammo Boost 1, Charge Master 1
+58	Wildwood Kalifa	331	220		5	Special Ammo Boost 2, Charge Master 1
+59	Blan Sharanga I	21ー	200	11, Ice	-10	Tetrad Shot 3
+60	Singha Sharanga	321	230	15, Ice	-10	Tetrad Shot 3
+61	Kut-Ku Stave I	21ー	170	23, Fire		Charge Master 2
+62	Kut-Ku Stave II	32ー	190	27, Fire		Charge Master 3
+63	Strange Kut-Ku Stave	321	200	30, Fire		Charge Master 3
+64	G. Veldian Arcum I	11ー	170	9, Dragon	-10	Focus 2
+65	G. Veldian Arcum II	22ー	210	12, Dragon	-10	Focus 2
+66	G. Renowned Tristram	331	240	15, Dragon	-10	Focus 2
+67	Veldian Arcum I	32ー	200	16, Dragon		Focus 3
+68	Artian Sight I	222	170	18	5
+69	Artian Sight II	222	180	18	5
+70	Angelbein	333	190	21	5
+71	Esperanza Bow	321	220			Ballistics 3, Critical Eye 1
+72	Fearbringer Callistox	331	240		-5, 20 Def	Stamina Thief 3
+73	Renowned Tristram	321	220	20, Dragon		Focus 3

@@ -1,0 +1,74 @@
+id	name	slots	damage	element	affinity	skills
+0	Hope Glaive I	ーーー	90
+1	Hope Glaive II	ーーー	100			Speed Sharpening 1
+2	Hope Glaive III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+3	Hope Glaive IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+4	Hope Glaive V	32ー	190			Speed Sharpening 2, Critical Eye 1
+5	Bone Staff I	ーーー	110			Focus 1
+6	Bone Staff II	ーーー	130			Focus 1, Attack Boost 1
+7	Bone Staff III	1ーー	170			Focus 2, Attack Boost 1
+8	Bone Staff IV	21ー	200			Focus 3, Attack Boost 1
+9	Aerial Glaive	321	230			Focus 3, Attack Boost 1
+10	Iron Gale I	ーーー	120			Critical Draw 1
+11	Iron Gale II	11ー	160			Critical Draw 2
+12	Iron Gale III	22ー	190			Critical Draw 2
+13	Chrome Gale	331	220			Critical Draw 3
+14	Chata Glaive I	ーーー	110		, 15 Def	Power Prolonger 1
+15	Chata Glaive II	ーーー	150		, 15 Def	Power Prolonger 2
+16	Chata Glaive III	21ー	180		, 15 Def	Power Prolonger 2
+17	Chata Glaive IV	32ー	210		, 15 Def	Power Prolonger 3
+18	Barina Perche I	ーーー	100	10, Paralysis	10	Critical Draw 1
+19	Barina Perche II	ーーー	120	12, Paralysis	10	Critical Draw 1, Critical Status 1
+20	Barina Perche III	21ー	150	15, Paralysis	15	Critical Draw 1, Critical Status 1
+21	Barina Perche IV	32ー	180	17, Paralysis	15	Critical Draw 2, Critical Status 1
+22	Lala Stromatopelm	321	200	20, Paralysis	15	Critical Draw 2, Critical Status 1
+23	Balahara Glaive I	ーーー	110	10, Water	10	Power Prolonger 1
+24	Balahara Glaive II	1ーー	150	12, Water	10	Power Prolonger 2
+25	Balahara Glaive III	21ー	160	15, Water	10	Power Prolonger 2
+26	Balahara Glaive IV	32ー	190	17, Water	10	Power Prolonger 3
+27	Sandsea Uchaltiya	321	210	20, Water	10	Power Prolonger 3
+28	Rey Halilintar I	ーーー	140	12, Thunder		Focus 1, Charge Master 1
+29	Rey Halilintar II	21ー	170	15, Thunder		Focus 1, Charge Master 1
+30	Rey Halilintar III	32ー	200	17, Thunder		Focus 2, Charge Master 1
+31	Halilintar Clairglaive	321	220	20, Thunder		Focus 2, Charge Master 1
+32	Stealth Glaive I	ーーー	120	12, Sleep	10	Charge Master 1, Focus 1
+33	Stealth Glaive II	21ー	150	15, Sleep	15	Charge Master 1, Focus 1
+34	Stealth Glaive III	32ー	180	17, Sleep	15	Charge Master 2, Focus 1
+35	Stealth Glaive Redux	321	200	20, Sleep	15	Charge Master 2, Focus 1
+36	Ajara Trident I	ーーー	130	12, Nitro	10	Power Prolonger 2
+37	Ajara Trident II	21ー	180	15, Nitro	10	Power Prolonger 3
+38	Ajara-Bhadra	321	210	18, Nitro	10	Power Prolonger 3
+39	Guardian Rathmaul I	1ーー	160	12, Fire	15	Master's Touch 1, Critical Element 1
+40	Guardian Rathmaul II	21ー	180	17, Fire	15	Master's Touch 1, Critical Element 1
+41	Alabaster Rathmaul	321	210	20, Fire	15	Master's Touch 1, Critical Element 1
+42	Jin Dhachhad	32ー	190	32, Ice		Power Prolonger 3
+43	Precipice Geumgel	321	210	35, Ice		Power Prolonger 3
+44	Chthonian Vajra I	1ーー	140	16, Dragon	10	Focus 2
+45	Chthonian Vajra II	21ー	170	21, Dragon	10	Focus 3
+46	Bequeathed Testament	321	210	25, Dragon	10	Focus 3
+47	G. Veldian Trudis I	11ー	170	12, Dragon	-10	Power Prolonger 2
+48	G. Veldian Trudis II	22ー	210	15, Dragon	-10	Power Prolonger 2
+49	G. Enduring Tor	331	240	18, Dragon	-10	Power Prolonger 2
+50	Kut-Ku Pike I	21ー	180	26, Fire		Power Prolonger 2
+51	Kut-Ku Pike II	32ー	210	32, Fire		Power Prolonger 3
+52	Toucan Pike	321	220	35, Fire		Power Prolonger 3
+53	Princess Regalia I	21ー	160	12, Poison	15	Critical Status 2, Poison Duration Up 1
+54	Princess Regalia II	32ー	190	15, Poison	15	Critical Status 3, Poison Duration Up 1
+55	Queen Regalia	321	210	18, Poison	15	Critical Status 3, Poison Duration Up 1
+56	Rising Fulgur I	21ー	180	21, Thunder	15	Critical Element 3
+57	Fulgurglaive Guardiana	321	210	25, Thunder	15	Critical Element 3
+58	Blizzard Glaive I	21ー	200	14, Ice	-10	Focus 3
+59	Immaculate Blizzard	321	230	18, Ice	-10	Focus 3
+60	Graviafaren I	22ー	220	19, Nitro	-15, 30 Def	Punishing Draw 3
+61	Gravordius	331	250	25, Nitro	-15, 30 Def	Punishing Draw 3
+62	Rathmaul I	21ー	180	21, Fire	10	Critical Boost 3
+63	Firedance Rathmaul	321	200	25, Fire	10	Critical Boost 3
+64	Leumundslist	32ー	180	16, Dragon	20	Critical Element 3
+65	Leumundsgift	321	200	20, Dragon	20	Critical Element 3
+66	Veldian Trudis I	32ー	200	22, Dragon		Power Prolonger 3
+67	Artian Glaive I	222	170	22	5
+68	Artian Glaive II	222	180	22	5
+69	Diprielcha	333	190	26	5
+70	Esperanza Glaive	321	210			Speed Sharpening 2, Critical Eye 2
+71	Shrouded Laphoka	321	230		, 15 Def	Power Prolonger 3
+72	Enduring Tor	321	220	25, Dragon		Power Prolonger 3

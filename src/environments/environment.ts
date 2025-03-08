@@ -1,3 +1,5 @@
 export const environment = {
-    baseUrl: 'DATA_URL',
+    baseUrl: '/data/',
+    weaponBaseUrl: '/data/weapons/',
+    tsv: true,
 };
