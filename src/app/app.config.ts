@@ -19,7 +19,7 @@ export const appConfig: ApplicationConfig = {
         provideHttpClient(),
         provideAppInitializer(() => {
             const equipmentService = inject(EquipmentService);
-            equipmentService.loadArmor();
+            equipmentService.loadEquipment();
             equipmentService.loadWeapons();
             inject(SkillService).loadSkills();
             inject(DecorationService).loadDecorations();

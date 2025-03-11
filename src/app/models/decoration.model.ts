@@ -7,6 +7,7 @@ export function isSlotLevel(value: any): value is SlotLevel {
 }
 
 export interface Decoration {
+    id: number;
     skills: GearSkill[];
     slotLevel: SlotLevel;
     name: string;

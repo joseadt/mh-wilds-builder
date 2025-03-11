@@ -39,7 +39,7 @@ export class ArmorSelectorComponent {
 
     slots = linkedSignal(() =>
         this.selectedAmor()
-            ?.slots?.sort((s1, s2) => s1.level - s2.level)
+            ?.slots?.sort((s1, s2) => s2.level - s1.level)
             ?.map((s) => ({ slotLevel: s.level } as Partial<Decoration>))
     );
 

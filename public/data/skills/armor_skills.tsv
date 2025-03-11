@@ -1,0 +1,227 @@
+﻿name	description	level	effect
+Outdoorsman	Improves fishing, grilling, and transporting abilities.	1	Improves fishing, grilling, and transporting abilities.
+Entomologist	The bodies of small insect monsters won't be destroyed, allowing them to be carved.	1	Activates skill effect.
+Geologist	Increases the number of items you gain at gathering points.	1	One extra item when gathering from bonepiles.
+Geologist	Increases the number of items you gain at gathering points.	2	Additionally adds one extra item when gathering special items.
+Geologist	Increases the number of items you gain at gathering points.	3	Additionally adds one extra item when gathering from mining outcrops.
+Botanist	Increases the quantity of herbs and other consumable items you gather.		One extra consumable herb item per gather.
+Botanist	Increases the quantity of herbs and other consumable items you gather.	2	Additionally adds one extra consumable fruit, nut, or seed item per gather.
+Botanist	Increases the quantity of herbs and other consumable items you gather.	3	Additionally adds one extra consumable insect item per gather.
+Botanist	Increases the quantity of herbs and other consumable items you gather.	4	Additionally adds one extra consumable mushroom item per gather.
+Blindsider	Improves the effectiveness of flash attacks and items.	1	Improves the effectiveness of flash attacks and items.
+Free Meal	Gives you a predetermined chance of consuming a food or drink item for free.	1	Activates 10% of the time.
+Free Meal	Gives you a predetermined chance of consuming a food or drink item for free.	2	Activates 25% of the time.
+Free Meal	Gives you a predetermined chance of consuming a food or drink item for free.	3	Activates 45% of the time.
+Item Prolonger	Extends the duration of some item effects.	1	Item effect duration +10%
+Item Prolonger	Extends the duration of some item effects.	2	Item effect duration +25%
+Item Prolonger	Extends the duration of some item effects.	3	Item effect duration +50%
+Mushroomancer	Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.	1	Lets you digest blue mushrooms and toadstools.
+Mushroomancer	Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.	2	Additionally lets you digest nitroshrooms and parashrooms.
+Mushroomancer	Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.	3	Additionally lets you digest mandragoras, devil's blight, and exciteshrooms.
+Bombardier	Increases the damage of explosive items.	1	Explosive power +10%
+Bombardier	Increases the damage of explosive items.	2	Explosive power +20%
+Bombardier	Increases the damage of explosive items.	3	Explosive power +30%
+Tool Specialist	Reduces the recharge time for specialized tools.	1	Shortens recharge time by 10%.
+Tool Specialist	Reduces the recharge time for specialized tools.	2	Shortens recharge time by 20%.
+Tool Specialist	Reduces the recharge time for specialized tools.	3	Shortens recharge time by 30%.
+Tool Specialist	Reduces the recharge time for specialized tools.	4	Shortens recharge time by 40%.
+Tool Specialist	Reduces the recharge time for specialized tools.	5	Shortens recharge time by 50%.
+Wide-Range	Allows the effects of certain items to also affect nearby allies.	1	Items affect nearby allies with 33% of their efficacy.
+Wide-Range	Allows the effects of certain items to also affect nearby allies.	2	Items affect nearby allies in a wider radius with 33% of their efficacy.
+Wide-Range	Allows the effects of certain items to also affect nearby allies.	3	Items affect nearby allies in a wider radius with 66% of their efficacy.
+Wide-Range	Allows the effects of certain items to also affect nearby allies.	4	Items affect nearby allies in a much wider radius with 66% of their efficacy.
+Wide-Range	Allows the effects of certain items to also affect nearby allies.	5	Items affect nearby allies in a much wider radius with full efficacy.
+Cliffhanger	Decreases stamina depletion when climbing on vines.	1	Reduces stamina depletion while climbing by 50%.
+Jump Master	Prevents attacks from knocking you back during a jump.	1	Negates knockback during jumps.
+Leap of Faith	Allows you to do a dive-evade when facing towards large monsters and extends the dive-evade distance.	1	Enables skill use.
+Shock Absorber	Disables damage reactions when you hit a friend or when a friend hits you.	1	Activates skill effect.
+Aquatic/Oilsilt Mobility	Grants resistance against impairments to mobility while in water, oilsilt, or streams.	1	Negates the effects of muddy streams, and prevents you from being slowed down in water or oilsilt.
+Aquatic/Oilsilt Mobility	Grants resistance against impairments to mobility while in water, oilsilt, or streams.	2	Also negates the effects of waves.
+Speed Eating	Increases meat-eating and item-consumption speed.	1	Moderately increases eating speed.
+Speed Eating	Increases meat-eating and item-consumption speed.	2	Increases eating speed.
+Speed Eating	Increases meat-eating and item-consumption speed.	3	Greatly increases eating speed.
+Intimidator	Reduces the chance small monsters will attack after spotting you. (Has no effect on certain monsters.)	1	Discourages monsters from engaging you even if you've been spotted.
+Intimidator	Reduces the chance small monsters will attack after spotting you. (Has no effect on certain monsters.)	2	Highly discourages monsters from engaging you even if you've been spotted.
+Intimidator	Reduces the chance small monsters will attack after spotting you. (Has no effect on certain monsters.)	3	Prevents monsters from engaging you even if you've been spotted.
+Flinch Free	Prevents knockbacks and other reactions to small damage.	1	Prevents knockbacks.
+Flinch Free	Prevents knockbacks and other reactions to small damage.	2	Prevents knockbacks. Tripping is reduced to a knockback instead.
+Flinch Free	Prevents knockbacks and other reactions to small damage.	3	Prevents knockbacks and tripping.
+Tremor Resistance	Grants protection against ground tremors.	1	Nullifies very minor ground tremors and halves effects of minor ground tremors.
+Tremor Resistance	Grants protection against ground tremors.	2	Nullifies up to minor ground tremors and greatly reduces the effects of major ground tremors.
+Tremor Resistance	Grants protection against ground tremors.	3	Nullifies all ground tremors.
+Windproof	Grants protection against wind pressure.	1	Negates minor wind pressure and halves the effects of major wind pressure.
+Windproof	Grants protection against wind pressure.	2	Negates minor and major wind pressure and halves the effects of dragon wind pressure.
+Windproof	Grants protection against wind pressure.	3	Negates all kinds of wind pressure.
+Quick Sheathe	Speeds up weapon sheathing.	1	Slightly increases sheathing speed.
+Quick Sheathe	Speeds up weapon sheathing.	2	Increases sheathing speed.
+Quick Sheathe	Speeds up weapon sheathing.	3	Greatly increases sheathing speed.
+Earplugs	Grants protection from large monsters' roars.	1	Reduces the effects of weak monster roars.
+Earplugs	Grants protection from large monsters' roars.	2	Nullifies weak monster roars and reduces the effects of strong monster roars.
+Earplugs	Grants protection from large monsters' roars.	3	Nullifies weak and strong monster roars.
+Evade Extender	Increases evade distance.	1	Slightly extends evasion distance.
+Evade Extender	Increases evade distance.	2	Extends evasion distance.
+Evade Extender	Increases evade distance.	3	Greatly extends evasion distance.
+Evade Window	Extends the invulnerability period when evading.	1	Very slightly increases invulnerability window.
+Evade Window	Extends the invulnerability period when evading.	2	Slightly increases invulnerability window.
+Evade Window	Extends the invulnerability period when evading.	3	Increases invulnerability window.
+Evade Window	Extends the invulnerability period when evading.	4	Greatly increases invulnerability window.
+Evade Window	Extends the invulnerability period when evading.	5	Massively increases invulnerability window.
+Self-Improvement	Attack and defense increase as time passes while on a quest. (The maximum is reached after 30 minutes.)	1	Activates skill effect.
+Elemental Absorption	After taking elemental damage, temporarily grants you element effects. (Cooldown after effect ends)	1	While active, slightly increases elemental attack, and resistance to element taken at activation by 4.
+Elemental Absorption	After taking elemental damage, temporarily grants you element effects. (Cooldown after effect ends)	2	While active, moderately increases elemental attack, and resistance to element taken at activation by 6.
+Elemental Absorption	After taking elemental damage, temporarily grants you element effects. (Cooldown after effect ends)	3	While active, increases elemental attack, and resistance to element taken at activation by 8.
+Antivirus	Once infected, makes it easier to overcome the Frenzy and increases affinity if cured.	1	Slightly increases recovery rate after contracting the Frenzy. Affinity +3% if cured.
+Antivirus	Once infected, makes it easier to overcome the Frenzy and increases affinity if cured.	2	Increases recovery rate after contracting the Frenzy. Affinity +6% if cured.
+Antivirus	Once infected, makes it easier to overcome the Frenzy and increases affinity if cured.	3	Greatly increases recovery rate after contracting the Frenzy. Affinity +15% if cured.
+Ambush	Temporarily increases damage to large monsters with a successful Sneak Attack.	1	Attack +5% while active.
+Ambush	Temporarily increases damage to large monsters with a successful Sneak Attack.	2	Attack +10% while active.
+Ambush	Temporarily increases damage to large monsters with a successful Sneak Attack.	3	Attack +15% while active.
+Coalescence	Temporarily increases elemental attack power and status effects after recovering from blights or abnormal status.	1	When active, grants a slight increase to elemental damage and status buildup.
+Coalescence	Temporarily increases elemental attack power and status effects after recovering from blights or abnormal status.	2	When active, grants an increase to elemental damage and status buildup.
+Coalescence	Temporarily increases elemental attack power and status effects after recovering from blights or abnormal status.	3	When active, grants a large increase to elemental damage and status buildup.
+Partbreaker	Makes it easier to break large monster parts, and increases damage dealt when destroying a wound with a Focus Strike.	1	Increases part damage and damage dealt when conditions are met by 10%.
+Partbreaker	Makes it easier to break large monster parts, and increases damage dealt when destroying a wound with a Focus Strike.	2	Increases part damage and damage dealt when conditions are met by 20%.
+Partbreaker	Makes it easier to break large monster parts, and increases damage dealt when destroying a wound with a Focus Strike.	3	Increases part damage and damage dealt when conditions are met by 30%.
+Palico Rally	Powers up Palicoes.	1	Increases Palico attack power and defense by 5%.
+Palico Rally	Powers up Palicoes.	2	Increases Palico attack power and defense by 10%.
+Palico Rally	Powers up Palicoes.	3	Increases Palico attack power and defense by 15%.
+Palico Rally	Powers up Palicoes.	4	Increases Palico attack power and defense by 20%.
+Palico Rally	Powers up Palicoes.	5	Increases Palico attack power and defense by 25%.
+Flayer	Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage.	1	Makes it ever so slightly easier to inflict wounds. Also deals additional non-elemental damage.
+Flayer	Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage.	2	Makes it moderately easier to inflict wounds. Also deals slightly more additional non-elemental damage.
+Flayer	Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage.	3	Makes it easier to inflict wounds. Also deals moderately more additional non-elemental damage.
+Flayer	Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage.	4	Makes it much easier to inflict wounds. Also deals more additional non-elemental damage.
+Flayer	Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage.	5	Makes it significantly easier to inflict wounds. Also deals much more additional non-elemental damage.
+Foray	Increases attack power and affinity against large monsters affected by poison or paralysis.	1	Attack +6 against large monsters affected by poison or paralysis.
+Foray	Increases attack power and affinity against large monsters affected by poison or paralysis.	2	Attack +8 and affinity +5% against large monsters affected by poison or paralysis.
+Foray	Increases attack power and affinity against large monsters affected by poison or paralysis.	3	Attack +10 and affinity +10% against large monsters affected by poison or paralysis.
+Foray	Increases attack power and affinity against large monsters affected by poison or paralysis.	4	Attack +12 and affinity +15% against large monsters affected by poison or paralysis.
+Foray	Increases attack power and affinity against large monsters affected by poison or paralysis.	5	Attack +15 and affinity +20% against large monsters affected by poison or paralysis.
+Burst	Continuously landing hits gradually increases attack and elemental attack. (Amount increased depends on weapon.)	1	On first hit, gain a small temporary attack and element boost, replaced by a larger boost after the fifth hit.
+Burst	Continuously landing hits gradually increases attack and elemental attack. (Amount increased depends on weapon.)	2	Hit 5 successive times for a moderate stat boost.
+Burst	Continuously landing hits gradually increases attack and elemental attack. (Amount increased depends on weapon.)	3	Hit 5 successive times for a bigger stat boost.
+Burst	Continuously landing hits gradually increases attack and elemental attack. (Amount increased depends on weapon.)	4	Hit 5 successive times for an even bigger stat boost.
+Burst	Continuously landing hits gradually increases attack and elemental attack. (Amount increased depends on weapon.)	5	Hit 5 successive times for a huge stat boost.
+Heroics	Increases attack power and defense when health drops to 35% or lower.	1	Defense +50 while active.
+Heroics	Increases attack power and defense when health drops to 35% or lower.	2	Attack +5% and defense +50 while active.
+Heroics	Increases attack power and defense when health drops to 35% or lower.	3	Attack +5% and defense +100 while active.
+Heroics	Increases attack power and defense when health drops to 35% or lower.	4	Attack +10% and defense +100 while active.
+Heroics	Increases attack power and defense when health drops to 35% or lower.	5	Attack +30% and defense-increasing effects are negated while active.
+Latent Power	Temporarily increases affinity and reduces stamina depletion when certain conditions are met.	1	While active, affinity +10% and reduces stamina depletion by 30%.
+Latent Power	Temporarily increases affinity and reduces stamina depletion when certain conditions are met.	2	While active, affinity +20% and reduces stamina depletion by 30%.
+Latent Power	Temporarily increases affinity and reduces stamina depletion when certain conditions are met.	3	While active, affinity +30% and reduces stamina depletion by 50%.
+Latent Power	Temporarily increases affinity and reduces stamina depletion when certain conditions are met.	4	While active, affinity +40% and reduces stamina depletion by 50%.
+Latent Power	Temporarily increases affinity and reduces stamina depletion when certain conditions are met.	5	While active, affinity +50% and reduces stamina depletion by 50%.
+Agitator	Increases attack power and affinity when large monsters become enraged.	1	Attack +4 and affinity +3% while active.
+Agitator	Increases attack power and affinity when large monsters become enraged.	2	Attack +8 and affinity +5% while active.
+Agitator	Increases attack power and affinity when large monsters become enraged.	3	Attack +12 and affinity +7% while active.
+Agitator	Increases attack power and affinity when large monsters become enraged.	4	Attack +16 and affinity +10% while active.
+Agitator	Increases attack power and affinity when large monsters become enraged.	5	Attack +20 and affinity +15% while active.
+Hunger Resistance	Reduces maximum stamina depletion over time.	1	Extends the time until your stamina cap reduces by 50%.
+Hunger Resistance	Reduces maximum stamina depletion over time.	2	Extends the time until your stamina cap reduces by 100%.
+Hunger Resistance	Reduces maximum stamina depletion over time.	3	Prevents your stamina cap from decreasing.
+Marathon Runner	Slows down stamina depletion for actions that continuously drain stamina (such as dashing).	1	Reduces continuous stamina depletion by 15%.
+Marathon Runner	Slows down stamina depletion for actions that continuously drain stamina (such as dashing).	2	Reduces continuous stamina depletion by 30%.
+Marathon Runner	Slows down stamina depletion for actions that continuously drain stamina (such as dashing).	3	Reduces continuous stamina depletion by 50%.
+Stamina Surge	Speeds up stamina recovery.	1	Stamina recovery speed +10%
+Stamina Surge	Speeds up stamina recovery.	2	Stamina recovery speed +30%
+Stamina Surge	Speeds up stamina recovery.	3	Stamina recovery speed +50%
+Constitution	Reduces stamina depletion when evading, blocking, or doing certain other actions.	1	Reduces fixed stamina depletion by 10%.
+Constitution	Reduces stamina depletion when evading, blocking, or doing certain other actions.	2	Reduces fixed stamina depletion by 20%.
+Constitution	Reduces stamina depletion when evading, blocking, or doing certain other actions.	3	Reduces fixed stamina depletion by 30%.
+Constitution	Reduces stamina depletion when evading, blocking, or doing certain other actions.	4	Reduces fixed stamina depletion by 40%.
+Constitution	Reduces stamina depletion when evading, blocking, or doing certain other actions.	5	Reduces fixed stamina depletion by 50%.
+Survival Expert	Extra health is recovered from environmental interactables.	1	Restores 50 health.
+Survival Expert	Extra health is recovered from environmental interactables.	2	Restores 80 health.
+Survival Expert	Extra health is recovered from environmental interactables.	3	Restores 100 health.
+Recovery Speed	Speeds healing of recoverable damage (the red portion of the Health Gauge).	1	Doubles the speed at which you heal recoverable damage.
+Recovery Speed	Speeds healing of recoverable damage (the red portion of the Health Gauge).	2	Triples the speed at which you heal recoverable damage.
+Recovery Speed	Speeds healing of recoverable damage (the red portion of the Health Gauge).	3	Quadruples the speed at which you heal recoverable damage.
+Recovery Up	Increases the amount recovered when restoring health.	1	Slightly increases recovery.
+Recovery Up	Increases the amount recovered when restoring health.	2	Moderately increases recovery.
+Recovery Up	Increases the amount recovered when restoring health.	3	Greatly increases recovery.
+Adaptability	Grants protection against environmental damage, such as from heat or cold.	1	Negates the effects of heat and cold.
+Adaptability	Grants protection against environmental damage, such as from heat or cold.	2	Negates environmental damage.
+Stench Resistance	Grants protection against stench.	1	Reduces stench duration by 50%.
+Stench Resistance	Grants protection against stench.	2	Prevents stench.
+Blast Resistance	Grants protection against blastblight.	1	Delays blastblight and reduces blast damage.
+Blast Resistance	Grants protection against blastblight.	2	Greatly delays blastblight and greatly reduces blast damage.
+Blast Resistance	Grants protection against blastblight.	3	Prevents blastblight.
+Bind Resistance	Grants protection against webbed status and frostblight.	1	Allows you to quickly recover from webbed status or frostblight.
+Bind Resistance	Grants protection against webbed status and frostblight.	2	Allows you to very quickly recover from webbed status or frostblight.
+Bind Resistance	Grants protection against webbed status and frostblight.	3	Prevents webbed status and frostblight.
+Bleeding Resistance	Grants protection against bleeding.	1	Reduces damage while bleeding.
+Bleeding Resistance	Grants protection against bleeding.	2	Greatly reduces damage while bleeding.
+Bleeding Resistance	Grants protection against bleeding.	3	Prevents bleeding.
+Stun Resistance	Reduces the duration of stun.	1	Reduces the duration of stun by 30%.
+Stun Resistance	Reduces the duration of stun.	2	Reduces the duration of stun by 60%.
+Stun Resistance	Reduces the duration of stun.	3	Prevents stun.
+Blight Resistance	Grants protection against all elemental blights.	1	Reduces the duration of all elemental blights by 50%.
+Blight Resistance	Grants protection against all elemental blights.	2	Reduces the duration of all elemental blights by 75%.
+Blight Resistance	Grants protection against all elemental blights.	3	Nullifies all elemental blights.
+Iron Skin	Grants protection against defense down.	1	Reduces the duration of defense down by 50%.
+Iron Skin	Grants protection against defense down.	2	Reduces the duration of defense down by 75%.
+Iron Skin	Grants protection against defense down.	3	Prevents defense down.
+Sleep Resistance	Reduces the duration of sleep.	1	Reduces the duration of sleep by 30%.
+Sleep Resistance	Reduces the duration of sleep.	2	Reduces the duration of sleep by 60%.
+Sleep Resistance	Reduces the duration of sleep.	3	Prevents sleep.
+Paralysis Resistance	Reduces the duration of paralysis.	1	Reduces the duration of paralysis by 30%.
+Paralysis Resistance	Reduces the duration of paralysis.	2	Reduces the duration of paralysis by 60%.
+Paralysis Resistance	Reduces the duration of paralysis.	3	Prevents paralysis.
+Poison Resistance	Reduces damage while poisoned.	1	Reduces the number of times you take poison damage.
+Poison Resistance	Reduces damage while poisoned.	2	Greatly reduces the number of times you take poison damage.
+Poison Resistance	Reduces damage while poisoned.	3	Prevents poison.
+Dragon Resistance	Increases dragon resistance. Also improves defense at higher levels.	1	Dragon resistance +6
+Dragon Resistance	Increases dragon resistance. Also improves defense at higher levels.	2	Dragon resistance +12
+Dragon Resistance	Increases dragon resistance. Also improves defense at higher levels.	3	Dragon resistance +20 Defense +10
+Ice Resistance	Increases ice resistance. Also improves defense at higher levels.	1	Ice resistance +6
+Ice Resistance	Increases ice resistance. Also improves defense at higher levels.	2	Ice resistance +12
+Ice Resistance	Increases ice resistance. Also improves defense at higher levels.	3	Ice resistance +20 Defense +10
+Thunder Resistance	Increases thunder resistance. Also improves defense at higher levels.	1	Thunder resistance +6
+Thunder Resistance	Increases thunder resistance. Also improves defense at higher levels.	2	Thunder resistance +12
+Thunder Resistance	Increases thunder resistance. Also improves defense at higher levels.	3	Thunder resistance +20 Defense +10
+Water Resistance	Increases water resistance. Also improves defense at higher levels.	1	Water resistance +6
+Water Resistance	Increases water resistance. Also improves defense at higher levels.	2	Water resistance +12
+Water Resistance	Increases water resistance. Also improves defense at higher levels.	3	Water resistance +20 Defense +10
+Fire Resistance	Increases fire resistance. Also improves defense at higher levels.	1	Fire resistance +6
+Fire Resistance	Increases fire resistance. Also improves defense at higher levels.	2	Fire resistance +12
+Fire Resistance	Increases fire resistance. Also improves defense at higher levels.	3	Fire resistance +20 Defense +10
+Divine Blessing	Has a predetermined chance of reducing the damage you take.	1	While active, reduces damage taken by 15%.
+Divine Blessing	Has a predetermined chance of reducing the damage you take.	2	While active, reduces damage taken by 30%.
+Divine Blessing	Has a predetermined chance of reducing the damage you take.	3	While active, reduces damage taken by 50%.
+Defense Boost	Increases defense. Also improves resistances at higher levels.	1	Defense +5
+Defense Boost	Increases defense. Also improves resistances at higher levels.	2	Defense +10
+Defense Boost	Increases defense. Also improves resistances at higher levels.	3	Defense +5% Bonus: +10
+Defense Boost	Increases defense. Also improves resistances at higher levels.	4	Defense +5% Bonus: +20 All elemental resistances +3
+Defense Boost	Increases defense. Also improves resistances at higher levels.	5	Defense +8% Bonus: +20 All elemental resistances +3
+Defense Boost	Increases defense. Also improves resistances at higher levels.	6	Defense +8% Bonus: +35 All elemental resistances +5
+Defense Boost	Increases defense. Also improves resistances at higher levels.	7	Defense +10% Bonus: +35 All elemental resistances +5
+Convert Element	After taking elemental damage, temporarily grants you dragon element effects. (Cooldown after effect ends.)	1	While active, deals extra dragon damage after dealing enough elemental damage. Slightly increases dragon attack.
+Convert Element	After taking elemental damage, temporarily grants you dragon element effects. (Cooldown after effect ends.)	2	Increases additional dragon damage and increases dragon attack.
+Convert Element	After taking elemental damage, temporarily grants you dragon element effects. (Cooldown after effect ends.)	3	Further increases additional dragon damage and greatly increases dragon attack
+Maximum Might	Increases affinity if stamina is kept full for a period of time.	1	Affinity +10% while active
+Maximum Might	Increases affinity if stamina is kept full for a period of time.	2	Affinity +20% while active
+Maximum Might	Increases affinity if stamina is kept full for a period of time.	3	Affinity +30% while active
+Weakness Exploit	Increases the affinity of attacks that exploit a monster's weak  points and wounds.	1	Attacks that hit weak points gain affinity +5%, with an extra 3% on wounds.
+Weakness Exploit	Increases the affinity of attacks that exploit a monster's weak  points and wounds.	2	Attacks that hit weak points gain affinity +10%, with an extra 5% on wounds.
+Weakness Exploit	Increases the affinity of attacks that exploit a monster's weak  points and wounds.	3	Attacks that hit weak points gain affinity +15%, with an extra 10% on wounds.
+Weakness Exploit	Increases the affinity of attacks that exploit a monster's weak  points and wounds.	4	Attacks that hit weak points have 20% increased affinity, with an extra 15% on wounds.
+Weakness Exploit	Increases the affinity of attacks that exploit a monster's weak  points and wounds.	5	Attacks that hit weak points have 30% increased affinity, with an extra 20% on wounds.
+Counterstrike	Temporarily increases attack power after being knocked back.	1	Attack +10 while active.
+Counterstrike	Temporarily increases attack power after being knocked back.	2	Attack +15 while active. Moderately extends effect time.
+Counterstrike	Temporarily increases attack power after being knocked back.	3	Attack +25 while active. Extends effect time.
+Peak Performance	Increases attack when your health is full.	1	Attack +3 while active.
+Peak Performance	Increases attack when your health is full.	2	Attack +6 while active.
+Peak Performance	Increases attack when your health is full.	3	Attack +10 while active.
+Peak Performance	Increases attack when your health is full.	4	Attack +15 while active.
+Peak Performance	Increases attack when your health is full.	5	Attack +20 while active.
+Adrenaline Rush	Temporarily increases attack power after executing a perfectly-timed evade just as a monster attacks.	1	Attack +10 while active.
+Adrenaline Rush	Temporarily increases attack power after executing a perfectly-timed evade just as a monster attacks.	2	Attack +15 while active.
+Adrenaline Rush	Temporarily increases attack power after executing a perfectly-timed evade just as a monster attacks.	3	Attack +20 while active.
+Adrenaline Rush	Temporarily increases attack power after executing a perfectly-timed evade just as a monster attacks.	4	Attack +25 while active.
+Adrenaline Rush	Temporarily increases attack power after executing a perfectly-timed evade just as a monster attacks.	5	Attack +30 while active.
+Resentment	Increases attack when you have recoverable damage (the red portion of your Health Gauge).	1	Attack +5 while active.
+Resentment	Increases attack when you have recoverable damage (the red portion of your Health Gauge).	2	Attack +10 while active.
+Resentment	Increases attack when you have recoverable damage (the red portion of your Health Gauge).	3	Attack +15 while active.
+Resentment	Increases attack when you have recoverable damage (the red portion of your Health Gauge).	4	Attack +20 while active.
+Resentment	Increases attack when you have recoverable damage (the red portion of your Health Gauge).	5	Attack +25 while active.

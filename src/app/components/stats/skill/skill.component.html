@@ -1,14 +1,20 @@
-<div class="flex" cdkOverlayOrigin #skillElement="cdkOverlayOrigin">
-    <span class="stat-label">{{armorSkill().name}}</span>
-    <span class="stat-value ml-auto">
-        @for(level of storedSkill()?.levels; track level) {
-            <span class="skill-level-indicator" [class.active]="$index < this.armorSkill().level" [ngStyle]="getStyle($index)"></span>
-        }
-    </span>
-</div>
-<ng-template cdkConnectedOverlay [cdkConnectedOverlayOrigin]="skillElement" [cdkConnectedOverlayOpen]="isHovered()"
-    (detach)="onMouseLeave()">
+@if(storedSkill()) {
+    <div class="flex" cdkOverlayOrigin #skillElement="cdkOverlayOrigin">
+        <span class="stat-label">{{armorSkill().name}}</span>
+        <span class="stat-value ml-auto">
+            @for(level of storedSkill()?.levels; track level) {
+                <span class="skill-level-indicator" [class.active]="$index < this.armorSkill().level" [ngStyle]="getStyle($index)"></span>
+            }
+        </span>
+    </div>
+    <ng-template cdkConnectedOverlay [cdkConnectedOverlayOrigin]="skillElement" [cdkConnectedOverlayOpen]="isHovered()"
+        (detach)="onMouseLeave()">
 
-    <div class="container">{{skillDescription()}}</div>
+        <app-container simple inline>
+            @for(levelDescription of skillDescription(); track $index) {
+                <p>{{levelDescription}}</p>
+            }
+        </app-container>
 
-</ng-template>
+    </ng-template>
+}

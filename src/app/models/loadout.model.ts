@@ -7,4 +7,5 @@ export interface Loadout {
     arms?: Gear;
     waist?: Gear;
     legs?: Gear;
+    charm?: Gear;
 }

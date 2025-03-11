@@ -5,6 +5,7 @@ export enum GearType {
     WAIST = 'WAIST',
     LEGS = 'LEGS',
     WEAPON = 'WEAPON',
+    CHARM = 'CHARM',
 }
 
 export enum WeaponType {

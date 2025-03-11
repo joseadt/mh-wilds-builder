@@ -12,10 +12,11 @@ import {
 } from '@angular/core';
 import { GearSkill } from '../../../models/gear-skill.model';
 import { SkillService } from '../../../services/skill.service';
+import { ContainerComponent } from '../../container/container.component';
 
 @Component({
     selector: 'app-skill',
-    imports: [CommonModule, OverlayModule],
+    imports: [CommonModule, OverlayModule, ContainerComponent],
     templateUrl: './skill.component.html',
     styleUrl: './skill.component.scss',
     changeDetection: ChangeDetectionStrategy.OnPush,
@@ -38,9 +39,13 @@ export class SkillComponent {
             return null;
         }
 
-        const level = this.armorSkill().level;
-        return levels.at(this.armorSkill().level < levels.length ? level : -1)
-            ?.description;
+        return levels.map(
+            (level, index) => `Lv${index + 1}: ${level.description}`
+        );
+
+        // const level = this.armorSkill().level;
+        // return levels.at(this.armorSkill().level < levels.length ? level : -1)
+        //     ?.description;
     });
 
     isHovered = signal(false);

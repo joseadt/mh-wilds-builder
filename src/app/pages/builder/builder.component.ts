@@ -24,8 +24,10 @@ export class BuilderComponent {
     waist = signal<Gear | null>(null);
     arms = signal<Gear | null>(null);
     legs = signal<Gear | null>(null);
+    charm = signal<Gear | null>(null);
 
     loadout = computed<Loadout>(() => {
+        console.log(this.charm());
         return {
             weapon: this.weapon() as Gear,
             head: this.head() as Gear,
@@ -33,6 +35,12 @@ export class BuilderComponent {
             waist: this.waist() as Gear,
             arms: this.arms() as Gear,
             legs: this.legs() as Gear,
+            charm: this.charm() as Gear,
         };
+    });
+
+    debugLoadout = computed<Loadout>(() => {
+        console.log(this.loadout());
+        return this.loadout();
     });
 }

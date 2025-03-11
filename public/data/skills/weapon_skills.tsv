@@ -1,0 +1,132 @@
+﻿name	description	level	effect
+Speed Sharpening	Speeds up weapon sharpening when using a whetstone.	1	Removes one cycle from the sharpening process.
+Speed Sharpening	Speeds up weapon sharpening when using a whetstone.	2	Removes two cycles from the sharpening process.
+Load Shells	Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity.	1	Increases shell and phial reloading speed.
+Load Shells	Improves reloading, and increases the gunlance's shell capacity and charge blade's phial capacity.	2	Increases shell/phial reloading speed. Gunlance loading capacity +1. Charge blade charges 5 phials on yellow gauge.
+Guard Up	Allows you to guard against ordinarily unblockable attacks.	1	Reduces damage taken by 30%.
+Guard Up	Allows you to guard against ordinarily unblockable attacks.	2	Reduces damage taken by 50%.
+Guard Up	Allows you to guard against ordinarily unblockable attacks.	3	Reduces damage taken by 80%.
+Guard	Reduces knockbacks and stamina depletion when guarding.	1	Slightly decreases the impact of attacks and reduces stamina depletion by 15%.
+Guard	Reduces knockbacks and stamina depletion when guarding.	2	Decreases the impact of attacks and reduces stamina depletion by 30%.
+Guard	Reduces knockbacks and stamina depletion when guarding.	3	Greatly decreases the impact of attacks and reduces stamina depletion by 50%.
+Poison Duration Up	Extends the duration of your poison's effect on monsters.	1	Extends the duration of your poison's effect by 20%.
+Airborne	Increases the damage caused by jumping attacks.	1	Jumping attack power +10%
+Charge Up	Increases your power to induce stun when you hit a monster with a hammer's charged attack.	1	Activates skill effect.
+Horn Maestro	Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.)	1	Extends Melody Effect duration and increases the chance of larger heals from healing melodies.
+Horn Maestro	Increases the effect duration of hunting horn melodies. (Effect lost when you change weapons.)	2	Greatly increases the effect duration of hunting horn melodies.
+Rapid Morph	Increases switch speed and power for switch axes and charge blades.	1	Speed +10%
+Rapid Morph	Increases switch speed and power for switch axes and charge blades.	2	Speed +20% Morph attack damage +10%
+Rapid Morph	Increases switch speed and power for switch axes and charge blades.	3	Speed +30% Morph attack damage +20%
+Artillery	Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.	1	Moderately increases each attack and Wyvern's Fire firing speed. Shelling fire attack +30.
+Artillery	Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.	2	Increases each attack and Wyvern's Fire firing speed. Shelling fire attack +60.
+Artillery	Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.	3	Greatly increases each attack and Wyvern's Fire firing speed. Shelling fire attack +90.
+Stamina Thief	Increases certain attacks' ability to exhaust monsters.	1	Exhaust power +20%
+Stamina Thief	Increases certain attacks' ability to exhaust monsters.	2	Exhaust power +30%
+Stamina Thief	Increases certain attacks' ability to exhaust monsters.	3	Exhaust power +40%
+Slugger	Makes it easier to stun monsters.	1	Stun power +20%
+Slugger	Makes it easier to stun monsters.	2	Stun power +30%
+Slugger	Makes it easier to stun monsters.	3	Stun power +40%
+Punishing Draw	Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)	1	Draw attacks deal a small amount of stun damage and gain attack +3.
+Punishing Draw	Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)	2	Draw attacks deal a medium amount of stun damage and gain attack +5.
+Punishing Draw	Adds a stun effect to draw attacks and slightly increases attack power. (Not effective while riding.)	3	Draw attacks deal a large amount of stun damage and gain attack +7.
+Power Prolonger	Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.	1	Moderately boosts the duration weapons are powered up.
+Power Prolonger	Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.	2	Boosts the duration weapons are powered up.
+Power Prolonger	Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer.	3	Greatly boosts the duration weapons are powered up.
+Focus	Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.	1	Slightly increases gauge fill rate and reduces charge times by 5%.
+Focus	Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.	2	Moderately increases gauge fill rate and reduces charge times by 10%.
+Focus	Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.	3	Increases gauge fill rate and reduces charge times by 15%.
+Exhaust Functionality	Allows you to apply exhaust coatings.	1	Lets you use exhaust coatings.
+Blast Functionality	Allows you to apply blast coatings.	1	Lets you use blast coatings.
+Sleep Functionality	Allows you to apply sleep coatings.	1	Lets you use sleep coatings.
+Para Functionality	Allows you to apply paralysis coatings.	1	Lets you use paralysis coatings.
+Poison Functionality	Allows you to apply poison coatings.	1	Lets you use poison coatings.
+Special Ammo Boost	Increases the power of the bowgun's special ammo, and the bow's Dragon Piercer, Thousand Dragons, and Tracer.	1	Moderately increases the power of specified ammo and arrows.
+Special Ammo Boost	Increases the power of the bowgun's special ammo, and the bow's Dragon Piercer, Thousand Dragons, and Tracer.	2	Increases the power of specified ammo and arrows.
+Tetrad Shot	Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.	1	Slightly increases the attack power and affinity of ammo after certain conditions are met.
+Tetrad Shot	Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.	2	Moderately increases attack power and affinity of ammo after certain conditions are met.
+Tetrad Shot	Increases affinity of bowgun ammo/ coatings from the fourth shot and attack of the fourth and sixth shots.	3	Increases the attack power and affinity of ammo after certain conditions are met.
+Opening Shot	Increases the bowgun's reload speed and increases the power of bullets when fully loaded.	1	Moderately increases bowgun reload speed and attack power of ammo when certain conditions are met.
+Opening Shot	Increases the bowgun's reload speed and increases the power of bullets when fully loaded.	2	Increases bowgun reload speed and attack power of ammo when certain conditions are met.
+Opening Shot	Increases the bowgun's reload speed and increases the power of bullets when fully loaded.	3	Greatly increases bowgun reload speed and attack power of ammo when certain conditions are met.
+Rapid Fire Up	Improves light bowgun rapid fire.	1	Rapid fire damage +5%
+Ballistics	Extends the range in which ammo and arrows have maximum power.	1	Slightly extends range.
+Ballistics	Extends the range in which ammo and arrows have maximum power.	2	Extends range.
+Ballistics	Extends the range in which ammo and arrows have maximum power.	3	Greatly extends range.
+Spread/Power Shots	Increases the attack of the bowgun's Spread Ammo and the bow's Power Shots and Quick Shots.	1	Slightly increases the power of specified ammo and arrows.
+Piercing Shots	Increases the attack of the bowgun's Pierce Ammo, and the bow's Dragon Piercer and Thousand Dragons.	1	Slightly increases the power of specified ammo and arrows.
+Normal Shots	Increases the attack power of Normal Ammo, normal arrows, and Flying Swallow Shot.	1	Slightly increases the power of specified ammo and arrows.
+Master's Touch	Prevents your weapon from losing sharpness during critical hits.	1	Grants an 80% chance of no sharpness loss while active.
+Bludgeoner	Increases attack power when your weapon sharpness is low.	1	+5% attack power when your sharpness gauge is yellow or lower.
+Bludgeoner	Increases attack power when your weapon sharpness is low.	2	+10% attack power when your sharpness gauge is yellow or lower.
+Bludgeoner	Increases attack power when your weapon sharpness is low.	3	+10% attack power when your sharpness gauge is green or lower.
+Mind's Eye	Your attacks are deflected less and deal more damage to hard targets.	1	50% chance of your attacks not being deflected, +10% damage to hard targets.
+Mind's Eye	Your attacks are deflected less and deal more damage to hard targets.	2	100% chance of your attacks not being deflected, +15% damage to hard targets.
+Mind's Eye	Your attacks are deflected less and deal more damage to hard targets.	3	100% chance of your attacks not being deflected, +30% damage to hard targets.
+Protective Polish	Weapon sharpness does not decrease for a set time after sharpening.	1	Grants no sharpness loss for 30 seconds after activation.
+Protective Polish	Weapon sharpness does not decrease for a set time after sharpening.	2	Grants no sharpness loss for 60 seconds after activation.
+Protective Polish	Weapon sharpness does not decrease for a set time after sharpening.	3	Grants no sharpness loss for 90 seconds after activation.
+Razor Sharp	Prevents your weapon from losing sharpness.	1	Grants a 10% chance of no sharpness loss.
+Razor Sharp	Prevents your weapon from losing sharpness.	2	Grants a 25% chance of no sharpness loss.
+Razor Sharp	Prevents your weapon from losing sharpness.	3	Grants a 50% chance of no sharpness loss.
+Handicraft	Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.	1	Weapon sharpness +10
+Handicraft	Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.	2	Weapon sharpness +20
+Handicraft	Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.	3	Weapon sharpness +30
+Handicraft	Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.	4	Weapon sharpness +40
+Handicraft	Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.	5	Weapon sharpness +50
+Charge Master	Increases element power and status buildup for charged attacks.	1	Slightly increases elemental damage and status buildup for charged attacks.
+Charge Master	Increases element power and status buildup for charged attacks.	2	Increases elemental damage and status buildup for charged attacks.
+Charge Master	Increases element power and status buildup for charged attacks.	3	Greatly increases elemental damage and status buildup for charged attacks.
+Critical Status	Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits.	1	Slightly increases abnormal status effects when landing critical hits.
+Critical Status	Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits.	2	Increases abnormal status effects when landing critical hits.
+Critical Status	Increases abnormal status effects (paralysis, poison, sleep, blast) when landing critical hits.	3	Greatly increases abnormal status effects when landing critical hits.
+Critical Element	Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.	1	Slightly increases elemental damage while active.
+Critical Element	Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.	2	Increases elemental damage while active.
+Critical Element	Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.	3	Greatly increases elemental damage while active.
+Blast Attack	Increases the rate of blast buildup. (Blast buildup has a maximum limit.)	1	Blast buildup +5% Bonus: +10
+Blast Attack	Increases the rate of blast buildup. (Blast buildup has a maximum limit.)	2	Blast buildup +10% Bonus: +20
+Blast Attack	Increases the rate of blast buildup. (Blast buildup has a maximum limit.)	3	Blast buildup +20% Bonus: +50
+Sleep Attack	Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)	1	Sleep buildup +5% Bonus: +10
+Sleep Attack	Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)	2	Sleep buildup +10% Bonus: +20
+Sleep Attack	Increases the rate of sleep buildup. (Sleep buildup has a maximum limit.)	3	Sleep buildup +20% Bonus: +50
+Paralysis Attack	Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)	1	Paralysis buildup +5% Bonus: +10
+Paralysis Attack	Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)	2	Paralysis buildup +10% Bonus: +20
+Paralysis Attack	Increases the rate of paralysis buildup. (Paralysis buildup has a maximum limit.)	3	Paralysis buildup +20% Bonus: +50
+Poison Attack	Increases the rate of poison buildup. (Poison buildup has a maximum limit.)	1	Poison buildup +5% Bonus: +10
+Poison Attack	Increases the rate of poison buildup. (Poison buildup has a maximum limit.)	2	Poison buildup +10% Bonus: +20
+Poison Attack	Increases the rate of poison buildup. (Poison buildup has a maximum limit.)	3	Poison buildup +20% Bonus: +50
+Dragon Attack	Increases dragon element attack power. (Elemental attack power has a maximum limit.)	1	Dragon attack +40
+Dragon Attack	Increases dragon element attack power. (Elemental attack power has a maximum limit.)	2	Dragon attack +10% Bonus: +50
+Dragon Attack	Increases dragon element attack power. (Elemental attack power has a maximum limit.)	3	Dragon attack +20% Bonus: +60
+Thunder Attack	Increases thunder element attack power. (Elemental attack power has a maximum limit.)	1	Thunder attack +40
+Thunder Attack	Increases thunder element attack power. (Elemental attack power has a maximum limit.)	2	Thunder attack +10% Bonus: +50
+Thunder Attack	Increases thunder element attack power. (Elemental attack power has a maximum limit.)	3	Thunder attack +20% Bonus: +60
+Ice Attack	Increases ice element attack power. (Elemental attack power has a maximum limit.)	1	Ice attack +40
+Ice Attack	Increases ice element attack power. (Elemental attack power has a maximum limit.)	2	Ice attack +10% Bonus: +50
+Ice Attack	Increases ice element attack power. (Elemental attack power has a maximum limit.)	3	Ice attack +20% Bonus: +60
+Water Attack	Increases water element attack power. (Elemental attack power has a maximum limit.)	1	Water attack +40
+Water Attack	Increases water element attack power. (Elemental attack power has a maximum limit.)	2	Water attack +10% Bonus: +50
+Water Attack	Increases water element attack power. (Elemental attack power has a maximum limit.)	3	Water attack +20% Bonus: +60
+Fire Attack	Increases fire element attack power. (Elemental attack power has a maximum limit.)	1	Fire attack +40
+Fire Attack	Increases fire element attack power. (Elemental attack power has a maximum limit.)	2	Fire attack +10% Bonus: +50
+Fire Attack	Increases fire element attack power. (Elemental attack power has a maximum limit.)	3	Fire attack +20% Bonus: +60
+Critical Draw	Increases affinity when performing draw attacks. (Not effective while riding.)	1	Affinity +50%
+Critical Draw	Increases affinity when performing draw attacks. (Not effective while riding.)	2	Affinity +75%
+Critical Draw	Increases affinity when performing draw attacks. (Not effective while riding.)	3	Affinity +100%
+Critical Boost	Increases the damage of critical hits.	1	Increases damage dealt by critical hits to 28%.
+Critical Boost	Increases the damage of critical hits.	2	Increases damage dealt by critical hits to 31%.
+Critical Boost	Increases the damage of critical hits.	3	Increases damage dealt by critical hits to 34%.
+Critical Boost	Increases the damage of critical hits.	4	Increases damage dealt by critical hits to 37%.
+Critical Boost	Increases the damage of critical hits.	5	Increases damage dealt by critical hits to 40%.
+Critical Eye	Increases affinity.	1	Affinity +4%
+Critical Eye	Increases affinity.	2	Affinity +8%
+Critical Eye	Increases affinity.	3	Affinity +12%
+Critical Eye	Increases affinity.	4	Affinity +16%
+Critical Eye	Increases affinity.	5	Affinity +20%
+Offensive Guard	Temporarily increases attack power after executing a perfectly-timed guard.	1	Attack +5% while active.
+Offensive Guard	Temporarily increases attack power after executing a perfectly-timed guard.	2	Attack +10% while active.
+Offensive Guard	Temporarily increases attack power after executing a perfectly-timed guard.	3	Attack +15% while active.
+Attack Boost	Increases attack power.	1	Attack +3
+Attack Boost	Increases attack power.	2	Attack +5
+Attack Boost	Increases attack power.	3	Attack +7
+Attack Boost	Increases attack power.	4	Attack +2% Bonus: +8
+Attack Boost	Increases attack power.	5	Attack +4% Bonus: +9

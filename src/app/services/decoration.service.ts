@@ -6,8 +6,9 @@ import { Decoration, SlotLevel } from '../models/decoration.model';
 import { GearSkill } from '../models/gear-skill.model';
 
 interface TsvDecoration {
+    id: number;
     name: string;
-    slotLevel: string;
+    slotLevel: number;
     skill: string;
 }
 
@@ -20,15 +21,9 @@ export class DecorationService {
     constructor(private httpClient: HttpClient) {}
 
     loadDecorations() {
-        if (environment.tsv) {
-            this.httpClient
-                .get(environment.decorationsUrl, { responseType: 'text' })
-                .subscribe(this.readTsv);
-            return;
-        }
         this.httpClient
-            .get<Decoration[]>(environment.baseUrl + 'decorations.json')
-            .subscribe((result) => (this.decorations = result));
+            .get(environment.decorationsUrl, { responseType: 'text' })
+            .subscribe(this.readTsv);
     }
 
     get(slotLevel: number) {
@@ -36,7 +31,6 @@ export class DecorationService {
     }
 
     private readTsv = (response: string) => {
-        console.log(response);
         parse<TsvDecoration>(response, {
             delimiter: '\t',
             header: true,
@@ -47,11 +41,11 @@ export class DecorationService {
     };
 
     private mapTsvRow(tsvRow: TsvDecoration): Decoration {
-        console.log(tsvRow);
         return {
+            id: tsvRow.id,
             color: '#ffffff',
             name: tsvRow.name,
-            slotLevel: Number(tsvRow.slotLevel) as SlotLevel,
+            slotLevel: tsvRow.slotLevel as SlotLevel,
             skills: tsvRow.skill.split(',').map(this.mapTsvSkill),
         };
     }

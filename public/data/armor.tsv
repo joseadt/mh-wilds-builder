@@ -1,0 +1,534 @@
+﻿id	set	piecename	geartype	def	fireRes	waterRes	thunderRes	iceRes	dragonRes	slots	skills
+1	Expedition Headgear α	Expedition Headgear α	Head	40	1	1	1	1	1	1--	Blight Resistance 1,Coalescence 1
+2	Mimiphyta α	Mimiphyta α	Head	36	-3	2	-2	2	2	1--	Fortifying Pelt 1,Entomologist 1,Ambush 1
+3	Dragonking α	Dragonking Eyepatch α	Head	60	0	0	0	0	0	---	Counterstrike 3
+4	Guild Ace α	Guild Ace Earrings α	Head	60	2	2	2	2	2	3--	Peak Performance 1,Foray 1,Constitution 1
+5	Guild Ace α	Guild Ace Mail α	Chest	60	2	2	2	2	2	3--	Peak Performance 1,Foray 1,Constitution 1
+6	Guild Ace α	Guild Ace Vambraces α	Arms	60	2	2	2	2	2	3--	Peak Performance 1,Foray 1,Constitution 1
+7	Guild Ace α	Guild Ace Coil α	Waist	60	2	2	2	2	2	3--	Peak Performance 1,Foray 1,Constitution 1
+8	Guild Ace α	Guild Ace Boots α	Legs	60	2	2	2	2	2	3--	Peak Performance 1,Foray 1,Constitution 1
+9	Guardian Arkveld β	G. Arkveld Helm β	Head	66	2	0	-1	0	-4	31-	Guardian Arkveld's Vitality 1,Guardian's Protection 1,Flayer 1,Partbreaker 1
+10	Guardian Arkveld β	G. Arkveld Mail β	Chest	66	2	0	-1	0	-4	3--	Guardian Arkveld's Vitality 1,Guardian's Protection 1,Flayer 1,Blight Resistance 2
+11	Guardian Arkveld β	G. Arkveld Vambraces β	Arms	66	2	0	-1	0	-4	111	Guardian Arkveld's Vitality 1,Guardian's Protection 1,Weakness Exploit 2
+12	Guardian Arkveld β	G. Arkveld Coil β	Waist	66	2	0	-1	0	-4	21-	Guardian Arkveld's Vitality 1,Guardian's Protection 1,Flayer 2
+13	Guardian Arkveld β	G. Arkveld Greaves β	Legs	66	2	0	-1	0	-4	21-	Guardian Arkveld's Vitality 1,Guardian's Protection 1,Elemental Absorption 1,Weakness Exploit 1
+14	Guardian Arkveld α	G. Arkveld Helm α	Head	66	2	0	-1	0	-4	11-	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Flayer 1,Partbreaker 2
+15	Guardian Arkveld α	G. Arkveld Mail α	Chest	66	2	0	-1	0	-4	---	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Flayer 2,Blight Resistance 2
+16	Guardian Arkveld α	G. Arkveld Vambraces α	Arms	66	2	0	-1	0	-4	1--	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Weakness Exploit 2,Blight Resistance 1
+17	Guardian Arkveld α	G. Arkveld Coil α	Waist	66	2	0	-1	0	-4	---	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Flayer 2,Elemental Absorption 1
+18	Guardian Arkveld α	G. Arkveld Greaves α	Legs	66	2	0	-1	0	-4	---	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Elemental Absorption 2,Weakness Exploit 1
+19	Arkveld β	Arkvulcan Helm β	Head	66	2	0	-1	0	-3	321	Arkveld's Hunger 1,Alluring Pelt 1,Convert Element 1
+20	Arkveld β	Arkvulcan Mail β	Chest	66	2	0	-1	0	-3	32-	Arkveld's Hunger 1,Alluring Pelt 1,Weakness Exploit 1
+21	Arkveld β	Arkvulcan Vambraces β	Arms	66	2	0	-1	0	-3	221	Arkveld's Hunger 1,Alluring Pelt 1,Convert Element 1
+22	Arkveld β	Arkvulcan Coil β	Waist	66	2	0	-1	0	-3	11-	Arkveld's Hunger 1,Alluring Pelt 1,Weakness Exploit 2,Recovery Speed 1
+23	Arkveld β	Arkvulcan Greaves β	Legs	66	2	0	-1	0	-3	31-	Arkveld's Hunger 1,Alluring Pelt 1,Convert Element 1,Quick Sheathe 1
+24	Arkveld α	Arkvulcan Helm α	Head	66	2	0	-1	0	-3	---	Arkveld's Hunger 1,Fortifying Pelt 1,Convert Element 1,Elemental Absorption 2
+25	Arkveld α	Arkvulcan Mail α	Chest	66	2	0	-1	0	-3	2--	Arkveld's Hunger 1,Fortifying Pelt 1,Weakness Exploit 1,Elemental Absorption 1
+26	Arkveld α	Arkvulcan Vambraces α	Arms	66	2	0	-1	0	-3	22-	Arkveld's Hunger 1,Fortifying Pelt 1,Convert Element 1,Recovery Speed 1
+27	Arkveld α	Arkvulcan Coil α	Waist	66	2	0	-1	0	-3	1--	Arkveld's Hunger 1,Fortifying Pelt 1,Weakness Exploit 2,Recovery Speed 2
+28	Arkveld α	Arkvulcan Greaves α	Legs	66	2	0	-1	0	-3	21-	Arkveld's Hunger 1,Fortifying Pelt 1,Convert Element 1,Quick Sheathe 2
+29	Gore β	Gore Helm β	Head	60	-2	3	-1	2	-1	31-	Gore Magala's Tyranny 1,Scale Layering 1,Evade Window 1,Coalescence 1
+30	Gore β	Gore Mail β	Chest	60	-2	3	-1	2	-1	31-	Gore Magala's Tyranny 1,Scale Layering 1,Evade Window 2
+31	Gore β	Gore Vambraces β	Arms	60	-2	3	-1	2	-1	22-	Gore Magala's Tyranny 1,Scale Layering 1,Evade Window 1,Constitution 1
+32	Gore β	Gore Coil β	Waist	60	-2	3	-1	2	-1	32-	Gore Magala's Tyranny 1,Scale Layering 1,Constitution 2
+33	Gore β	Gore Greaves β	Legs	60	-2	3	-1	2	-1	311	Gore Magala's Tyranny 1,Scale Layering 1,Antivirus 1,Flinch Free 1
+34	Gore α	Gore Helm α	Head	60	-2	3	-1	2	-1	2--	Gore Magala's Tyranny 1,Scaling Prowess 1,Evade Window 2,Coalescence 1
+35	Gore α	Gore Mail α	Chest	60	-2	3	-1	2	-1	3--	Gore Magala's Tyranny 1,Scaling Prowess 1,Evade Window 2,Antivirus 1
+36	Gore α	Gore Vambraces α	Arms	60	-2	3	-1	2	-1	21-	Gore Magala's Tyranny 1,Scaling Prowess 1,Evade Window 1,Constitution 2
+37	Gore α	Gore Coil α	Waist	60	-2	3	-1	2	-1	31-	Gore Magala's Tyranny 1,Scaling Prowess 1,Constitution 2,Antivirus 1
+38	Gore α	Gore Greaves α	Legs	60	-2	3	-1	2	-1	31-	Gore Magala's Tyranny 1,Scaling Prowess 1,Antivirus 1,Flinch Free 2
+39	Nu Udra β	Udra Mirehelm β	Head	60	5	-4	0	1	0	22-	Nu Udra's Mutiny 1,Lord's Fury 1,Resentment 1,Counterstrike 1
+40	Nu Udra β	Udra Miremail β	Chest	60	5	-4	0	1	0	311	Nu Udra's Mutiny 1,Lord's Fury 1,Resentment 1
+41	Nu Udra β	Udra Mirebraces β	Arms	60	5	-4	0	1	0	31-	Nu Udra's Mutiny 1,Lord's Fury 1,Speed Eating 2,Counterstrike 1
+42	Nu Udra β	Udra Mirecoil β	Waist	60	5	-4	0	1	0	3--	Nu Udra's Mutiny 1,Lord's Fury 1,Resentment 2
+43	Nu Udra β	Udra Miregreaves β	Legs	60	5	-4	0	1	0	31-	Nu Udra's Mutiny 1,Lord's Fury 1,Burst 1,Windproof 1
+44	Nu Udra α	Udra Mirehelm α	Head	60	5	-4	0	1	0	11-	Nu Udra's Mutiny 1,Lord's Favor 1,Resentment 2,Counterstrike 1
+45	Nu Udra α	Udra Miremail α	Chest	60	5	-4	0	1	0	11-	Nu Udra's Mutiny 1,Lord's Favor 1,Resentment 1,Burst 1
+46	Nu Udra α	Udra Mirebraces α	Arms	60	5	-4	0	1	0	2--	Nu Udra's Mutiny 1,Lord's Favor 1,Speed Eating 2,Counterstrike 2
+47	Nu Udra α	Udra Mirecoil α	Waist	60	5	-4	0	1	0	2--	Nu Udra's Mutiny 1,Lord's Favor 1,Resentment 2,Speed Eating 1
+48	Nu Udra α	Udra Miregreaves α	Legs	60	5	-4	0	1	0	3--	Nu Udra's Mutiny 1,Lord's Favor 1,Burst 1,Windproof 2
+49	Rey Dau β	Rey Sandhelm β	Head	60	0	-2	4	-3	0	3--	Rey Dau's Voltage 1,Lord's Fury 1,Latent Power 1,Evade Extender 1
+50	Rey Dau β	Rey Sandmail β	Chest	60	0	-2	4	-3	0	211	Rey Dau's Voltage 1,Lord's Fury 1,Maximum Might 1,Stamina Surge 1
+51	Rey Dau β	Rey Sandbraces β	Arms	60	0	-2	4	-3	0	3--	Rey Dau's Voltage 1,Lord's Fury 1,Latent Power 2
+52	Rey Dau β	Rey Sandcoil β	Waist	60	0	-2	4	-3	0	31-	Rey Dau's Voltage 1,Lord's Fury 1,Stamina Surge 1,Stun Resistance 2
+53	Rey Dau β	Rey Sandgreaves β	Legs	60	0	-2	4	-3	0	311	Rey Dau's Voltage 1,Lord's Fury 1,Latent Power 1
+54	Rey Dau α	Rey Sandhelm α	Head	60	0	-2	4	-3	0	---	Rey Dau's Voltage 1,Lord's Favor 1,Latent Power 2,Evade Extender 1
+55	Rey Dau α	Rey Sandmail α	Chest	60	0	-2	4	-3	0	11-	Rey Dau's Voltage 1,Lord's Favor 1,Maximum Might 2,Stamina Surge 1
+56	Rey Dau α	Rey Sandbraces α	Arms	60	0	-2	4	-3	0	2--	Rey Dau's Voltage 1,Lord's Favor 1,Latent Power 2,Stun Resistance 1
+57	Rey Dau α	Rey Sandcoil α	Waist	60	0	-2	4	-3	0	2--	Rey Dau's Voltage 1,Lord's Favor 1,Stamina Surge 2,Stun Resistance 2
+58	Rey Dau α	Rey Sandgreaves α	Legs	60	0	-2	4	-3	0	3--	Rey Dau's Voltage 1,Lord's Favor 1,Latent Power 1,Maximum Might 1
+59	Uth Duna β	Duna Wildhelm β	Head	60	-1	4	-3	0	0	32-	Uth Duna's Cover 1,Lord's Fury 1,Tool Specialist 1,Earplugs 1
+60	Uth Duna β	Duna Wildmail β	Chest	60	-1	4	-3	0	0	31-	Uth Duna's Cover 1,Lord's Fury 1,Tool Specialist 2
+61	Uth Duna β	Duna Wildbraces β	Arms	60	-1	4	-3	0	0	311	Uth Duna's Cover 1,Lord's Fury 1,Peak Performance 1,Quick Sheathe 1
+62	Uth Duna β	Duna Wildcoil β	Waist	60	-1	4	-3	0	0	31-	Uth Duna's Cover 1,Lord's Fury 1,Peak Performance 2
+63	Uth Duna β	Duna Wildgreaves β	Legs	60	-1	4	-3	0	0	311	Uth Duna's Cover 1,Lord's Fury 1,Peak Performance 1
+64	Uth Duna α	Duna Wildhelm α	Head	60	-1	4	-3	0	0	21-	Uth Duna's Cover 1,Lord's Favor 1,Tool Specialist 2,Earplugs 1
+65	Uth Duna α	Duna Wildmail α	Chest	60	-1	4	-3	0	0	3--	Uth Duna's Cover 1,Lord's Favor 1,Tool Specialist 2,Aquatic/Oilsilt Mobility 1
+66	Uth Duna α	Duna Wildbraces α	Arms	60	-1	4	-3	0	0	21-	Uth Duna's Cover 1,Lord's Favor 1,Peak Performance 2,Quick Sheathe 1
+67	Uth Duna α	Duna Wildcoil α	Waist	60	-1	4	-3	0	0	21-	Uth Duna's Cover 1,Lord's Favor 1,Peak Performance 2,Aquatic/Oilsilt Mobility 1
+68	Uth Duna α	Duna Wildgreaves α	Legs	60	-1	4	-3	0	0	3--	Uth Duna's Cover 1,Lord's Favor 1,Peak Performance 1,Tool Specialist 1
+69	Dahaad β	Dahaad Shardhelm β	Head	60	-3	2	-1	2	-1	22-	Jin Dahaad's Revolt 1,Lord's Fury 1,Agitator 1
+70	Dahaad β	Dahaad Shardmail β	Chest	60	-3	2	-1	2	-1	32-	Jin Dahaad's Revolt 1,Lord's Fury 1,Adaptability 1,Bind Resistance 1
+71	Dahaad β	Dahaad Shardbraces β	Arms	60	-3	2	-1	2	-1	3--	Jin Dahaad's Revolt 1,Lord's Fury 1,Agitator 1,Adaptability 1
+72	Dahaad β	Dahaad Shardcoil β	Waist	60	-3	2	-1	2	-1	111	Jin Dahaad's Revolt 1,Lord's Fury 1,Weakness Exploit 1,Tremor Resistance 1
+73	Dahaad β	Dahaad Shardgreaves β	Legs	60	-3	2	-1	2	-1	2--	Jin Dahaad's Revolt 1,Lord's Fury 1,Agitator 2
+74	Dahaad α	Dahaad Shardhelm α	Head	60	-3	2	-1	2	-1	1--	Jin Dahaad's Revolt 1,Lord's Favor 1,Agitator 1,Weakness Exploit 1
+75	Dahaad α	Dahaad Shardmail α	Chest	60	-3	2	-1	2	-1	31-	Jin Dahaad's Revolt 1,Lord's Favor 1,Adaptability 1,Bind Resistance 2
+76	Dahaad α	Dahaad Shardbraces α	Arms	60	-3	2	-1	2	-1	---	Jin Dahaad's Revolt 1,Lord's Favor 1,Agitator 2,Adaptability 1
+77	Dahaad α	Dahaad Shardcoil α	Waist	60	-3	2	-1	2	-1	11-	Jin Dahaad's Revolt 1,Lord's Favor 1,Weakness Exploit 1,Tremor Resistance 2
+78	Dahaad α	Dahaad Shardgreaves α	Legs	60	-3	2	-1	2	-1	1--	Jin Dahaad's Revolt 1,Lord's Favor 1,Agitator 2,Tremor Resistance 1
+79	Damascus α	Damascus Helm α	Head	56	4	-2	0	0	0	31-	Wide-Range 1,Divine Blessing 2
+80	Damascus α	Damascus Mail α	Chest	56	4	-2	0	0	0	22-	Wide-Range 1,Recovery Up 2
+81	Damascus α	Damascus Vambraces α	Arms	56	4	-2	0	0	0	31-	Wide-Range 1,Divine Blessing 1
+82	Damascus α	Damascus Coil α	Waist	56	4	-2	0	0	0	32-	Wide-Range 1,Recovery Up 1
+83	Damascus α	Damascus Greaves α	Legs	56	4	-2	0	0	0	3--	Wide-Range 1,Item Prolonger 2
+84	Dober α	Dober Helm α	Head	56	-2	0	-1	-1	4	3--	Constitution 1,Stamina Surge 1
+85	Dober α	Dober Mail α	Chest	56	-2	0	-1	-1	4	32-	Constitution 1,Marathon Runner 1
+86	Dober α	Dober Vambraces α	Arms	56	-2	0	-1	-1	4	3--	Constitution 1,Stamina Surge 2
+87	Dober α	Dober Coil α	Waist	56	-2	0	-1	-1	4	31-	Constitution 1,Marathon Runner 2
+88	Dober α	Dober Greaves α	Legs	56	-2	0	-1	-1	4	22-	Constitution 1,Mushroomancer 2
+89	Artian α	Artian Helm α	Head	44	1	-2	-2	2	3	21-	Guardian's Protection 1,Flayer 1,Earplugs 1
+90	Artian α	Artian Mail α	Chest	44	1	-2	-2	2	3	211	Guardian's Protection 1,Flayer 1,Adaptability 1
+91	Artian α	Artian Vambraces α	Arms	44	1	-2	-2	2	3	2--	Guardian's Protection 1,Flayer 1,Blight Resistance 2
+92	Artian α	Artian Coil α	Waist	44	1	-2	-2	2	3	2--	Guardian's Protection 1,Flayer 1,Windproof 2
+93	Artian α	Artian Greaves α	Legs	44	1	-2	-2	2	3	2--	Guardian's Protection 1,Flayer 1,Tremor Resistance 2
+94	Melahoa α	Melahoa Hat α	Head	44	0	1	3	0	0	2--	Imparted Wisdom 1,Survival Expert 3,Poison Resistance 2
+95	Melahoa α	Melahoa Jacket α	Chest	44	0	1	3	0	0	2--	Imparted Wisdom 1,Tool Specialist 3
+96	Melahoa α	Melahoa Branch α	Arms	44	0	1	3	0	0	2--	Imparted Wisdom 1,Recovery Speed 3,Paralysis Resistance 2
+97	Melahoa α	Melahoa Folia α	Waist	44	0	1	3	0	0	2--	Imparted Wisdom 1,Recovery Up 3,Bleeding Resistance 2
+98	Melahoa α	Melahoa Roots α	Legs	44	0	1	3	0	0	2--	Imparted Wisdom 1,Mushroomancer 3
+99	Battle α	Battle Helm α	Head	44	2	-1	-1	0	0	2--	Imparted Wisdom 1,Stamina Surge 2
+100	Battle α	Battle Mail α	Chest	44	2	-1	-1	0	0	2--	Imparted Wisdom 1,Hunger Resistance 3,Sleep Resistance 2
+101	Battle α	Battle Vambraces α	Arms	44	2	-1	-1	0	0	2--	Imparted Wisdom 1,Free Meal 3
+102	Battle α	Battle Coil α	Waist	44	2	-1	-1	0	0	2--	Imparted Wisdom 1,Item Prolonger 3,Bind Resistance 2
+103	Battle α	Battle Greaves α	Legs	44	2	-1	-1	0	0	2--	Imparted Wisdom 1,Marathon Runner 3,Constitution 2
+104	High Metal α	High Metal Helm α	Head	44	0	-1	-2	3	0	2--	Imparted Wisdom 1,Stun Resistance 3,Partbreaker 1
+105	High Metal α	High Metal Mail α	Chest	44	0	-1	-2	3	0	2--	Imparted Wisdom 1,Iron Skin 3,Partbreaker 1
+106	High Metal α	High Metal Braces α	Arms	44	0	-1	-2	3	0	2--	Imparted Wisdom 1,Blast Resistance 3,Partbreaker 1
+107	High Metal α	High Metal Coil α	Waist	44	0	-1	-2	3	0	2--	Imparted Wisdom 1,Bombardier 3,Aquatic/Oilsilt Mobility 2
+108	High Metal α	High Metal Greaves α	Legs	44	0	-1	-2	3	0	2--	Imparted Wisdom 1,Flinch Free 3,Bleeding Resistance 3
+109	King Beetle α	King Beetle Vertex α	Head	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Heroics 1,Foray 1,Sleep Resistance 1
+110	King Beetle α	King Beetle Thorax α	Chest	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Heroics 1,Foray 1,Paralysis Resistance 1
+111	King Beetle α	King Beetle Brachia α	Arms	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Heroics 1,Foray 1,Poison Resistance 1
+112	King Beetle α	King Beetle Elytra α	Waist	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Heroics 1,Flayer 1,Paralysis Resistance 1
+113	King Beetle α	King Beetle Crura α	Legs	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Heroics 1,Flayer 1,Poison Resistance 1
+114	Butterfly α	Butterfly Vertex α	Head	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Constitution 1,Evade Window 1,Evade Extender 1
+115	Butterfly α	Butterfly Thorax α	Chest	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Constitution 1,Evade Window 1,Evade Extender 1
+116	Butterfly α	Butterfly Brachia α	Arms	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Constitution 1,Evade Window 1,Recovery Speed 2
+117	Butterfly α	Butterfly Elytra α	Waist	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Constitution 1,Evade Window 1,Evade Extender 1
+118	Butterfly α	Butterfly Crura α	Legs	44	-1	-1	2	0	2	2--	Imparted Wisdom 1,Constitution 1,Evade Window 1,Recovery Up 2
+119	Death Stench α	Death Stench Brain α	Head	44	3	2	-2	3	4	2--	Imparted Wisdom 1,Resentment 1,Ambush 1
+120	Death Stench α	Death Stench Muscle α	Chest	44	3	2	-2	3	4	2--	Imparted Wisdom 1,Resentment 1,Ambush 1
+121	Death Stench α	Death Stench Grip α	Arms	44	3	2	-2	3	4	2--	Imparted Wisdom 1,Resentment 1,Ambush 1
+122	Death Stench α	Death Stench Bowels α	Waist	44	3	2	-2	3	4	21-	Imparted Wisdom 1,Resentment 1,Intimidator 2
+123	Death Stench α	Death Stench Heel α	Legs	44	3	2	-2	3	4	21-	Imparted Wisdom 1,Resentment 1,Stun Resistance 2
+124	Sild α	Sild Hood α	Head	44	1	1	1	1	4	211	Imparted Wisdom 1,Botanist 3
+125	Sild α	Sild Coat α	Chest	44	1	1	1	1	4	2--	Imparted Wisdom 1,Wide-Range 4
+126	Suja α	Suja Sash α	Waist	44	1	1	1	4	1	211	Imparted Wisdom 1,Divine Blessing 3
+127	Azuz α	Azuz Headdress α	Head	44	4	1	1	1	1	2--	Imparted Wisdom 1,Maximum Might 2
+128	Azuz α	Azuz Apron α	Chest	44	4	1	1	1	1	11-	Imparted Wisdom 1,Heroics 3
+129	Azuz α	Azuz Pants α	Legs	44	4	1	1	1	1	211	Imparted Wisdom 1,Geologist 3
+130	Kunafa α	Kunafa Headgear α	Head	44	1	1	4	1	1	2--	Imparted Wisdom 1,Wide-Range 2,Palico Rally 1
+131	Kunafa α	Kunafa Cloak α	Chest	44	1	1	4	1	1	2--	Imparted Wisdom 1,Free Meal 2,Palico Rally 1
+132	Kunafa α	Kunafa Sash α	Waist	44	1	1	4	1	1	2--	Imparted Wisdom 1,Speed Eating 2,Palico Rally 1
+133	Kunafa α	Kunafa Chaps α	Legs	44	1	1	4	1	1	2--	Imparted Wisdom 1,Wide-Range 2,Palico Rally 1
+134	Commission α	Commission Helm α	Head	44	2	2	0	0	0	1--	Agitator 1,Maximum Might 1
+135	Commission α	Commission Mail α	Chest	44	2	2	0	0	0	1--	Agitator 1,Divine Blessing 2
+136	Commission α	Commission Vambraces α	Arms	44	2	2	0	0	0	1--	Agitator 1,Quick Sheathe 2
+137	Commission α	Commission Coil α	Waist	44	2	2	0	0	0	1--	Agitator 1,Tool Specialist 1
+138	Commission α	Commission Greaves α	Legs	44	2	2	0	0	0	1--	Agitator 1,Earplugs 1
+139	Blango β	Blango Helm β	Head	48	-4	1	0	4	0	211	Blangonga's Spirit 1,Alluring Pelt 1,Wide-Range 2
+140	Blango β	Blango Mail β	Chest	48	-4	1	0	4	0	2--	Blangonga's Spirit 1,Alluring Pelt 1,Agitator 2
+141	Blango β	Blango Vambraces β	Arms	48	-4	1	0	4	0	22-	Blangonga's Spirit 1,Alluring Pelt 1,Counterstrike 1
+142	Blango β	Blango Coil β	Waist	48	-4	1	0	4	0	11-	Blangonga's Spirit 1,Alluring Pelt 1,Agitator 2
+143	Blango β	Blango Greaves β	Legs	48	-4	1	0	4	0	22-	Blangonga's Spirit 1,Alluring Pelt 1,Agitator 1
+144	Blango α	Blango Helm α	Head	48	-4	1	0	4	0	11-	Blangonga's Spirit 1,Fortifying Pelt 1,Wide-Range 2,Counterstrike 1
+145	Blango α	Blango Mail α	Chest	48	-4	1	0	4	0	---	Blangonga's Spirit 1,Fortifying Pelt 1,Agitator 2,Item Prolonger 2
+146	Blango α	Blango Vambraces α	Arms	48	-4	1	0	4	0	2--	Blangonga's Spirit 1,Fortifying Pelt 1,Counterstrike 1,Palico Rally 2
+147	Blango α	Blango Coil α	Waist	48	-4	1	0	4	0	1--	Blangonga's Spirit 1,Fortifying Pelt 1,Agitator 2,Wide-Range 1
+148	Blango α	Blango Greaves α	Legs	48	-4	1	0	4	0	11-	Blangonga's Spirit 1,Fortifying Pelt 1,Agitator 1,Counterstrike 1
+149	Gravios β	Gravios Helm β	Head	52	4	-3	1	0	-2	22-	Gravios's Protection 1,Scale Layering 1,Peak Performance 1
+150	Gravios β	Gravios Mail β	Chest	52	4	-3	1	0	-2	22-	Gravios's Protection 1,Scale Layering 1,Peak Performance 1,Recovery Speed 1
+151	Gravios β	Gravios Vambraces β	Arms	52	4	-3	1	0	-2	2--	Gravios's Protection 1,Scale Layering 1,Peak Performance 2
+152	Gravios β	Gravios Coil β	Waist	52	4	-3	1	0	-2	21-	Gravios's Protection 1,Scale Layering 1,Peak Performance 1,Flinch Free 1
+153	Gravios β	Gravios Greaves β	Legs	52	4	-3	1	0	-2	22-	Gravios's Protection 1,Scale Layering 1,Tremor Resistance 1,Recovery Speed 1
+154	Gravios α	Gravios Helm α	Head	52	4	-3	1	0	-2	21-	Gravios's Protection 1,Scaling Prowess 1,Peak Performance 1,Tremor Resistance 1
+155	Gravios α	Gravios Mail α	Chest	52	4	-3	1	0	-2	21-	Gravios's Protection 1,Scaling Prowess 1,Peak Performance 1,Recovery Speed 2
+156	Gravios α	Gravios Vambraces α	Arms	52	4	-3	1	0	-2	1--	Gravios's Protection 1,Scaling Prowess 1,Peak Performance 2,Flinch Free 1
+157	Gravios α	Gravios Coil α	Waist	52	4	-3	1	0	-2	2--	Gravios's Protection 1,Scaling Prowess 1,Peak Performance 1,Flinch Free 2
+158	Gravios α	Gravios Greaves α	Legs	52	4	-3	1	0	-2	21-	Gravios's Protection 1,Scaling Prowess 1,Tremor Resistance 2,Recovery Speed 1
+159	Guardian Rathalos β	G. Rathalos Helm β	Head	48	3	1	-2	1	-5	22-	Rathalos's Flare 1,Guardian's Protection 1,Weakness Exploit 1
+160	Guardian Rathalos β	G. Rathalos Mail β	Chest	48	3	1	-2	1	-5	2--	Rathalos's Flare 1,Guardian's Protection 1,Weakness Exploit 1,Intimidator 1
+161	Guardian Rathalos β	G. Rathalos Vambraces β	Arms	48	3	1	-2	1	-5	211	Rathalos's Flare 1,Guardian's Protection 1,Weakness Exploit 1
+162	Guardian Rathalos β	G. Rathalos Coil β	Waist	48	3	1	-2	1	-5	221	Rathalos's Flare 1,Guardian's Protection 1,Windproof 1
+163	Guardian Rathalos β	G. Rathalos Greaves β	Legs	48	3	1	-2	1	-5	2--	Rathalos's Flare 1,Guardian's Protection 1,Weakness Exploit 1,Windproof 1
+164	Guardian Rathalos α	G. Rathalos Helm α	Head	48	3	1	-2	1	-5	11-	Rathalos's Flare 1,Guardian's Pulse 1,Weakness Exploit 1,Survival Expert 2
+165	Guardian Rathalos α	G. Rathalos Mail α	Chest	48	3	1	-2	1	-5	1--	Rathalos's Flare 1,Guardian's Pulse 1,Weakness Exploit 1,Intimidator 2
+166	Guardian Rathalos α	G. Rathalos Vambraces α	Arms	48	3	1	-2	1	-5	2--	Rathalos's Flare 1,Guardian's Pulse 1,Weakness Exploit 1,Intimidator 1,Survival Expert 1
+167	Guardian Rathalos α	G. Rathalos Coil α	Waist	48	3	1	-2	1	-5	11-	Rathalos's Flare 1,Guardian's Pulse 1,Weakness Exploit 1,Windproof 1
+168	Guardian Rathalos α	G. Rathalos Greaves α	Legs	48	3	1	-2	1	-5	1--	Rathalos's Flare 1,Guardian's Pulse 1,Weakness Exploit 1,Windproof 2
+169	Rathalos β	Rathalos Helm β	Head	48	3	1	-2	1	-3	22-	Rathalos's Flare 1,Scale Layering 1,Evade Window 1,Constitution 1
+170	Rathalos β	Rathalos Mail β	Chest	48	3	1	-2	1	-3	11-	Rathalos's Flare 1,Scale Layering 1,Adrenaline Rush 2
+171	Rathalos β	Rathalos Vambraces β	Arms	48	3	1	-2	1	-3	211	Rathalos's Flare 1,Scale Layering 1,Constitution 2
+172	Rathalos β	Rathalos Coil β	Waist	48	3	1	-2	1	-3	2--	Rathalos's Flare 1,Scale Layering 1,Adrenaline Rush 2
+173	Rathalos β	Rathalos Greaves β	Legs	48	3	1	-2	1	-3	221	Rathalos's Flare 1,Scale Layering 1,Evade Window 2
+174	Rathalos α	Rathalos Helm α	Head	48	3	1	-2	1	-3	11-	Rathalos's Flare 1,Scaling Prowess 1,Evade Window 2,Constitution 1
+175	Rathalos α	Rathalos Mail α	Chest	48	3	1	-2	1	-3	1--	Rathalos's Flare 1,Scaling Prowess 1,Adrenaline Rush 2,Constitution 1
+176	Rathalos α	Rathalos Vambraces α	Arms	48	3	1	-2	1	-3	11-	Rathalos's Flare 1,Scaling Prowess 1,Constitution 2,Evade Window 1
+177	Rathalos α	Rathalos Coil α	Waist	48	3	1	-2	1	-3	---	Rathalos's Flare 1,Scaling Prowess 1,Adrenaline Rush 2,Evade Window 1
+178	Rathalos α	Rathalos Greaves α	Legs	48	3	1	-2	1	-3	2--	Rathalos's Flare 1,Scaling Prowess 1,Evade Window 2,Adrenaline Rush 1
+179	Xu Wu β	Xu Wu Helm β	Head	48	1	1	1	-3	2	21-	Xu Wu's Vigor 1,Buttery Leathercraft 1,Adrenaline Rush 2
+180	Xu Wu β	Xu Wu Mail β	Chest	48	1	1	1	-3	2	11-	Xu Wu's Vigor 1,Buttery Leathercraft 1,Heroics 3
+181	Xu Wu β	Xu Wu Vambraces β	Arms	48	1	1	1	-3	2	221	Xu Wu's Vigor 1,Buttery Leathercraft 1,Earplugs 1
+182	Xu Wu β	Xu Wu Coil β	Waist	48	1	1	1	-3	2	211	Xu Wu's Vigor 1,Buttery Leathercraft 1,Earplugs 1,Heroics 1
+183	Xu Wu β	Xu Wu Greaves β	Legs	48	1	1	1	-3	2	221	Xu Wu's Vigor 1,Buttery Leathercraft 1,Adrenaline Rush 1
+184	Xu Wu α	Xu Wu Helm α	Head	48	1	1	1	-3	2	1--	Xu Wu's Vigor 1,Flexible Leathercraft 1,Adrenaline Rush 2,Ambush 1
+185	Xu Wu α	Xu Wu Mail α	Chest	48	1	1	1	-3	2	---	Xu Wu's Vigor 1,Flexible Leathercraft 1,Heroics 3,Ambush 1
+186	Xu Wu α	Xu Wu Vambraces α	Arms	48	1	1	1	-3	2	21-	Xu Wu's Vigor 1,Flexible Leathercraft 1,Earplugs 2
+187	Xu Wu α	Xu Wu Coil α	Waist	48	1	1	1	-3	2	2--	Xu Wu's Vigor 1,Flexible Leathercraft 1,Earplugs 1,Heroics 2
+188	Xu Wu α	Xu Wu Greaves α	Legs	48	1	1	1	-3	2	21-	Xu Wu's Vigor 1,Flexible Leathercraft 1,Adrenaline Rush 1,Ambush 1
+189	Guardian Ebony β	G. Ebony Helm β	Head	48	-2	-3	-2	-2	4	2--	Ebony Odogaron's Power 1,Guardian's Protection 1,Burst 2
+190	Guardian Ebony β	G. Ebony Mail β	Chest	48	-2	-3	-2	-2	4	22-	Ebony Odogaron's Power 1,Guardian's Protection 1,Earplugs 1
+191	Guardian Ebony β	G. Ebony Braces β	Arms	48	-2	-3	-2	-2	4	21-	Ebony Odogaron's Power 1,Guardian's Protection 1,Burst 1,Divine Blessing 1
+192	Guardian Ebony β	G. Ebony Coil β	Waist	48	-2	-3	-2	-2	4	21-	Ebony Odogaron's Power 1,Guardian's Protection 1,Burst 1
+193	Guardian Ebony β	G. Ebony Greaves β	Legs	48	-2	-3	-2	-2	4	21-	Ebony Odogaron's Power 1,Guardian's Protection 1,Earplugs 1,Divine Blessing 1
+194	Guardian Ebony α	G. Ebony Helm α	Head	48	-2	-3	-2	-2	4	---	Ebony Odogaron's Power 1,Guardian's Pulse 1,Burst 2,Earplugs 1
+195	Guardian Ebony α	G. Ebony Mail α	Chest	48	-2	-3	-2	-2	4	2--	Ebony Odogaron's Power 1,Guardian's Pulse 1,Earplugs 1,Bleeding Resistance 2
+196	Guardian Ebony α	G. Ebony Braces α	Arms	48	-2	-3	-2	-2	4	---	Ebony Odogaron's Power 1,Guardian's Pulse 1,Burst 2,Divine Blessing 1
+197	Guardian Ebony α	G. Ebony Coil α	Waist	48	-2	-3	-2	-2	4	2--	Ebony Odogaron's Power 1,Guardian's Pulse 1,Burst 1,Bleeding Resistance 1
+198	Guardian Ebony α	G. Ebony Greaves α	Legs	48	-2	-3	-2	-2	4	2--	Ebony Odogaron's Power 1,Guardian's Pulse 1,Earplugs 1,Divine Blessing 2
+199	Ajarakan β	Ajarakan Helm β	Head	48	3	-3	1	-2	0	21-	Alluring Pelt 1,Resentment 1,Bombardier 1
+200	Ajarakan β	Ajarakan Mail β	Chest	48	3	-3	1	-2	0	2--	Alluring Pelt 1,Resentment 2
+201	Ajarakan β	Ajarakan Vambraces β	Arms	48	3	-3	1	-2	0	21-	Alluring Pelt 1,Partbreaker 1,Bombardier 1
+202	Ajarakan β	Ajarakan Coil β	Waist	48	3	-3	1	-2	0	2--	Alluring Pelt 1,Partbreaker 2,Blast Resistance 1
+203	Ajarakan β	Ajarakan Greaves β	Legs	48	3	-3	1	-2	0	11-	Alluring Pelt 1,Partbreaker 2
+204	Ajarakan α	Ajarakan Helm α	Head	48	3	-3	1	-2	0	1--	Fortifying Pelt 1,Resentment 2,Bombardier 1
+205	Ajarakan α	Ajarakan Mail α	Chest	48	3	-3	1	-2	0	1--	Fortifying Pelt 1,Resentment 2,Blast Resistance 1
+206	Ajarakan α	Ajarakan Vambraces α	Arms	48	3	-3	1	-2	0	2--	Fortifying Pelt 1,Partbreaker 1,Bombardier 2
+207	Ajarakan α	Ajarakan Coil α	Waist	48	3	-3	1	-2	0	1--	Fortifying Pelt 1,Partbreaker 2,Blast Resistance 2
+208	Ajarakan α	Ajarakan Greaves α	Legs	48	3	-3	1	-2	0	---	Fortifying Pelt 1,Partbreaker 2,Resentment 1
+209	Guardian Doshaguma β	G. Doshaguma Helm β	Head	48	-3	2	-1	-2	2	221	Doshaguma's Might 1,Guardian's Protection 1,Heroics 1
+210	Guardian Doshaguma β	G. Doshaguma Mail β	Chest	48	-3	2	-1	-2	2	22-	Doshaguma's Might 1,Guardian's Protection 1,Constitution 2
+211	Guardian Doshaguma β	G. Doshaguma Braces β	Arms	48	-3	2	-1	-2	2	221	Doshaguma's Might 1,Guardian's Protection 1,Heroics 1
+212	Guardian Doshaguma β	G. Doshaguma Coil β	Waist	48	-3	2	-1	-2	2	21-	Doshaguma's Might 1,Guardian's Protection 1,Heroics 2
+213	Guardian Doshaguma β	G. Doshaguma Greaves β	Legs	48	-3	2	-1	-2	2	21-	Doshaguma's Might 1,Guardian's Protection 1,Heroics 1,Constitution 1
+214	Guardian Doshaguma α	G. Doshaguma Helm α	Head	48	-3	2	-1	-2	2	21-	Doshaguma's Might 1,Guardian's Pulse 1,Heroics 1,Hunger Resistance 2
+215	Guardian Doshaguma α	G. Doshaguma Mail α	Chest	48	-3	2	-1	-2	2	21-	Doshaguma's Might 1,Guardian's Pulse 1,Constitution 2,Iron Skin 1
+216	Guardian Doshaguma α	G. Doshaguma Braces α	Arms	48	-3	2	-1	-2	2	111	Doshaguma's Might 1,Guardian's Pulse 1,Heroics 1,Iron Skin 2
+217	Guardian Doshaguma α	G. Doshaguma Coil α	Waist	48	-3	2	-1	-2	2	2--	Doshaguma's Might 1,Guardian's Pulse 1,Heroics 2,Hunger Resistance 1
+218	Guardian Doshaguma α	G. Doshaguma Greaves α	Legs	48	-3	2	-1	-2	2	2--	Doshaguma's Might 1,Guardian's Pulse 1,Heroics 1,Constitution 2
+219	Doshaguma β	Doshaguma Helm β	Head	48	-3	2	-1	-1	4	211	Doshaguma's Might 1,Alluring Pelt 1,Free Meal 1,Stun Resistance 1
+220	Doshaguma β	Doshaguma Mail β	Chest	48	-3	2	-1	-1	4	111	Doshaguma's Might 1,Alluring Pelt 1,Latent Power 1
+221	Doshaguma β	Doshaguma Braces β	Arms	48	-3	2	-1	-1	4	21-	Doshaguma's Might 1,Alluring Pelt 1,Stun Resistance 1,Stamina Surge 1
+222	Doshaguma β	Doshaguma Coil β	Waist	48	-3	2	-1	-1	4	22-	Doshaguma's Might 1,Alluring Pelt 1,Latent Power 1
+223	Doshaguma β	Doshaguma Greaves β	Legs	48	-3	2	-1	-1	4	211	Doshaguma's Might 1,Alluring Pelt 1,Free Meal 1,Recovery Up 1
+224	Doshaguma α	Doshaguma Helm α	Head	48	-3	2	-1	-1	4	21-	Doshaguma's Might 1,Fortifying Pelt 1,Free Meal 2,Stun Resistance 1
+225	Doshaguma α	Doshaguma Mail α	Chest	48	-3	2	-1	-1	4	1--	Doshaguma's Might 1,Fortifying Pelt 1,Latent Power 1,Stamina Surge 1
+226	Doshaguma α	Doshaguma Braces α	Arms	48	-3	2	-1	-1	4	2--	Doshaguma's Might 1,Fortifying Pelt 1,Stun Resistance 2,Stamina Surge 1
+227	Doshaguma α	Doshaguma Coil α	Waist	48	-3	2	-1	-1	4	1--	Doshaguma's Might 1,Fortifying Pelt 1,Latent Power 2
+228	Doshaguma α	Doshaguma Greaves α	Legs	48	-3	2	-1	-1	4	21-	Doshaguma's Might 1,Fortifying Pelt 1,Free Meal 1,Recovery Up 2
+229	Guardian Fulgur β	G. Fulgur Helm β	Head	48	-1	-1	2	-3	-2	2--	Fulgur Anjanath's Will 1,Guardian's Protection 1,Agitator 2
+230	Guardian Fulgur β	G. Fulgur Mail β	Chest	48	-1	-1	2	-3	-2	211	Fulgur Anjanath's Will 1,Guardian's Protection 1,Maximum Might 1
+231	Guardian Fulgur β	G. Fulgur Vambraces β	Arms	48	-1	-1	2	-3	-2	22-	Fulgur Anjanath's Will 1,Guardian's Protection 1,Maximum Might 1
+232	Guardian Fulgur β	G. Fulgur Coil β	Waist	48	-1	-1	2	-3	-2	22-	Fulgur Anjanath's Will 1,Guardian's Protection 1,Stamina Surge 1
+233	Guardian Fulgur β	G. Fulgur Greaves β	Legs	48	-1	-1	2	-3	-2	21-	Fulgur Anjanath's Will 1,Guardian's Protection 1,Coalescence 1,Stamina Surge 1
+234	Guardian Fulgur α	G. Fulgur Helm α	Head	48	-1	-1	2	-3	-2	---	Fulgur Anjanath's Will 1,Guardian's Pulse 1,Agitator 2,Coalescence 1
+235	Guardian Fulgur α	G. Fulgur Mail α	Chest	48	-1	-1	2	-3	-2	2--	Fulgur Anjanath's Will 1,Guardian's Pulse 1,Maximum Might 1,Coalescence 1
+236	Guardian Fulgur α	G. Fulgur Vambraces α	Arms	48	-1	-1	2	-3	-2	1--	Fulgur Anjanath's Will 1,Guardian's Pulse 1,Maximum Might 1,Agitator 1
+237	Guardian Fulgur α	G. Fulgur Coil α	Waist	48	-1	-1	2	-3	-2	11-	Fulgur Anjanath's Will 1,Guardian's Pulse 1,Stamina Surge 1,Maximum Might 1
+238	Guardian Fulgur α	G. Fulgur Greaves α	Legs	48	-1	-1	2	-3	-2	1--	Fulgur Anjanath's Will 1,Guardian's Pulse 1,Coalescence 1,Stamina Surge 2
+239	Gajau α	Gajau Boots α	Legs	44	0	5	0	0	0	111	Flexible Leathercraft 1,Water Resistance 1,Outdoorsman 1
+240	Guardian Seikret β	G. Seikret Coil β	Waist	44	0	0	4	0	-3	21-	Guardian's Protection 1,Jump Master 1,Earplugs 1
+241	Guardian Seikret α	G. Seikret Coil α	Waist	44	0	0	4	0	-3	1--	Guardian's Pulse 1,Jump Master 1,Earplugs 2
+242	Ingot α	Ingot Helm α	Head	44	-2	0	3	-1	0	2--	Divine Blessing 2,Resentment 1
+243	Ingot α	Ingot Mail α	Chest	44	-2	0	3	-1	0	11-	Windproof 1,Resentment 1
+244	Ingot α	Ingot Vambraces α	Arms	44	-2	0	3	-1	0	2--	Stun Resistance 2,Resentment 1
+245	Ingot α	Ingot Coil α	Waist	44	-2	0	3	-1	0	111	Divine Blessing 1,Resentment 1
+246	Ingot α	Ingot Greaves α	Legs	44	-2	0	3	-1	0	2--	Windproof 1,Resentment 1
+247	Rathian β	Rathian Helm β	Head	38	2	0	-2	0	-3	21-	Scale Layering 1,Divine Blessing 1
+248	Rathian β	Rathian Mail β	Chest	38	2	0	-2	0	-3	111	Scale Layering 1,Foray 1
+249	Rathian β	Rathian Vambraces β	Arms	38	2	0	-2	0	-3	1--	Scale Layering 1,Foray 1,Divine Blessing 1
+250	Rathian β	Rathian Coil β	Waist	38	2	0	-2	0	-3	2--	Scale Layering 1,Foray 1
+251	Rathian β	Rathian Greaves β	Legs	38	2	0	-2	0	-3	1--	Scale Layering 1,Foray 1,Recovery Speed 1
+252	Rathian α	Rathian Helm α	Head	38	2	0	-2	0	-3	2--	Scaling Prowess 1,Divine Blessing 1,Recovery Speed 1
+253	Rathian α	Rathian Mail α	Chest	38	2	0	-2	0	-3	---	Scaling Prowess 1,Foray 2
+254	Rathian α	Rathian Vambraces α	Arms	38	2	0	-2	0	-3	---	Scaling Prowess 1,Foray 1,Divine Blessing 2
+255	Rathian α	Rathian Coil α	Waist	38	2	0	-2	0	-3	---	Scaling Prowess 1,Foray 1,Tool Specialist 1
+256	Rathian α	Rathian Greaves α	Legs	38	2	0	-2	0	-3	---	Scaling Prowess 1,Foray 1,Recovery Speed 2
+257	Hirabami β	Hirabami Headdress β	Head	38	-3	2	-2	3	0	11-	Scale Layering 1,Evade Window 1
+258	Hirabami β	Hirabami Mail β	Chest	38	-3	2	-2	3	0	2--	Scale Layering 1,Ice Resistance 1,Evade Window 1
+259	Hirabami β	Hirabami Vambraces β	Arms	38	-3	2	-2	3	0	11-	Scale Layering 1,Evade Window 1
+260	Hirabami β	Hirabami Coil β	Waist	38	-3	2	-2	3	0	2--	Scale Layering 1,Evade Window 1
+261	Hirabami β	Hirabami Greaves β	Legs	38	-3	2	-2	3	0	2--	Scale Layering 1,Peak Performance 1
+262	Hirabami α	Hirabami Headdress α	Head	38	-3	2	-2	3	0	---	Scaling Prowess 1,Evade Window 1,Evade Extender 1
+263	Hirabami α	Hirabami Mail α	Chest	38	-3	2	-2	3	0	1--	Scaling Prowess 1,Ice Resistance 2,Evade Window 1
+264	Hirabami α	Hirabami Vambraces α	Arms	38	-3	2	-2	3	0	---	Scaling Prowess 1,Evade Window 1,Peak Performance 1
+265	Hirabami α	Hirabami Coil α	Waist	38	-3	2	-2	3	0	---	Scaling Prowess 1,Evade Window 2
+266	Hirabami α	Hirabami Greaves α	Legs	38	-3	2	-2	3	0	1--	Scaling Prowess 1,Ice Resistance 1,Peak Performance 1
+267	Balahara β	Balahara Helm β	Head	38	-1	2	-3	1	1	2--	Scale Layering 1,Evade Window 1
+268	Balahara β	Balahara Mail β	Chest	38	-1	2	-3	1	1	111	Scale Layering 1,Geologist 1
+269	Balahara β	Balahara Vambraces β	Arms	38	-1	2	-3	1	1	2--	Scale Layering 1,Evade Extender 1
+270	Balahara β	Balahara Coil β	Waist	38	-1	2	-3	1	1	11-	Scale Layering 1,Evade Window 1
+271	Balahara β	Balahara Greaves β	Legs	38	-1	2	-3	1	1	111	Scale Layering 1,Evade Extender 1
+272	Balahara α	Balahara Helm α	Head	38	-1	2	-3	1	1	1--	Scaling Prowess 1,Geologist 1,Evade Window 1
+273	Balahara α	Balahara Mail α	Chest	38	-1	2	-3	1	1	1--	Scaling Prowess 1,Geologist 1,Stamina Surge 1
+274	Balahara α	Balahara Vambraces α	Arms	38	-1	2	-3	1	1	---	Scaling Prowess 1,Evade Extender 1,Stamina Surge 1
+275	Balahara α	Balahara Coil α	Waist	38	-1	2	-3	1	1	---	Scaling Prowess 1,Evade Extender 1,Evade Window 1
+276	Balahara α	Balahara Greaves α	Legs	38	-1	2	-3	1	1	11-	Scaling Prowess 1,Evade Extender 1,Geologist 1
+277	Nerscylla β	Nerscylla Helm β	Head	38	-2	2	-2	1	2	2--	Neopteron Camouflage 1,Bind Resistance 1
+278	Nerscylla β	Nerscylla Mail β	Chest	38	-2	2	-2	1	2	111	Neopteron Camouflage 1,Ambush 1
+279	Nerscylla β	Nerscylla Vambraces β	Arms	38	-2	2	-2	1	2	2--	Neopteron Camouflage 1,Ambush 1
+280	Nerscylla β	Nerscylla Coil β	Waist	38	-2	2	-2	1	2	11-	Neopteron Camouflage 1,Bind Resistance 1
+281	Nerscylla β	Nerscylla Greaves β	Legs	38	-2	2	-2	1	2	21-	Neopteron Camouflage 1,Sleep Resistance 1
+282	Nerscylla α	Nerscylla Helm α	Head	38	-2	2	-2	1	2	---	Neopteron Alert 1,Bind Resistance 1,Poison Resistance 2
+283	Nerscylla α	Nerscylla Mail α	Chest	38	-2	2	-2	1	2	---	Neopteron Alert 1,Ambush 1,Weakness Exploit 1
+284	Nerscylla α	Nerscylla Vambraces α	Arms	38	-2	2	-2	1	2	1--	Neopteron Alert 1,Ambush 1,Poison Resistance 1
+285	Nerscylla α	Nerscylla Coil α	Waist	38	-2	2	-2	1	2	---	Neopteron Alert 1,Bind Resistance 1,Sleep Resistance 2
+286	Nerscylla α	Nerscylla Greaves α	Legs	38	-2	2	-2	1	2	1--	Neopteron Alert 1,Ambush 1,Sleep Resistance 1
+287	Gypceros β	Gypceros Helm β	Head	36	-4	3	4	-1	1	11-	Buttery Leathercraft 1,Stamina Surge 1
+288	Gypceros β	Gypceros Mail β	Chest	36	-4	3	4	-1	1	2--	Buttery Leathercraft 1,Stamina Surge 1
+289	Gypceros β	Gypceros Vambraces β	Arms	36	-4	3	4	-1	1	1--	Buttery Leathercraft 1,Resentment 2
+290	Gypceros β	Gypceros Coil β	Waist	36	-4	3	4	-1	1	21-	Buttery Leathercraft 1,Stamina Surge 1
+291	Gypceros β	Gypceros Greaves β	Legs	36	-4	3	4	-1	1	1--	Buttery Leathercraft 1,Resentment 1,Marathon Runner 1
+292	Gypceros α	Gypceros Helm α	Head	36	-4	3	4	-1	1	1--	Flexible Leathercraft 1,Stamina Surge 1,Blindsider 1
+293	Gypceros α	Gypceros Mail α	Chest	36	-4	3	4	-1	1	1--	Flexible Leathercraft 1,Stamina Surge 1,Poison Resistance 1
+294	Gypceros α	Gypceros Vambraces α	Arms	36	-4	3	4	-1	1	---	Flexible Leathercraft 1,Resentment 2,Poison Resistance 1
+295	Gypceros α	Gypceros Coil α	Waist	36	-4	3	4	-1	1	1--	Flexible Leathercraft 1,Stamina Surge 1,Resentment 1
+296	Gypceros α	Gypceros Greaves α	Legs	36	-4	3	4	-1	1	---	Flexible Leathercraft 1,Resentment 1,Marathon Runner 2
+297	Rompopolo β	Rompopolo Helm β	Head	36	0	-3	0	0	1	21-	Buttery Leathercraft 1,Wide-Range 1
+298	Rompopolo β	Rompopolo Mail β	Chest	36	0	-3	0	0	1	2--	Buttery Leathercraft 1,Poison Resistance 2
+299	Rompopolo β	Rompopolo Vambraces β	Arms	36	0	-3	0	0	1	2--	Buttery Leathercraft 1,Earplugs 1
+300	Rompopolo β	Rompopolo Coil β	Waist	36	0	-3	0	0	1	1--	Buttery Leathercraft 1,Foray 1
+301	Rompopolo β	Rompopolo Greaves β	Legs	36	0	-3	0	0	1	2--	Buttery Leathercraft 1,Wide-Range 2
+302	Rompopolo α	Rompopolo Helm α	Head	36	0	-3	0	0	1	11-	Flexible Leathercraft 1,Wide-Range 2
+303	Rompopolo α	Rompopolo Mail α	Chest	36	0	-3	0	0	1	1--	Flexible Leathercraft 1,Poison Resistance 2,Wide-Range 1
+304	Rompopolo α	Rompopolo Vambraces α	Arms	36	0	-3	0	0	1	1--	Flexible Leathercraft 1,Poison Resistance 1,Earplugs 1
+305	Rompopolo α	Rompopolo Coil α	Waist	36	0	-3	0	0	1	---	Flexible Leathercraft 1,Wide-Range 1,Foray 1
+306	Rompopolo α	Rompopolo Greaves α	Legs	36	0	-3	0	0	1	---	Flexible Leathercraft 1,Wide-Range 2,Earplugs 1
+307	Conga β	Conga Helm β	Head	36	-3	1	1	-1	2	2--	Alluring Pelt 1,Intimidator 1
+308	Conga β	Conga Mail β	Chest	36	-3	1	1	-1	2	111	Alluring Pelt 1,Intimidator 2
+309	Conga β	Conga Vambraces β	Arms	36	-3	1	1	-1	2	1--	Alluring Pelt 1,Mushroomancer 1
+310	Conga β	Conga Coil β	Waist	36	-3	1	1	-1	2	2--	Alluring Pelt 1,Mushroomancer 1
+311	Conga β	Conga Greaves β	Legs	36	-3	1	1	-1	2	2--	Alluring Pelt 1,Burst 1
+312	Conga α	Conga Helm α	Head	36	-3	1	1	-1	2	1--	Fortifying Pelt 1,Intimidator 1,Free Meal 1
+313	Conga α	Conga Mail α	Chest	36	-3	1	1	-1	2	---	Fortifying Pelt 1,Intimidator 2,Burst 1
+314	Conga α	Conga Vambraces α	Arms	36	-3	1	1	-1	2	---	Fortifying Pelt 1,Mushroomancer 1,Speed Eating 1
+315	Conga α	Conga Coil α	Waist	36	-3	1	1	-1	2	1--	Fortifying Pelt 1,Mushroomancer 1,Free Meal 1
+316	Conga α	Conga Greaves α	Legs	36	-3	1	1	-1	2	---	Fortifying Pelt 1,Mushroomancer 1,Burst 1
+317	Lala Barina β	Barina Headgear β	Head	36	-3	3	0	0	3	1--	Neopteron Camouflage 1,Foray 1
+318	Lala Barina β	Barina Mail β	Chest	36	-3	3	0	0	3	1--	Neopteron Camouflage 1,Recovery Up 1,Evade Window 1
+319	Lala Barina β	Barina Vambraces β	Arms	36	-3	3	0	0	3	21-	Neopteron Camouflage 1,Recovery Up 1
+320	Lala Barina β	Barina Coil β	Waist	36	-3	3	0	0	3	21-	Neopteron Camouflage 1,Paralysis Resistance 1
+321	Lala Barina β	Barina Greaves β	Legs	36	-3	3	0	0	3	111	Neopteron Camouflage 1,Evade Window 1
+322	Lala Barina α	Barina Headgear α	Head	36	-3	3	0	0	3	---	Neopteron Alert 1,Paralysis Resistance 1,Foray 1
+323	Lala Barina α	Barina Mail α	Chest	36	-3	3	0	0	3	---	Neopteron Alert 1,Recovery Up 2,Evade Window 1
+324	Lala Barina α	Barina Vambraces α	Arms	36	-3	3	0	0	3	---	Neopteron Alert 1,Recovery Up 1,Foray 1
+325	Lala Barina α	Barina Coil α	Waist	36	-3	3	0	0	3	2--	Neopteron Alert 1,Paralysis Resistance 2
+326	Lala Barina α	Barina Greaves α	Legs	36	-3	3	0	0	3	---	Neopteron Alert 1,Evade Window 1,Foray 1
+327	Quematrice β	Quematrice Helm β	Head	36	2	-3	0	-1	0	2--	Scale Layering 1,Latent Power 1
+328	Quematrice β	Quematrice Mail β	Chest	36	2	-3	0	-1	0	1--	Scale Layering 1,Latent Power 1
+329	Quematrice β	Quematrice Braces β	Arms	36	2	-3	0	-1	0	21-	Scale Layering 1,Flinch Free 1
+330	Quematrice β	Quematrice Coil β	Waist	36	2	-3	0	-1	0	2--	Scale Layering 1,Fire Resistance 2
+331	Quematrice β	Quematrice Greaves β	Legs	36	2	-3	0	-1	0	111	Scale Layering 1,Flinch Free 1
+332	Quematrice α	Quematrice Helm α	Head	36	2	-3	0	-1	0	1--	Scaling Prowess 1,Flinch Free 1,Latent Power 1
+333	Quematrice α	Quematrice Mail α	Chest	36	2	-3	0	-1	0	---	Scaling Prowess 1,Fire Resistance 1,Latent Power 1
+334	Quematrice α	Quematrice Braces α	Arms	36	2	-3	0	-1	0	11-	Scaling Prowess 1,Flinch Free 1,Fire Resistance 1
+335	Quematrice α	Quematrice Coil α	Waist	36	2	-3	0	-1	0	---	Scaling Prowess 1,Fire Resistance 1,Latent Power 1
+336	Quematrice α	Quematrice Greaves α	Legs	36	2	-3	0	-1	0	1--	Scaling Prowess 1,Flinch Free 1,Evade Extender 1
+337	Chatacabra β	Chatacabra Helm β	Head	36	1	2	-3	-1	1	2--	Buttery Leathercraft 1,Speed Eating 1
+338	Chatacabra β	Chatacabra Mail β	Chest	36	1	2	-3	-1	1	111	Buttery Leathercraft 1,Speed Eating 1
+339	Chatacabra β	Chatacabra Vambraces β	Arms	36	1	2	-3	-1	1	2--	Buttery Leathercraft 1,Item Prolonger 1
+340	Chatacabra β	Chatacabra Coil β	Waist	36	1	2	-3	-1	1	11-	Buttery Leathercraft 1,Speed Eating 1
+341	Chatacabra β	Chatacabra Greaves β	Legs	36	1	2	-3	-1	1	1--	Buttery Leathercraft 1,Weakness Exploit 1
+342	Chatacabra α	Chatacabra Helm α	Head	36	1	2	-3	-1	1	1--	Flexible Leathercraft 1,Speed Eating 1,Wide-Range 1
+343	Chatacabra α	Chatacabra Mail α	Chest	36	1	2	-3	-1	1	---	Flexible Leathercraft 1,Speed Eating 1,Weakness Exploit 1
+344	Chatacabra α	Chatacabra Vambraces α	Arms	36	1	2	-3	-1	1	1--	Flexible Leathercraft 1,Item Prolonger 1,Wide-Range 1
+345	Chatacabra α	Chatacabra Coil α	Waist	36	1	2	-3	-1	1	1--	Flexible Leathercraft 1,Speed Eating 1,Item Prolonger 1
+346	Chatacabra α	Chatacabra Greaves α	Legs	36	1	2	-3	-1	1	---	Flexible Leathercraft 1,Item Prolonger 1,Weakness Exploit 1
+347	Kut-Ku β	Kut-Ku Helm β	Head	36	3	0	-2	-4	2	21-	Scale Layering 1,Constitution 2
+348	Kut-Ku β	Kut-Ku Mail β	Chest	36	3	0	-2	-4	2	2--	Scale Layering 1,Agitator 1
+349	Kut-Ku β	Kut-Ku Vambraces β	Arms	36	3	0	-2	-4	2	211	Scale Layering 1,Constitution 1
+350	Kut-Ku β	Kut-Ku Coil β	Waist	36	3	0	-2	-4	2	1--	Scale Layering 1,Agitator 1,Recovery Up 1
+351	Kut-Ku β	Kut-Ku Greaves β	Legs	36	3	0	-2	-4	2	21-	Scale Layering 1,Constitution 1,Recovery Up 1
+352	Kut-Ku α	Kut-Ku Helm α	Head	36	3	0	-2	-4	2	1--	Scaling Prowess 1,Constitution 2,Fire Resistance 2
+353	Kut-Ku α	Kut-Ku Mail α	Chest	36	3	0	-2	-4	2	1--	Scaling Prowess 1,Agitator 1,Fire Resistance 1
+354	Kut-Ku α	Kut-Ku Vambraces α	Arms	36	3	0	-2	-4	2	1--	Scaling Prowess 1,Constitution 1,Agitator 1
+355	Kut-Ku α	Kut-Ku Coil α	Waist	36	3	0	-2	-4	2	---	Scaling Prowess 1,Agitator 1,Recovery Up 2
+356	Kut-Ku α	Kut-Ku Greaves α	Legs	36	3	0	-2	-4	2	2--	Scaling Prowess 1,Constitution 2,Recovery Up 1
+357	Comaqchi β	Comaqchi Accessory β	Head	32	-5	0	0	3	3	21-	Neopteron Camouflage 1,Sleep Resistance 2
+358	Comaqchi α	Comaqchi Accessory α	Head	32	-5	0	0	3	3	---	Neopteron Alert 1,Sleep Resistance 2,Foray 1
+359	Kranodath β	Kranodath Mail β	Chest	32	4	-2	0	-2	0	2--	Scale Layering 1,Flinch Free 2
+360	Kranodath α	Kranodath Mail α	Chest	32	4	-2	0	-2	0	---	Scaling Prowess 1,Flinch Free 2,Partbreaker 1
+361	Vespoid β	Vespoid Helm β	Head	32	-2	1	1	1	2	2--	Neopteron Camouflage 1,Survival Expert 1
+362	Vespoid β	Vespoid Mail β	Chest	32	-2	1	1	1	2	111	Neopteron Camouflage 1,Survival Expert 1
+363	Vespoid β	Vespoid Vambraces β	Arms	32	-2	1	1	1	2	2--	Neopteron Camouflage 1,Paralysis Resistance 1
+364	Vespoid β	Vespoid Coil β	Waist	32	-2	1	1	1	2	111	Neopteron Camouflage 1,Paralysis Resistance 1
+365	Vespoid β	Vespoid Greaves β	Legs	32	-2	1	1	1	2	21-	Neopteron Camouflage 1,Survival Expert 1
+366	Vespoid α	Vespoid Helm α	Head	32	-2	1	1	1	2	---	Neopteron Alert 1,Survival Expert 1,Ambush 1
+367	Vespoid α	Vespoid Mail α	Chest	32	-2	1	1	1	2	1--	Neopteron Alert 1,Survival Expert 1,Evade Window 1
+368	Vespoid α	Vespoid Vambraces α	Arms	32	-2	1	1	1	2	---	Neopteron Alert 1,Paralysis Resistance 1,Ambush 1
+369	Vespoid α	Vespoid Coil α	Waist	32	-2	1	1	1	2	1--	Neopteron Alert 1,Paralysis Resistance 1,Evade Window 1
+370	Vespoid α	Vespoid Greaves α	Legs	32	-2	1	1	1	2	11-	Neopteron Alert 1,Survival Expert 1,Paralysis Resistance 1
+371	Piragill β	Piragill Greaves β	Legs	32	-3	4	-3	1	1	2--	Buttery Leathercraft 1,Aquatic/Oilsilt Mobility 1
+372	Piragill α	Piragill Greaves α	Legs	32	-3	4	-3	1	1	---	Flexible Leathercraft 1,Aquatic/Oilsilt Mobility 1,Water Resistance 2
+373	Talioth β	Talioth Vambraces β	Arms	32	4	-2	-2	-2	2	21-	Buttery Leathercraft 1,Leap of Faith 1
+374	Talioth α	Talioth Vambraces α	Arms	32	4	-2	-2	-2	2	---	Flexible Leathercraft 1,Leap of Faith 1,Burst 1
+375	Bulaqchi β	Bulaqchi Specs β	Head	32	-4	1	1	-2	4	21-	Neopteron Camouflage 1,Entomologist 1
+376	Bulaqchi α	Bulaqchi Specs α	Head	32	-4	1	1	-2	4	---	Neopteron Alert 1,Entomologist 1,Weakness Exploit 1
+377	Alloy α	Alloy Helm α	Head	32	-2	1	-2	-2	1	11-	Quick Sheathe 1
+378	Alloy α	Alloy Mail α	Chest	32	-2	1	-2	-2	1	1--	Flinch Free 2
+379	Alloy α	Alloy Vambraces α	Arms	32	-2	1	-2	-2	1	11-	Tremor Resistance 1
+380	Alloy α	Alloy Coil α	Waist	32	-2	1	-2	-2	1	1--	Tremor Resistance 1,Quick Sheathe 1
+381	Alloy α	Alloy Greaves α	Legs	32	-2	1	-2	-2	1	1--	Quick Sheathe 1,Flinch Free 1
+382	Bone α	Bone Helm α	Head	32	2	0	2	0	2	1--	Stun Resistance 1,Speed Eating 1
+383	Bone α	Bone Mail α	Chest	32	2	0	2	0	2	1--	Marathon Runner 1,Stun Resistance 1
+384	Bone α	Bone Vambraces α	Arms	32	2	0	2	0	2	1--	Marathon Runner 1,Speed Eating 1
+385	Bone α	Bone Coil α	Waist	32	2	0	2	0	2	11-	Marathon Runner 1
+386	Bone α	Bone Greaves α	Legs	32	2	0	2	0	2	11-	Stun Resistance 1
+387	Chainmail α	Chainmail Headgear α	Head	26	0	2	0	0	0	11-	Geologist 1
+388	Chainmail α	Chainmail Armor α	Chest	26	0	2	0	0	0	1--	Geologist 1,Ice Resistance 1
+389	Chainmail α	Chainmail Gloves α	Arms	26	0	2	0	0	0	1--	Geologist 1,Recovery Speed 1
+390	Chainmail α	Chainmail Belt α	Waist	26	0	2	0	0	0	1--	Recovery Speed 1,Ice Resistance 1
+391	Chainmail α	Chainmail Pants α	Legs	26	0	2	0	0	0	11-	Recovery Speed 1
+392	Leather α	Leather Headgear α	Head	26	2	0	0	0	0	1--	Botanist 2
+393	Leather α	Leather Mail α	Chest	26	2	0	0	0	0	1--	Botanist 1,Item Prolonger 1
+394	Leather α	Leather Gloves α	Arms	26	2	0	0	0	0	1--	Botanist 1,Hunger Resistance 1
+395	Leather α	Leather Belt α	Waist	26	2	0	0	0	0	11-	Hunger Resistance 1
+396	Leather α	Leather Pants α	Legs	26	2	0	0	0	0	1--	Hunger Resistance 1,Item Prolonger 1
+397	Hope α	Hope Mask α	Head	26	1	0	1	0	0	1--	Divine Blessing 2
+398	Hope α	Hope Mail α	Chest	26	1	0	1	0	0	11-	Poison Resistance 1
+399	Hope α	Hope Vambraces α	Arms	26	1	0	1	0	0	11-	Sleep Resistance 1
+400	Hope α	Hope Coil α	Waist	26	1	0	1	0	0	1--	Divine Blessing 1,Stun Resistance 1
+401	Hope α	Hope Greaves α	Legs	26	1	0	1	0	0	1--	Stun Resistance 2
+402	Guardian Arkveld	G. Arkveld Helm	Head	30	2	0	-1	0	-4	1--	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Flayer 1
+403	Guardian Arkveld	G. Arkveld Mail	Chest	30	2	0	-1	0	-4	---	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Flayer 1,Blight Resistance 1
+404	Guardian Arkveld	G. Arkveld Vambraces	Arms	30	2	0	-1	0	-4	1--	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Flayer 1
+405	Guardian Arkveld	G. Arkveld Coil	Waist	30	2	0	-1	0	-4	11-	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Blight Resistance 1
+406	Guardian Arkveld	G. Arkveld Greaves	Legs	30	2	0	-1	0	-4	1--	Guardian Arkveld's Vitality 1,Guardian's Pulse 1,Blight Resistance 1
+407	Xu Wu	Xu Wu Helm	Head	26	1	1	1	-3	2	1--	Flexible Leathercraft 1,Maximum Might 1
+408	Xu Wu	Xu Wu Mail	Chest	26	1	1	1	-3	2	1--	Flexible Leathercraft 1,Stamina Surge 1
+409	Xu Wu	Xu Wu Vambraces	Arms	26	1	1	1	-3	2	1--	Flexible Leathercraft 1,Maximum Might 1
+410	Xu Wu	Xu Wu Coil	Waist	26	1	1	1	-3	2	---	Flexible Leathercraft 1,Maximum Might 1,Stamina Surge 1
+411	Xu Wu	Xu Wu Greaves	Legs	26	1	1	1	-3	2	1--	Flexible Leathercraft 1,Stamina Surge 1
+412	Guardian Ebony	G. Ebony Helm	Head	26	-2	-3	-2	-2	4	1--	Ebony Odogaron's Power 1,Guardian's Pulse 1,Burst 1
+413	Guardian Ebony	G. Ebony Mail	Chest	26	-2	-3	-2	-2	4	1--	Ebony Odogaron's Power 1,Guardian's Pulse 1,Bleeding Resistance 1
+414	Guardian Ebony	G. Ebony Braces	Arms	26	-2	-3	-2	-2	4	1--	Ebony Odogaron's Power 1,Guardian's Pulse 1,Burst 1
+415	Guardian Ebony	G. Ebony Coil	Waist	26	-2	-3	-2	-2	4	---	Ebony Odogaron's Power 1,Guardian's Pulse 1,Burst 1,Bleeding Resistance 1
+416	Guardian Ebony	G. Ebony Greaves	Legs	26	-2	-3	-2	-2	4	1--	Ebony Odogaron's Power 1,Guardian's Pulse 1,Bleeding Resistance 1
+417	Guardian Rathalos	G. Rathalos Helm	Head	26	3	1	-2	1	-5	---	Rathalos's Flare 1,Guardian's Pulse 1,Weakness Exploit 1,Intimidator 1
+418	Guardian Rathalos	G. Rathalos Mail	Chest	26	3	1	-2	1	-5	1--	Rathalos's Flare 1,Guardian's Pulse 1,Intimidator 1
+419	Guardian Rathalos	G. Rathalos Vambraces	Arms	26	3	1	-2	1	-5	1--	Rathalos's Flare 1,Guardian's Pulse 1,Weakness Exploit 1
+420	Guardian Rathalos	G. Rathalos Coil	Waist	26	3	1	-2	1	-5	1--	Rathalos's Flare 1,Guardian's Pulse 1,Intimidator 1
+421	Guardian Rathalos	G. Rathalos Greaves	Legs	26	3	1	-2	1	-5	1--	Rathalos's Flare 1,Guardian's Pulse 1,Weakness Exploit 1
+422	Guardian Doshaguma	G. Doshaguma Helm	Head	26	-3	2	-1	-2	2	1--	Doshaguma's Might 1,Guardian's Pulse 1,Heroics 1
+423	Guardian Doshaguma	G. Doshaguma Mail	Chest	26	-3	2	-1	-2	2	---	Doshaguma's Might 1,Guardian's Pulse 1,Heroics 1,Iron Skin 1
+424	Guardian Doshaguma	G. Doshaguma Braces	Arms	26	-3	2	-1	-2	2	1--	Doshaguma's Might 1,Guardian's Pulse 1,Marathon Runner 1
+425	Guardian Doshaguma	G. Doshaguma Coil	Waist	26	-3	2	-1	-2	2	---	Doshaguma's Might 1,Guardian's Pulse 1,Heroics 1,Marathon Runner 1
+426	Guardian Doshaguma	G. Doshaguma Greaves	Legs	26	-3	2	-1	-2	2	---	Doshaguma's Might 1,Guardian's Pulse 1,Marathon Runner 1,Iron Skin 1
+427	Nu Udra	Udra Mirehelm	Head	26	5	-4	0	1	0	1--	Nu Udra's Mutiny 1,Lord's Favor 1,Resentment 1
+428	Nu Udra	Udra Miremail	Chest	26	5	-4	0	1	0	---	Nu Udra's Mutiny 1,Lord's Favor 1,Resentment 1,Speed Eating 1
+429	Nu Udra	Udra Mirebraces	Arms	26	5	-4	0	1	0	1--	Nu Udra's Mutiny 1,Lord's Favor 1,Speed Eating 1
+430	Nu Udra	Udra Mirecoil	Waist	26	5	-4	0	1	0	1--	Nu Udra's Mutiny 1,Lord's Favor 1,Resentment 1
+431	Nu Udra	Udra Miregreaves	Legs	26	5	-4	0	1	0	1--	Nu Udra's Mutiny 1,Lord's Favor 1,Speed Eating 1
+432	Rey Dau	Rey Sandhelm	Head	26	0	-2	4	-3	0	---	Rey Dau's Voltage 1,Lord's Favor 1,Latent Power 1
+433	Rey Dau	Rey Sandmail	Chest	26	0	-2	4	-3	0	---	Rey Dau's Voltage 1,Lord's Favor 1,Constitution 1
+434	Rey Dau	Rey Sandbraces	Arms	26	0	-2	4	-3	0	1--	Rey Dau's Voltage 1,Lord's Favor 1,Latent Power 1
+435	Rey Dau	Rey Sandcoil	Waist	26	0	-2	4	-3	0	1--	Rey Dau's Voltage 1,Lord's Favor 1,Constitution 1
+436	Rey Dau	Rey Sandgreaves	Legs	26	0	-2	4	-3	0	---	Rey Dau's Voltage 1,Lord's Favor 1,Latent Power 1,Constitution 1
+437	Uth Duna	Duna Helm	Head	26	-1	4	-3	0	0	---	Uth Duna's Cover 1,Lord's Favor 1,Peak Performance 1,Tool Specialist 1
+438	Uth Duna	Duna Mail	Chest	26	-1	4	-3	0	0	1--	Uth Duna's Cover 1,Lord's Favor 1,Peak Performance 1
+439	Uth Duna	Duna Vambraces	Arms	26	-1	4	-3	0	0	1--	Uth Duna's Cover 1,Lord's Favor 1,Tool Specialist 1
+440	Uth Duna	Duna Coil	Waist	26	-1	4	-3	0	0	---	Uth Duna's Cover 1,Lord's Favor 1,Tool Specialist 1,Aquatic/Oilsilt Mobility 1
+441	Uth Duna	Duna Greaves	Legs	26	-1	4	-3	0	0	---	Uth Duna's Cover 1,Lord's Favor 1,Peak Performance 1
+442	Guardian Seikret	G. Seikret Coil	Waist	22	0	0	4	0	-3	1--	Guardian's Pulse 1,Jump Master 1
+443	Ajarakan	Ajarakan Helm	Head	24	3	-3	1	-2	0	---	Fortifying Pelt 1,Partbreaker 1,Bombardier 1
+444	Ajarakan	Ajarakan Mail	Chest	24	3	-3	1	-2	0	---	Fortifying Pelt 1,Partbreaker 1
+445	Ajarakan	Ajarakan Vambraces	Arms	24	3	-3	1	-2	0	---	Fortifying Pelt 1,Bombardier 1,Cliffhanger 1
+446	Ajarakan	Ajarakan Coil	Waist	24	3	-3	1	-2	0	---	Fortifying Pelt 1,Bombardier 1,Blast Resistance 1
+447	Ajarakan	Ajarakan Greaves	Legs	24	3	-3	1	-2	0	---	Fortifying Pelt 1,Partbreaker 1,Blast Resistance 1
+448	Hirabami	Hirabami Headdress	Head	22	-3	2	-2	3	0	---	Scaling Prowess 1,Evade Window 1,Recovery Speed 1
+449	Hirabami	Hirabami Mail	Chest	22	-3	2	-2	3	0	---	Scaling Prowess 1,Evade Window 1,Recovery Speed 1
+450	Hirabami	Hirabami Vambraces	Arms	22	-3	2	-2	3	0	---	Scaling Prowess 1,Evade Window 1,Ice Resistance 1
+451	Hirabami	Hirabami Coil	Waist	22	-3	2	-2	3	0	---	Scaling Prowess 1,Evade Window 1,Ice Resistance 1
+452	Hirabami	Hirabami Greaves	Legs	22	-3	2	-2	3	0	---	Scaling Prowess 1,Evade Window 1,Ice Resistance 1
+453	Nerscylla	Nerscylla Helm	Head	20	-2	2	-2	1	2	---	Neopteron Alert 1,Ambush 1
+454	Nerscylla	Nerscylla Mail	Chest	20	-2	2	-2	1	2	---	Neopteron Alert 1,Bind Resistance 1,Poison Resistance 1
+455	Nerscylla	Nerscylla Vambraces	Arms	20	-2	2	-2	1	2	---	Neopteron Alert 1,Ambush 1
+456	Nerscylla	Nerscylla Coil	Waist	20	-2	2	-2	1	2	---	Neopteron Alert 1,Bind Resistance 1,Sleep Resistance 1
+457	Nerscylla	Nerscylla Greaves	Legs	20	-2	2	-2	1	2	---	Neopteron Alert 1,Ambush 1
+458	Rompopolo	Rompopolo Helm	Head	18	0	-3	0	0	1	---	Flexible Leathercraft 1,Wide-Range 1
+459	Rompopolo	Rompopolo Mail	Chest	18	0	-3	0	0	1	---	Flexible Leathercraft 1,Wide-Range 1
+460	Rompopolo	Rompopolo Vambraces	Arms	18	0	-3	0	0	1	---	Flexible Leathercraft 1,Wide-Range 1,Poison Resistance 1
+461	Rompopolo	Rompopolo Coil	Waist	18	0	-3	0	0	1	---	Flexible Leathercraft 1,Wide-Range 1,Poison Resistance 1
+462	Rompopolo	Rompopolo Greaves	Legs	18	0	-3	0	0	1	---	Flexible Leathercraft 1,Wide-Range 1
+463	Comaqchi	Comaqchi Accessory	Head	16	-5	0	0	3	3	---	Neopteron Alert 1,Sleep Resistance 1
+464	Kranodath	Kranodath Mail	Chest	16	4	-2	0	-2	0	---	Scaling Prowess 1,Flinch Free 2
+465	Ingot	Ingot Helm	Head	16	-2	0	3	-1	0	---	Divine Blessing 1
+466	Ingot	Ingot Mail	Chest	16	-2	0	3	-1	0	---	Windproof 1
+467	Ingot	Ingot Vambraces	Arms	16	-2	0	3	-1	0	---	Stun Resistance 1
+468	Ingot	Ingot Coil	Waist	16	-2	0	3	-1	0	---	Divine Blessing 1
+469	Ingot	Ingot Greaves	Legs	16	-2	0	3	-1	0	---	Windproof 1
+470	Doshaguma	Doshaguma Helm	Head	16	-3	2	-1	-1	4	---	Doshaguma's Might 1,Fortifying Pelt 1,Free Meal 1
+471	Doshaguma	Doshaguma Mail	Chest	16	-3	2	-1	-1	4	---	Doshaguma's Might 1,Fortifying Pelt 1,Free Meal 1
+472	Doshaguma	Doshaguma Braces	Arms	16	-3	2	-1	-1	4	---	Doshaguma's Might 1,Fortifying Pelt 1,Recovery Speed 1
+473	Doshaguma	Doshaguma Coil	Waist	16	-3	2	-1	-1	4	---	Doshaguma's Might 1,Fortifying Pelt 1,Item Prolonger 1
+474	Doshaguma	Doshaguma Greaves	Legs	16	-3	2	-1	-1	4	---	Doshaguma's Might 1,Fortifying Pelt 1,Free Meal 1
+475	Balahara	Balahara Helm	Head	12	-1	2	-3	1	1	---	Scaling Prowess 1,Hunger Resistance 1
+476	Balahara	Balahara Mail	Chest	12	-1	2	-3	1	1	---	Scaling Prowess 1,Quick Sheathe 1
+477	Balahara	Balahara Vambraces	Arms	12	-1	2	-3	1	1	---	Scaling Prowess 1,Evade Extender 1
+478	Balahara	Balahara Coil	Waist	12	-1	2	-3	1	1	---	Scaling Prowess 1,Evade Extender 1
+479	Balahara	Balahara Greaves	Legs	12	-1	2	-3	1	1	---	Scaling Prowess 1,Evade Extender 1
+480	Conga	Conga Helm	Head	8	-3	1	1	-1	2	---	Fortifying Pelt 1,Mushroomancer 1
+481	Conga	Conga Mail	Chest	8	-3	1	1	-1	2	---	Fortifying Pelt 1,Mushroomancer 1
+482	Conga	Conga Vambraces	Arms	8	-3	1	1	-1	2	---	Fortifying Pelt 1,Stench Resistance 1
+483	Conga	Conga Coil	Waist	8	-3	1	1	-1	2	---	Fortifying Pelt 1,Stench Resistance 1
+484	Conga	Conga Greaves	Legs	8	-3	1	1	-1	2	---	Fortifying Pelt 1,Mushroomancer 1
+485	Lala Barina	Barina Headgear	Head	8	-3	3	0	0	3	---	Neopteron Alert 1,Paralysis Resistance 1
+486	Lala Barina	Barina Mail	Chest	8	-3	3	0	0	3	---	Neopteron Alert 1,Paralysis Resistance 1
+487	Lala Barina	Barina Vambraces	Arms	8	-3	3	0	0	3	---	Neopteron Alert 1,Recovery Up 1
+488	Lala Barina	Barina Coil	Waist	8	-3	3	0	0	3	---	Neopteron Alert 1,Recovery Up 1
+489	Lala Barina	Barina Greaves	Legs	8	-3	3	0	0	3	---	Neopteron Alert 1,Recovery Up 1
+490	Gajau	Gajau Boots	Legs	4	0	5	0	0	0	---	Flexible Leathercraft 1,Water Resistance 1
+491	Vespoid	Vespoid Helm	Head	4	-2	1	1	1	2	---	Neopteron Alert 1,Survival Expert 1
+492	Vespoid	Vespoid Mail	Chest	4	-2	1	1	1	2	---	Neopteron Alert 1,Survival Expert 1
+493	Vespoid	Vespoid Vambraces	Arms	4	-2	1	1	1	2	---	Neopteron Alert 1,Paralysis Resistance 1
+494	Vespoid	Vespoid Coil	Waist	4	-2	1	1	1	2	---	Neopteron Alert 1,Paralysis Resistance 1
+495	Vespoid	Vespoid Greaves	Legs	4	-2	1	1	1	2	---	Neopteron Alert 1,Survival Expert 1
+496	Piragill	Piragill Greaves	Legs	4	-3	4	-3	1	1	---	Flexible Leathercraft 1,Water Resistance 1
+497	Alloy	Alloy Helm	Head	6	-2	1	-2	-2	1	---	Quick Sheathe 1
+498	Alloy	Alloy Mail	Chest	6	-2	1	-2	-2	1	---	Tremor Resistance 1
+499	Alloy	Alloy Vambraces	Arms	6	-2	1	-2	-2	1	---	Tremor Resistance 1
+500	Alloy	Alloy Coil	Waist	6	-2	1	-2	-2	1	---	Tremor Resistance 1
+501	Alloy	Alloy Greaves	Legs	6	-2	1	-2	-2	1	---	Quick Sheathe 1
+502	Quematrice	Quematrice Helm	Head	6	2	-3	0	-1	0	---	Scaling Prowess 1,Flinch Free 1
+503	Quematrice	Quematrice Mail	Chest	6	2	-3	0	-1	0	---	Scaling Prowess 1,Fire Resistance 1
+504	Quematrice	Quematrice Braces	Arms	6	2	-3	0	-1	0	---	Scaling Prowess 1,Flinch Free 1
+505	Quematrice	Quematrice Coil	Waist	6	2	-3	0	-1	0	---	Scaling Prowess 1,Fire Resistance 1
+506	Quematrice	Quematrice Greaves	Legs	6	2	-3	0	-1	0	---	Scaling Prowess 1,Flinch Free 1
+507	Chatacabra	Chatacabra Helm	Head	6	1	2	-3	-1	1	---	Flexible Leathercraft 1,Speed Eating 1
+508	Chatacabra	Chatacabra Mail	Chest	6	1	2	-3	-1	1	---	Flexible Leathercraft 1,Speed Eating 1
+509	Chatacabra	Chatacabra Vambraces	Arms	6	1	2	-3	-1	1	---	Flexible Leathercraft 1,Item Prolonger 1
+510	Chatacabra	Chatacabra Coil	Waist	6	1	2	-3	-1	1	---	Flexible Leathercraft 1,Speed Eating 1
+511	Chatacabra	Chatacabra Greaves	Legs	6	1	2	-3	-1	1	---	Flexible Leathercraft 1,Item Prolonger 1
+512	Talioth	Talioth Vambraces	Arms	4	4	-2	-2	-2	2	---	Flexible Leathercraft 1,Leap of Faith 1
+513	Bulaqchi	Bulaqchi Specs	Head	4	-4	1	1	-2	4	---	Neopteron Alert 1,Entomologist 1
+514	Bone	Bone Helm	Head	4	2	0	2	0	2	---	Marathon Runner 1
+515	Bone	Bone Mail	Chest	4	2	0	2	0	2	---	Marathon Runner 1
+516	Bone	Bone Vambraces	Arms	4	2	0	2	0	2	---	Stun Resistance 1
+517	Bone	Bone Coil	Waist	4	2	0	2	0	2	---	Marathon Runner 1
+518	Bone	Bone Greaves	Legs	4	2	0	2	0	2	---	Stun Resistance 1
+519	Chainmail	Chainmail Headgear	Head	2	0	2	0	0	0	---	Geologist 1
+520	Chainmail	Chainmail Vest	Chest	2	0	2	0	0	0	---	Geologist 1
+521	Chainmail	Chainmail Gloves	Arms	2	0	2	0	0	0	---	Geologist 1
+522	Chainmail	Chainmail Belt	Waist	2	0	2	0	0	0	---	Recovery Speed 1
+523	Chainmail	Chainmail Pants	Legs	2	0	2	0	0	0	---	Recovery Speed 1
+524	Leather	Leather Headgear	Head	2	2	0	0	0	0	---	Botanist 1
+525	Leather	Leather Vest	Chest	2	2	0	0	0	0	---	Botanist 1
+526	Leather	Leather Gloves	Arms	2	2	0	0	0	0	---	Hunger Resistance 1
+527	Leather	Leather Belt	Waist	2	2	0	0	0	0	---	Botanist 1
+528	Leather	Leather Pants	Legs	2	2	0	0	0	0	---	Botanist 1
+529	Hope	Hope Mask	Head	2	1	0	1	0	0	---	Stun Resistance 1
+530	Hope	Hope Mail	Chest	2	1	0	1	0	0	---	Divine Blessing 1
+531	Hope	Hope Vambraces	Arms	2	1	0	1	0	0	---	Divine Blessing 1
+532	Hope	Hope Coil	Waist	2	1	0	1	0	0	---	Stun Resistance 1
+533	Hope	Hope Greaves	Legs	2	1	0	1	0	0	---	Divine Blessing 1
