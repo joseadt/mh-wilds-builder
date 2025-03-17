@@ -1,70 +1,70 @@
 id	name	slots	damage	element	affinity	skills
-0	Hope Rifle I	ーーー	90
-1	Hope Rifle II	ーーー	100			Ballistics 1
-2	Hope Rifle III	ーーー	130			Ballistics 1, Critical Eye 1
-3	Hope Rifle IV	21ー	160			Ballistics 2, Critical Eye 1
-4	Hope Rifle V	32ー	190			Ballistics 3, Critical Eye 1
-5	Kut-Ku Anger I	21ー	180			Ballistics 2
-6	Kut-Ku Anger II	32ー	210			Ballistics 3
-7	Kut-Ku Counterattack	321	220			Ballistics 3
-8	Fäulnisschleuder I	32ー	180		20	Critical Element 3
-9	Wahnschleuder	321	200		20	Critical Element 3
-10	Rey Szelatya I	ーーー	140			Opening Shot 1, Slugger 1
-11	Rey Szelatya II	21ー	170			Opening Shot 1, Slugger 1
-12	Rey Szelatya III	32ー	200			Opening Shot 2, Slugger 1
-13	Szelatya Clairgun	321	220			Opening Shot 2, Slugger 1
-14	Dosha Faithbreaker I	ーーー	140		-5, 20 Def	Opening Shot 1
-15	Dosha Faithbreaker II	1ーー	180		-5, 20 Def	Opening Shot 2
-16	Dosha Faithbreaker III	21ー	210		-5, 20 Def	Opening Shot 3
-17	Dosha Gigasbreaker I	11ー	190		-15	Slugger 2
-18	Dosha Gigasbreaker II	22ー	220		-15	Slugger 3
-19	Gigasbreaker Urbolkule	331	250		-15	Slugger 3
-20	Chain Blitz I	ーーー	120			Tetrad Shot 1
-21	Chain Blitz II	1ーー	160			Tetrad Shot 2
-22	Chain Blitz III	21ー	190			Tetrad Shot 2
-23	High Chain Blitz	321	220			Tetrad Shot 3
-24	Titan Launcher I	22ー	210		-15, 30 Def	Special Ammo Boost 2
-25	Titan Panzer	331	240		-15, 30 Def	Special Ammo Boost 2
-26	G. Rathling Gun I	1ーー	160		15	Critical Element 1, Ballistics 1
-27	G. Rathling Gun II	21ー	180		15	Critical Element 2, Ballistics 1
-28	White Rathling Phoenix	321	210		15	Critical Element 2, Ballistics 1
-29	Rathling Gun I	21ー	180		10	Critical Boost 3
-30	Rathling Phoenix	321	200		10	Critical Boost 3
-31	Assault Conga I	ーーー	120		5	Special Ammo Boost 1
-32	Assault Conga II	211	170		5	Special Ammo Boost 1, Opening Shot 1
-33	Combat Conga	331	220		5	Special Ammo Boost 2, Opening Shot 1
-34	Tail String I	21ー	200		-10	Opening Shot 3
-35	Tail Catapult	321	230		-10	Opening Shot 3
-36	Valkyrie Fire I	21ー	160		15	Tetrad Shot 2, Poison Duration Up 1
-37	Valkyrie Fire II	32ー	190		15	Tetrad Shot 3, Poison Duration Up 1
-38	Valkyrie Flame	321	210		15	Tetrad Shot 3, Poison Duration Up 1
-39	Hunter's Rifle I	ーーー	110			Opening Shot 1
-40	Hunter's Rifle II	ーーー	130			Opening Shot 1, Attack Boost 1
-41	Hunter's Rifle III	1ーー	170			Opening Shot 2, Attack Boost 1
-42	Hunter's Rifle IV	21ー	200			Opening Shot 3, Attack Boost 1
-43	Power Rifle	321	230			Opening Shot 3, Attack Boost 1
-44	Felling Fulgur I	21ー	180		15	Critical Element 3
-45	Fulgursnipe Guardiana	321	210		15	Critical Element 3
-46	Chthonian Gunfire I	1ーー	140		10	Tetrad Shot 2
-47	Chthonian Gunfire II	21ー	170		10	Tetrad Shot 3
-48	Bequeathed Animus	321	210		10	Tetrad Shot 3
-49	Ajara Shellgun I	ーーー	130		10	Artillery 2
-50	Ajara Shellgun II	21ー	180		10	Artillery 3
-51	Ajara-Angaja	321	210		10	Artillery 3
-52	Nu Chobotnice I	1ーー	170		-15	Opening Shot 2
-53	Nu Chobotnice II	32ー	210		-15	Opening Shot 3
-54	Abaddonian Chobotnice	321	230		-15	Opening Shot 3
-55	Windshear Light I	ーーー	140			Tetrad Shot 2, Airborne 1
-56	Windshear Light II	21ー	170			Tetrad Shot 2, Airborne 1
-57	Windshear Light III	32ー	200			Tetrad Shot 3, Airborne 1
-58	Windshear Uchibami	321	220			Tetrad Shot 3, Airborne 1
-59	G. Veldian Impetum I	11ー	160		-10	Opening Shot 2
-60	G. Veldian Impetum II	22ー	200		-10	Opening Shot 2
-61	G. Expiating Caius	331	230		-10	Opening Shot 2
-62	Veldian Impetum I	32ー	180			Opening Shot 3
-63	Artian Blaster I	222	170		5
-64	Artian Blaster II	222	180		5
-65	Animilater	333	190		5
-66	Esperanza Rifle	321	210			Ballistics 3, Critical Eye 1
-67	Faithbreaker Leibolkule	321	240		-5, 20 Def	Opening Shot 3
-68	Expiating Caius	321	200			Opening Shot 3
+12000	Hope Rifle I	ーーー	90			
+12001	Hope Rifle II	ーーー	100			Ballistics 1
+12002	Hope Rifle III	ーーー	130			Ballistics 1, Critical Eye 1
+12003	Hope Rifle IV	21ー	160			Ballistics 2, Critical Eye 1
+12004	Hope Rifle V	32ー	190			Ballistics 3, Critical Eye 1
+12005	Kut-Ku Anger I	21ー	180			Ballistics 2
+12006	Kut-Ku Anger II	32ー	210			Ballistics 3
+12007	Kut-Ku Counterattack	321	220			Ballistics 3
+12008	Fäulnisschleuder I	32ー	180		20	Critical Element 3
+12009	Wahnschleuder	321	200		20	Critical Element 3
+12010	Rey Szelatya I	ーーー	140			Opening Shot 1, Slugger 1
+12011	Rey Szelatya II	21ー	170			Opening Shot 1, Slugger 1
+12012	Rey Szelatya III	32ー	200			Opening Shot 2, Slugger 1
+12013	Szelatya Clairgun	321	220			Opening Shot 2, Slugger 1
+12014	Dosha Faithbreaker I	ーーー	140		-5, 20 Def	Opening Shot 1
+12015	Dosha Faithbreaker II	1ーー	180		-5, 20 Def	Opening Shot 2
+12016	Dosha Faithbreaker III	21ー	210		-5, 20 Def	Opening Shot 3
+12017	Dosha Gigasbreaker I	11ー	190		-15	Slugger 2
+12018	Dosha Gigasbreaker II	22ー	220		-15	Slugger 3
+12019	Gigasbreaker Urbolkule	331	250		-15	Slugger 3
+12020	Chain Blitz I	ーーー	120			Tetrad Shot 1
+12021	Chain Blitz II	1ーー	160			Tetrad Shot 2
+12022	Chain Blitz III	21ー	190			Tetrad Shot 2
+12023	High Chain Blitz	321	220			Tetrad Shot 3
+12024	Titan Launcher I	22ー	210		-15, 30 Def	Special Ammo Boost 2
+12025	Titan Panzer	331	240		-15, 30 Def	Special Ammo Boost 2
+12026	G. Rathling Gun I	1ーー	160		15	Critical Element 1, Ballistics 1
+12027	G. Rathling Gun II	21ー	180		15	Critical Element 2, Ballistics 1
+12028	White Rathling Phoenix	321	210		15	Critical Element 2, Ballistics 1
+12029	Rathling Gun I	21ー	180		10	Critical Boost 3
+12030	Rathling Phoenix	321	200		10	Critical Boost 3
+12031	Assault Conga I	ーーー	120		5	Special Ammo Boost 1
+12032	Assault Conga II	211	170		5	Special Ammo Boost 1, Opening Shot 1
+12033	Combat Conga	331	220		5	Special Ammo Boost 2, Opening Shot 1
+12034	Tail String I	21ー	200		-10	Opening Shot 3
+12035	Tail Catapult	321	230		-10	Opening Shot 3
+12036	Valkyrie Fire I	21ー	160		15	Tetrad Shot 2, Poison Duration Up 1
+12037	Valkyrie Fire II	32ー	190		15	Tetrad Shot 3, Poison Duration Up 1
+12038	Valkyrie Flame	321	210		15	Tetrad Shot 3, Poison Duration Up 1
+12039	Hunter's Rifle I	ーーー	110			Opening Shot 1
+12040	Hunter's Rifle II	ーーー	130			Opening Shot 1, Attack Boost 1
+12041	Hunter's Rifle III	1ーー	170			Opening Shot 2, Attack Boost 1
+12042	Hunter's Rifle IV	21ー	200			Opening Shot 3, Attack Boost 1
+12043	Power Rifle	321	230			Opening Shot 3, Attack Boost 1
+12044	Felling Fulgur I	21ー	180		15	Critical Element 3
+12045	Fulgursnipe Guardiana	321	210		15	Critical Element 3
+12046	Chthonian Gunfire I	1ーー	140		10	Tetrad Shot 2
+12047	Chthonian Gunfire II	21ー	170		10	Tetrad Shot 3
+12048	Bequeathed Animus	321	210		10	Tetrad Shot 3
+12049	Ajara Shellgun I	ーーー	130		10	Artillery 2
+12050	Ajara Shellgun II	21ー	180		10	Artillery 3
+12051	Ajara-Angaja	321	210		10	Artillery 3
+12052	Nu Chobotnice I	1ーー	170		-15	Opening Shot 2
+12053	Nu Chobotnice II	32ー	210		-15	Opening Shot 3
+12054	Abaddonian Chobotnice	321	230		-15	Opening Shot 3
+12055	Windshear Light I	ーーー	140			Tetrad Shot 2, Airborne 1
+12056	Windshear Light II	21ー	170			Tetrad Shot 2, Airborne 1
+12057	Windshear Light III	32ー	200			Tetrad Shot 3, Airborne 1
+12058	Windshear Uchibami	321	220			Tetrad Shot 3, Airborne 1
+12059	G. Veldian Impetum I	11ー	160		-10	Opening Shot 2
+12060	G. Veldian Impetum II	22ー	200		-10	Opening Shot 2
+12061	G. Expiating Caius	331	230		-10	Opening Shot 2
+12062	Veldian Impetum I	32ー	180			Opening Shot 3
+12063	Artian Blaster I	222	170		5	
+12064	Artian Blaster II	222	180		5	
+12065	Animilater	333	190		5	
+12066	Esperanza Rifle	321	210			Ballistics 3, Critical Eye 1
+12067	Faithbreaker Leibolkule	321	240		-5, 20 Def	Opening Shot 3
+12068	Expiating Caius	321	200			Opening Shot 3

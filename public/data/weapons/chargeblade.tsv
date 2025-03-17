@@ -1,73 +1,73 @@
 id	name	slots	damage	element	affinity	skills
-0	Hope Strongarm I	ーーー	90
-1	Hope Strongarm II	ーーー	100			Speed Sharpening 1
-2	Hope Strongarm III	ーーー	130			Speed Sharpening 1, Critical Eye 1
-3	Hope Strongarm IV	21ー	160			Speed Sharpening 2, Critical Eye 1
-4	Hope Strongarm V	32ー	190			Speed Sharpening 2, Critical Eye 1
-5	Bone Strongarm I	ーーー	110			Load Shells 1
-6	Bone Strongarm II	ーーー	130			Load Shells 1, Attack Boost 1
-7	Bone Strongarm III	1ーー	170			Load Shells 2, Attack Boost 1
-8	Bone Strongarm IV	21ー	200			Load Shells 2, Attack Boost 1
-9	Hard Bone Strongarm	321	230			Load Shells 2, Attack Boost 2
-10	Hyperguard I	ーーー	120			Rapid Morph 1
-11	Hyperguard II	1ーー	160			Rapid Morph 2
-12	Hyperguard III	21ー	190			Rapid Morph 3
-13	Regas Hyper	321	220			Rapid Morph 3
-14	Chata Strongarm I	ーーー	110		, 15 Def	Guard 1
-15	Chata Strongarm II	ーーー	150		, 15 Def	Guard 1, Artillery 1
-16	Chata Strongarm III	21ー	180		, 15 Def	Guard 2, Artillery 1
-17	Chata Strongarm IV	32ー	200		, 15 Def	Guard 2, Artillery 1
-18	Barina Bouclier I	ーーー	100	10, Paralysis	10	Critical Draw 1
-19	Barina Bouclier II	ーーー	120	13, Paralysis	10	Critical Draw 1, Critical Status 1
-20	Barina Bouclier III	21ー	150	18, Paralysis	15	Critical Draw 1, Critical Status 1
-21	Barina Bouclier IV	32ー	180	21, Paralysis	15	Critical Draw 2, Critical Status 1
-22	Lala Eumenophor	321	200	25, Paralysis	15	Critical Draw 2, Critical Status 1
-23	Uth Valeroje I	ーーー	160	20, Water	-15	Power Prolonger 2
-24	Uth Valeroje II	21ー	190	26, Water	-15	Power Prolonger 2
-25	Uth Valeroje III	32ー	220	32, Water	-15	Power Prolonger 3
-26	Valeroje-of-the-Waves	321	240	35, Water	-15	Power Prolonger 3
-27	Rompo Shielder I	ーーー	140	15, Poison		Guard Up 2
-28	Rompo Shielder II	21ー	170	19, Poison		Guard Up 2
-29	Rompo Shielder III	32ー	200	22, Poison		Guard Up 3
-30	Rompo Dendrotox	321	220	25, Poison		Guard Up 3
-31	Rey Astrapi I	ーーー	140	15, Thunder		Focus 1, Load Shells 1
-32	Rey Astrapi II	21ー	170	19, Thunder		Focus 1, Load Shells 1
-33	Rey Astrapi III	32ー	200	22, Thunder		Focus 2, Load Shells 1
-34	Astrapi Clairaxe	321	220	25, Thunder		Focus 2, Load Shells 1
-35	Arachnoscale I	ーーー	120	13, Sleep	10	Offensive Guard 1, Guard 1
-36	Arachnoscale II	21ー	150	18, Sleep	15	Offensive Guard 1, Guard 1
-37	Arachnoscale III	32ー	180	22, Sleep	15	Offensive Guard 2, Guard 1
-38	Arachnoscythe	321	200	25, Sleep	15	Offensive Guard 2, Guard 1
-39	Windthrash Charger I	ーーー	140	15, Ice		Focus 2, Airborne 1
-40	Windthrash Charger II	21ー	170	19, Ice		Focus 2, Airborne 1
-41	Windthrash Charger III	32ー	200	22, Ice		Focus 3, Airborne 1
-42	Windthrash Tamebami	321	220	25, Ice		Focus 3, Airborne 1
-43	Nu Pweza I	1ーー	170	15, Fire	-15	Rapid Morph 2
-44	Nu Pweza II	32ー	210	22, Fire	-15	Rapid Morph 3
-45	Abaddonian Pweza	321	230	25, Fire	-15	Rapid Morph 3
-46	Albirath Blade I	1ーー	160	16, Fire	15	Master's Touch 1, Critical Element 1
-47	Albirath Blade II	21ー	180	21, Fire	15	Master's Touch 1, Critical Element 1
-48	Guardian Albathos	321	220	25, Fire	15	Master's Touch 1, Critical Element 1
-49	Chthonian Flame I	1ーー	140	26, Dragon	10	Offensive Guard 2
-50	Chthonian Flame II	21ー	170	31, Dragon	10	Offensive Guard 3
-51	Bequeathed Enmity	321	210	35, Dragon	10	Offensive Guard 3
-52	G. Veldian Labrys I	11ー	170	14, Dragon	-10	Guard 2
-53	G. Veldian Labrys II	22ー	210	17, Dragon	-10	Guard 2
-54	G. Abiding Gawain	331	240	20, Dragon	-10	Guard 2
-55	Poison Blade I	21ー	180	26, Poison		Punishing Draw 2, Critical Draw 1
-56	Poison Blade II	21ー	200	29, Poison		Punishing Draw 2, Critical Draw 2
-57	Venom's Kiss	321	230	35, Poison		Punishing Draw 3, Critical Draw 2
-58	Dear Lutemis I	21ー	160	14, Poison	15	Critical Status 2, Poison Duration Up 1
-59	Dear Lutemis II	32ー	190	17, Poison	15	Critical Status 3, Poison Duration Up 1
-60	Dear Lutemia	321	210	20, Poison	15	Critical Status 3, Poison Duration Up 1
-61	Axelion Blade I	21ー	190	29, Fire	10	Critical Boost 3
-62	Bardichion Blade	321	210	35, Fire	10	Critical Boost 3
-63	Elendskraft I	32ー	180	22, Dragon	20	Critical Element 3
-64	Leidenskraft	321	210	25, Dragon	20	Critical Element 3
-65	Veldian Labrys I	32ー	200	32, Dragon		Guard 3
-66	Artian Defender I	222	170	23	5
-67	Artian Defender II	222	180	23	5
-68	Chrono Gear	333	190	27	5
-69	Esperanza Strongarm	321	210			Speed Sharpening 2, Critical Eye 2
-70	Shrouded Kutharja	321	220		, 15 Def	Guard 3, Artillery 1
-71	Abiding Gawain	321	220	35, Dragon		Guard 3
+2000	Hope Strongarm I	ーーー	90			
+2001	Hope Strongarm II	ーーー	100			Speed Sharpening 1
+2002	Hope Strongarm III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+2003	Hope Strongarm IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+2004	Hope Strongarm V	32ー	190			Speed Sharpening 2, Critical Eye 1
+2005	Bone Strongarm I	ーーー	110			Load Shells 1
+2006	Bone Strongarm II	ーーー	130			Load Shells 1, Attack Boost 1
+2007	Bone Strongarm III	1ーー	170			Load Shells 2, Attack Boost 1
+2008	Bone Strongarm IV	21ー	200			Load Shells 2, Attack Boost 1
+2009	Hard Bone Strongarm	321	230			Load Shells 2, Attack Boost 2
+2010	Hyperguard I	ーーー	120			Rapid Morph 1
+2011	Hyperguard II	1ーー	160			Rapid Morph 2
+2012	Hyperguard III	21ー	190			Rapid Morph 3
+2013	Regas Hyper	321	220			Rapid Morph 3
+2014	Chata Strongarm I	ーーー	110		, 15 Def	Guard 1
+2015	Chata Strongarm II	ーーー	150		, 15 Def	Guard 1, Artillery 1
+2016	Chata Strongarm III	21ー	180		, 15 Def	Guard 2, Artillery 1
+2017	Chata Strongarm IV	32ー	200		, 15 Def	Guard 2, Artillery 1
+2018	Barina Bouclier I	ーーー	100	10, Paralysis	10	Critical Draw 1
+2019	Barina Bouclier II	ーーー	120	13, Paralysis	10	Critical Draw 1, Critical Status 1
+2020	Barina Bouclier III	21ー	150	18, Paralysis	15	Critical Draw 1, Critical Status 1
+2021	Barina Bouclier IV	32ー	180	21, Paralysis	15	Critical Draw 2, Critical Status 1
+2022	Lala Eumenophor	321	200	25, Paralysis	15	Critical Draw 2, Critical Status 1
+2023	Uth Valeroje I	ーーー	160	20, Water	-15	Power Prolonger 2
+2024	Uth Valeroje II	21ー	190	26, Water	-15	Power Prolonger 2
+2025	Uth Valeroje III	32ー	220	32, Water	-15	Power Prolonger 3
+2026	Valeroje-of-the-Waves	321	240	35, Water	-15	Power Prolonger 3
+2027	Rompo Shielder I	ーーー	140	15, Poison		Guard Up 2
+2028	Rompo Shielder II	21ー	170	19, Poison		Guard Up 2
+2029	Rompo Shielder III	32ー	200	22, Poison		Guard Up 3
+2030	Rompo Dendrotox	321	220	25, Poison		Guard Up 3
+2031	Rey Astrapi I	ーーー	140	15, Thunder		Focus 1, Load Shells 1
+2032	Rey Astrapi II	21ー	170	19, Thunder		Focus 1, Load Shells 1
+2033	Rey Astrapi III	32ー	200	22, Thunder		Focus 2, Load Shells 1
+2034	Astrapi Clairaxe	321	220	25, Thunder		Focus 2, Load Shells 1
+2035	Arachnoscale I	ーーー	120	13, Sleep	10	Offensive Guard 1, Guard 1
+2036	Arachnoscale II	21ー	150	18, Sleep	15	Offensive Guard 1, Guard 1
+2037	Arachnoscale III	32ー	180	22, Sleep	15	Offensive Guard 2, Guard 1
+2038	Arachnoscythe	321	200	25, Sleep	15	Offensive Guard 2, Guard 1
+2039	Windthrash Charger I	ーーー	140	15, Ice		Focus 2, Airborne 1
+2040	Windthrash Charger II	21ー	170	19, Ice		Focus 2, Airborne 1
+2041	Windthrash Charger III	32ー	200	22, Ice		Focus 3, Airborne 1
+2042	Windthrash Tamebami	321	220	25, Ice		Focus 3, Airborne 1
+2043	Nu Pweza I	1ーー	170	15, Fire	-15	Rapid Morph 2
+2044	Nu Pweza II	32ー	210	22, Fire	-15	Rapid Morph 3
+2045	Abaddonian Pweza	321	230	25, Fire	-15	Rapid Morph 3
+2046	Albirath Blade I	1ーー	160	16, Fire	15	Master's Touch 1, Critical Element 1
+2047	Albirath Blade II	21ー	180	21, Fire	15	Master's Touch 1, Critical Element 1
+2048	Guardian Albathos	321	220	25, Fire	15	Master's Touch 1, Critical Element 1
+2049	Chthonian Flame I	1ーー	140	26, Dragon	10	Offensive Guard 2
+2050	Chthonian Flame II	21ー	170	31, Dragon	10	Offensive Guard 3
+2051	Bequeathed Enmity	321	210	35, Dragon	10	Offensive Guard 3
+2052	G. Veldian Labrys I	11ー	170	14, Dragon	-10	Guard 2
+2053	G. Veldian Labrys II	22ー	210	17, Dragon	-10	Guard 2
+2054	G. Abiding Gawain	331	240	20, Dragon	-10	Guard 2
+2055	Poison Blade I	21ー	180	26, Poison		Punishing Draw 2, Critical Draw 1
+2056	Poison Blade II	21ー	200	29, Poison		Punishing Draw 2, Critical Draw 2
+2057	Venom's Kiss	321	230	35, Poison		Punishing Draw 3, Critical Draw 2
+2058	Dear Lutemis I	21ー	160	14, Poison	15	Critical Status 2, Poison Duration Up 1
+2059	Dear Lutemis II	32ー	190	17, Poison	15	Critical Status 3, Poison Duration Up 1
+2060	Dear Lutemia	321	210	20, Poison	15	Critical Status 3, Poison Duration Up 1
+2061	Axelion Blade I	21ー	190	29, Fire	10	Critical Boost 3
+2062	Bardichion Blade	321	210	35, Fire	10	Critical Boost 3
+2063	Elendskraft I	32ー	180	22, Dragon	20	Critical Element 3
+2064	Leidenskraft	321	210	25, Dragon	20	Critical Element 3
+2065	Veldian Labrys I	32ー	200	32, Dragon		Guard 3
+2066	Artian Defender I	222	170	23	5	
+2067	Artian Defender II	222	180	23	5	
+2068	Chrono Gear	333	190	27	5	
+2069	Esperanza Strongarm	321	210			Speed Sharpening 2, Critical Eye 2
+2070	Shrouded Kutharja	321	220		, 15 Def	Guard 3, Artillery 1
+2071	Abiding Gawain	321	220	35, Dragon		Guard 3

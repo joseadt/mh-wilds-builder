@@ -1,8 +1,17 @@
 <div class="container">
     <app-container>
         <div class="flex row mt-5">
-            <div class="col-8 ">
+            <div class="col-12 col-xl-8 ">
                 <div class="flex column">
+                    <div class="col flex">
+                        <div class="ml-auto">
+                            <button class="btn" simple inline (click)="copyLoadout()">
+                                <img src="/images/copy.svg">
+                                <span i18n>Create url</span>
+                                <div class="container-box"></div>
+                            </button>
+                        </div>
+                    </div>
                     <app-armor-selector type="WEAPON" class="col" [(selected)]="weapon"></app-armor-selector>
                     <app-armor-selector type="HEAD" class="col" [(selected)]="head"></app-armor-selector>
                     <app-armor-selector type="CHEST" class="col" [(selected)]="chest"></app-armor-selector>
@@ -12,7 +21,7 @@
                     <app-armor-selector type="CHARM" class="col" [(selected)]="charm"></app-armor-selector>
                 </div>
             </div>
-            <div class="col-4">
+            <div class="col-12 col-xl-4">
                 <app-stats [loadout]="loadout()"></app-stats>
             </div>
         </div>

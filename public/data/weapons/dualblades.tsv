@@ -1,78 +1,78 @@
 id	name	slots	damage	element	affinity	skills
-0	Hope Daggers I	ーーー	90
-1	Hope Daggers II	ーーー	100			Speed Sharpening 1
-2	Hope Daggers III	ーーー	130			Speed Sharpening 1, Critical Eye 1
-3	Hope Daggers IV	21ー	160			Speed Sharpening 2, Critical Eye 1
-4	Hope Daggers V	32ー	190			Speed Sharpening 2, Critical Eye 1
-5	Bone Hatchets I	ーーー	110			Focus 1
-6	Bone Hatchets II	ーーー	130			Focus 1, Attack Boost 1
-7	Bone Hatchets III	1ーー	170			Focus 2, Attack Boost 1
-8	Bone Hatchets IV	21ー	200			Focus 3, Attack Boost 1
-9	Wild Hatchets	321	230			Focus 3, Attack Boost 1
-10	Dual Hatchets I	ーーー	120			Power Prolonger 1
-11	Dual Hatchets II	1ーー	160			Power Prolonger 2
-12	Dual Hatchets III	21ー	190			Power Prolonger 3
-13	Dual Cleavers	321	220			Power Prolonger 3
-14	Quematrice Silexes I	ーーー	100	7, Fire	5	Focus 1
-15	Quematrice Silexes II	ーーー	140	9, Fire	5	Focus 2
-16	Quematrice Silexes III	21ー	170	11, Fire	5	Focus 2
-17	Quematrice Silexes IV	32ー	210	13, Fire	5	Focus 3
-18	Firetrail Magnesiae	321	240	15, Fire	5	Focus 3
-19	Barina Faucilles I	ーーー	100	6, Paralysis	10	Critical Draw 1
-20	Barina Faucilles II	ーーー	120	8, Paralysis	10	Critical Draw 1, Critical Status 1
-21	Barina Faucilles III	21ー	150	11, Paralysis	15	Critical Draw 1, Critical Status 1
-22	Barina Faucilles IV	32ー	180	13, Paralysis	15	Critical Draw 2, Critical Status 1
-23	Lala Harpactirs	321	200	15, Paralysis	15	Critical Draw 2, Critical Status 1
-24	Pink Maracas I	ーーー	120		5	Punishing Draw 1, Critical Draw 1
-25	Pink Maracas II	21ー	170		5	Punishing Draw 2, Critical Draw 1
-26	Funky Maracas	331	220		5	Punishing Draw 3, Critical Draw 2
-27	Dosha Fastflayers I	ーーー	140		-5, 20 Def	Power Prolonger 1
-28	Dosha Fastflayers II	1ーー	180		-5, 20 Def	Power Prolonger 2
-29	Dosha Fastflayers III	22ー	210		-5, 20 Def	Power Prolonger 2
-30	Uth Ngarpatu I	ーーー	160	10, Water	-15	Power Prolonger 2
-31	Uth Ngarpatu II	21ー	190	14, Water	-15	Power Prolonger 2
-32	Uth Ngarpatu III	32ー	220	17, Water	-15	Power Prolonger 3
-33	Ngarpatu-of-the-Waves	321	240	20, Water	-15	Power Prolonger 3
-34	Ajara Twin Edges I	ーーー	130	9, Nitro	10	Power Prolonger 2
-35	Ajara Twin Edges II	21ー	180	12, Nitro	10	Power Prolonger 3
-36	Ajara-Panthaka	321	210	15, Nitro	10	Power Prolonger 3
-37	Dosha Guardflayers I	1ーー	180		-15	Focus 2
-38	Dosha Guardflayers II	22ー	220		-15	Focus 2
-39	Guardflayers Urbastra	331	250		-15	Focus 2
-40	Twin Albiraths I	1ーー	160	9, Fire	15	Master's Touch 1, Critical Element 1
-41	Twin Albiraths II	21ー	180	12, Fire	15	Master's Touch 1, Critical Element 1
-42	Wyvern Sentinels	321	210	15, Fire	15	Master's Touch 1, Critical Element 1
-43	Jin Dhakoo I	32ー	190	27, Ice		Focus 3
-44	Precipice Ulokiem	321	210	30, Ice		Focus 3
-45	Chthonian Kusarigamas I	1ーー	140	14, Dragon	10	Power Prolonger 2
-46	Chthonian Kusarigamas II	21ー	170	17, Dragon	10	Power Prolonger 3
-47	Bequeathed Oblivion	321	210	20, Dragon	10	Power Prolonger 3
-48	G. Veldian Harpes I	11ー	170	9, Dragon	-10	Focus 2
-49	G. Veldian Harpes II	22ー	210	12, Dragon	-10	Focus 2
-50	G. Inspired Ywain	331	240	15, Dragon	-10	Focus 2
-51	Kut-Ku Pair I	21ー	180	18, Fire		Power Prolonger 2
-52	Kut-Ku Pair II	32ー	210	22, Fire		Power Prolonger 3
-53	Dual Kut-Ku	321	220	25, Fire		Power Prolonger 3
-54	Dual Battleaxes I	21ー	180	14, Poison		Power Prolonger 2
-55	Dual Battleaxes II	21ー	200	17, Poison		Power Prolonger 3
-56	Final Battleaxes	321	230	20, Poison		Power Prolonger 3
-57	Whirling Fulgur I	21ー	180	16, Thunder	15	Critical Element 3
-58	Fulgurtwins Guardiana	321	210	20, Thunder	15	Critical Element 3
-59	Blango Sai I	21ー	200	11, Ice	-10	Power Prolonger 3
-60	Blango Trishula	321	230	15, Ice	-10	Power Prolonger 3
-61	Gravios Warmakers I	21ー	210	17, Nitro	-15, 30 Def	Focus 3
-62	Gravios Conquerors	321	240	20, Nitro	-15, 30 Def	Focus 3
-63	Twin Flames I	21ー	180	16, Fire	10	Critical Boost 3
-64	Wyvern Lovers	321	200	20, Fire	10	Critical Boost 3
-65	Fledderklauen I	32ー	180	12, Dragon	20	Critical Element 3
-66	Hungerklauen	321	200	15, Dragon	20	Critical Element 3
-67	Veldian Harpes I	32ー	200	16, Dragon		Focus 3
-68	Guild Knight Sabers I	1ーー	130	14, Water	10	Focus 2
-69	Guild Knight Sabers II	32ー	160	17, Water	10	Focus 3
-70	Master Sabers	321	200	20, Water	10	Focus 3
-71	Esperanza Daggers	321	210			Speed Sharpening 2, Critical Eye 2
-72	Artian Edges I	222	170	22	5
-73	Artian Edges II	222	180	22	5
-74	Tiltkreise	333	190	25	5
-75	Fastflayers Jambastra	331	240		-5, 20 Def	Power Prolonger 2
-76	Inspired Ywain	321	220	20, Dragon		Focus 3
+3000	Hope Daggers I	ーーー	90			
+3001	Hope Daggers II	ーーー	100			Speed Sharpening 1
+3002	Hope Daggers III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+3003	Hope Daggers IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+3004	Hope Daggers V	32ー	190			Speed Sharpening 2, Critical Eye 1
+3005	Bone Hatchets I	ーーー	110			Focus 1
+3006	Bone Hatchets II	ーーー	130			Focus 1, Attack Boost 1
+3007	Bone Hatchets III	1ーー	170			Focus 2, Attack Boost 1
+3008	Bone Hatchets IV	21ー	200			Focus 3, Attack Boost 1
+3009	Wild Hatchets	321	230			Focus 3, Attack Boost 1
+3010	Dual Hatchets I	ーーー	120			Power Prolonger 1
+3011	Dual Hatchets II	1ーー	160			Power Prolonger 2
+3012	Dual Hatchets III	21ー	190			Power Prolonger 3
+3013	Dual Cleavers	321	220			Power Prolonger 3
+3014	Quematrice Silexes I	ーーー	100	7, Fire	5	Focus 1
+3015	Quematrice Silexes II	ーーー	140	9, Fire	5	Focus 2
+3016	Quematrice Silexes III	21ー	170	11, Fire	5	Focus 2
+3017	Quematrice Silexes IV	32ー	210	13, Fire	5	Focus 3
+3018	Firetrail Magnesiae	321	240	15, Fire	5	Focus 3
+3019	Barina Faucilles I	ーーー	100	6, Paralysis	10	Critical Draw 1
+3020	Barina Faucilles II	ーーー	120	8, Paralysis	10	Critical Draw 1, Critical Status 1
+3021	Barina Faucilles III	21ー	150	11, Paralysis	15	Critical Draw 1, Critical Status 1
+3022	Barina Faucilles IV	32ー	180	13, Paralysis	15	Critical Draw 2, Critical Status 1
+3023	Lala Harpactirs	321	200	15, Paralysis	15	Critical Draw 2, Critical Status 1
+3024	Pink Maracas I	ーーー	120		5	Punishing Draw 1, Critical Draw 1
+3025	Pink Maracas II	21ー	170		5	Punishing Draw 2, Critical Draw 1
+3026	Funky Maracas	331	220		5	Punishing Draw 3, Critical Draw 2
+3027	Dosha Fastflayers I	ーーー	140		-5, 20 Def	Power Prolonger 1
+3028	Dosha Fastflayers II	1ーー	180		-5, 20 Def	Power Prolonger 2
+3029	Dosha Fastflayers III	22ー	210		-5, 20 Def	Power Prolonger 2
+3030	Uth Ngarpatu I	ーーー	160	10, Water	-15	Power Prolonger 2
+3031	Uth Ngarpatu II	21ー	190	14, Water	-15	Power Prolonger 2
+3032	Uth Ngarpatu III	32ー	220	17, Water	-15	Power Prolonger 3
+3033	Ngarpatu-of-the-Waves	321	240	20, Water	-15	Power Prolonger 3
+3034	Ajara Twin Edges I	ーーー	130	9, Nitro	10	Power Prolonger 2
+3035	Ajara Twin Edges II	21ー	180	12, Nitro	10	Power Prolonger 3
+3036	Ajara-Panthaka	321	210	15, Nitro	10	Power Prolonger 3
+3037	Dosha Guardflayers I	1ーー	180		-15	Focus 2
+3038	Dosha Guardflayers II	22ー	220		-15	Focus 2
+3039	Guardflayers Urbastra	331	250		-15	Focus 2
+3040	Twin Albiraths I	1ーー	160	9, Fire	15	Master's Touch 1, Critical Element 1
+3041	Twin Albiraths II	21ー	180	12, Fire	15	Master's Touch 1, Critical Element 1
+3042	Wyvern Sentinels	321	210	15, Fire	15	Master's Touch 1, Critical Element 1
+3043	Jin Dhakoo I	32ー	190	27, Ice		Focus 3
+3044	Precipice Ulokiem	321	210	30, Ice		Focus 3
+3045	Chthonian Kusarigamas I	1ーー	140	14, Dragon	10	Power Prolonger 2
+3046	Chthonian Kusarigamas II	21ー	170	17, Dragon	10	Power Prolonger 3
+3047	Bequeathed Oblivion	321	210	20, Dragon	10	Power Prolonger 3
+3048	G. Veldian Harpes I	11ー	170	9, Dragon	-10	Focus 2
+3049	G. Veldian Harpes II	22ー	210	12, Dragon	-10	Focus 2
+3050	G. Inspired Ywain	331	240	15, Dragon	-10	Focus 2
+3051	Kut-Ku Pair I	21ー	180	18, Fire		Power Prolonger 2
+3052	Kut-Ku Pair II	32ー	210	22, Fire		Power Prolonger 3
+3053	Dual Kut-Ku	321	220	25, Fire		Power Prolonger 3
+3054	Dual Battleaxes I	21ー	180	14, Poison		Power Prolonger 2
+3055	Dual Battleaxes II	21ー	200	17, Poison		Power Prolonger 3
+3056	Final Battleaxes	321	230	20, Poison		Power Prolonger 3
+3057	Whirling Fulgur I	21ー	180	16, Thunder	15	Critical Element 3
+3058	Fulgurtwins Guardiana	321	210	20, Thunder	15	Critical Element 3
+3059	Blango Sai I	21ー	200	11, Ice	-10	Power Prolonger 3
+3060	Blango Trishula	321	230	15, Ice	-10	Power Prolonger 3
+3061	Gravios Warmakers I	21ー	210	17, Nitro	-15, 30 Def	Focus 3
+3062	Gravios Conquerors	321	240	20, Nitro	-15, 30 Def	Focus 3
+3063	Twin Flames I	21ー	180	16, Fire	10	Critical Boost 3
+3064	Wyvern Lovers	321	200	20, Fire	10	Critical Boost 3
+3065	Fledderklauen I	32ー	180	12, Dragon	20	Critical Element 3
+3066	Hungerklauen	321	200	15, Dragon	20	Critical Element 3
+3067	Veldian Harpes I	32ー	200	16, Dragon		Focus 3
+3068	Guild Knight Sabers I	1ーー	130	14, Water	10	Focus 2
+3069	Guild Knight Sabers II	32ー	160	17, Water	10	Focus 3
+3070	Master Sabers	321	200	20, Water	10	Focus 3
+3071	Esperanza Daggers	321	210			Speed Sharpening 2, Critical Eye 2
+3072	Artian Edges I	222	170	22	5	
+3073	Artian Edges II	222	180	22	5	
+3074	Tiltkreise	333	190	25	5	
+3075	Fastflayers Jambastra	331	240		-5, 20 Def	Power Prolonger 2
+3076	Inspired Ywain	321	220	20, Dragon		Focus 3

@@ -1,68 +1,68 @@
 id	name	slots	damage	element	affinity	skills
-0	Hope Axe I	ーーー	90
-1	Hope Axe II	ーーー	100			Speed Sharpening 1
-2	Hope Axe III	ーーー	130			Speed Sharpening 1, Critical Eye 1
-3	Hope Axe IV	21ー	160			Speed Sharpening 2, Critical Eye 1
-4	Hope Axe V	32ー	190			Speed Sharpening 2, Critical Eye 1
-5	Bone Axe I	ーーー	110			Focus 1
-6	Bone Axe II	ーーー	130			Focus 1, Attack Boost 1
-7	Bone Axe III	1ーー	170			Focus 2, Attack Boost 1
-8	Bone Axe IV	21ー	200			Focus 3, Attack Boost 1
-9	Bone Smasher	321	230			Focus 3, Attack Boost 1
-10	Iron Accelerator I	ーーー	120			Rapid Morph 1
-11	Iron Accelerator II	1ーー	160			Rapid Morph 2
-12	Iron Accelerator III	21ー	190			Rapid Morph 3
-13	Chrome Accelerator	321	220			Rapid Morph 3
-14	Barina Hache I	ーーー	100	10, Paralysis	10	Critical Draw 1
-15	Barina Hache II	ーーー	120	12, Paralysis	10	Critical Draw 1, Critical Status 1
-16	Barina Hache III	21ー	150	15, Paralysis	15	Critical Draw 1, Critical Status 1
-17	Barina Hache IV	32ー	180	17, Paralysis	15	Critical Draw 2, Critical Status 1
-18	Lala Selenocosmi	321	200	20, Paralysis	15	Critical Draw 2, Critical Status 1
-19	Golba Vandal I	ーーー	120		5	Punishing Draw 1, Critical Draw 1
-20	Golba Vandal II	21ー	170		5	Punishing Draw 2, Critical Draw 1
-21	Gundava Vandal	321	220		5	Punishing Draw 2, Critical Draw 2
-22	Dosha Fleshhacker I	ーーー	140		-5, 20 Def	Power Prolonger 1
-23	Dosha Fleshhacker II	1ーー	180		-5, 20 Def	Power Prolonger 2
-24	Dosha Fleshhacker III	21ー	210		-5, 20 Def	Power Prolonger 3
-25	Uth Olacha I	ーーー	160	15, Water	-15	Power Prolonger 2
-26	Uth Olacha II	21ー	190	19, Water	-15	Power Prolonger 2
-27	Uth Olacha III	32ー	220	22, Water	-15	Power Prolonger 3
-28	Olacha-of-the-Waves	321	240	25, Water	-15	Power Prolonger 3
-29	Windsunder Axe I	ーーー	140	12, Ice		Focus 2, Airborne 1
-30	Windsunder Axe II	21ー	170	15, Ice		Focus 2, Airborne 1
-31	Windsunder Axe III	32ー	200	17, Ice		Focus 3, Airborne 1
-32	Windsunder Sakibami	321	220	20, Ice		Focus 3, Airborne 1
-33	Nu Zhangyu I	1ーー	170	12, Fire	-15	Rapid Morph 2
-34	Nu Zhangyu II	32ー	200	17, Fire	-15	Rapid Morph 3
-35	Abaddonian Zhangyu	321	220	20, Fire	-15	Rapid Morph 3
-36	Dosha Gorehacker I	1ーー	180		-15	Focus 2
-37	Dosha Gorehacker II	22ー	220		-15	Focus 2
-38	Gorehacker Urgahaac	331	250		-15	Focus 2
-39	Albirath Flamesplitter I	1ーー	160	14, Fire	15	Master's Touch 1, Critical Element 1
-40	Albirath Flamesplitter II	21ー	180	17, Fire	15	Master's Touch 1, Critical Element 1
-41	Albirath Blaze Splitter	321	210	20, Fire	15	Master's Touch 1, Critical Element 1
-42	Nihil Switch Axe I	1ーー	160	12, Water		Power Prolonger 2
-43	Nihil Switch Axe II	21ー	190	15, Water		Power Prolonger 3
-44	Brutus's Abolishment	321	210	18, Water		Power Prolonger 3
-45	G. Veldian Securis I	11ー	170	12, Dragon	-10	Focus 2
-46	G. Veldian Securis II	22ー	210	15, Dragon	-10	Focus 2
-47	G. Indomitable Perceval	331	230	18, Dragon	-10	Focus 2
-48	Beak Axe I	21ー	180	26, Fire		Power Prolonger 2
-49	Beak Axe II	32ー	210	32, Fire		Power Prolonger 3
-50	Sawbill Axe	321	220	35, Fire		Power Prolonger 3
-51	Dragonmaiden Axe I	21ー	160	12, Poison	15	Critical Status 2, Poison Duration Up 1
-52	Dragonmaiden Axe II	32ー	190	15, Poison	15	Critical Status 3, Poison Duration Up 1
-53	Gríðr's Landmaker	321	210	18, Poison	15	Critical Status 3, Poison Duration Up 1
-54	Morphing Fulgur I	21ー	180	21, Thunder	15	Critical Element 3
-55	Fulgurswitch Guardiana	321	210	25, Thunder	15	Critical Element 3
-56	Rath Flamesplitter I	21ー	180	21, Fire	10	Critical Boost 3
-57	Rath Blaze Splitter	321	200	25, Fire	10	Critical Boost 3
-58	Eisenleib I	32ー	180	16, Dragon	20	Critical Element 3
-59	Eisengeist	321	200	20, Dragon	20	Critical Element 3
-60	Veldian Securis I	32ー	200	22, Dragon		Focus 3
-61	Artian Saw I	222	170	22	5
-62	Artian Saw II	222	180	22	5
-63	Mundus Altus	333	190	26	5
-64	Esperanza Axe	321	210			Speed Sharpening 2, Critical Eye 2
-65	Fleshhacker Yaogahaac	321	230		-5, 20 Def	Power Prolonger 3
-66	Indomitable Perceval	321	220	25, Dragon		Focus 3
+14000	Hope Axe I	ーーー	90			
+14001	Hope Axe II	ーーー	100			Speed Sharpening 1
+14002	Hope Axe III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+14003	Hope Axe IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+14004	Hope Axe V	32ー	190			Speed Sharpening 2, Critical Eye 1
+14005	Bone Axe I	ーーー	110			Focus 1
+14006	Bone Axe II	ーーー	130			Focus 1, Attack Boost 1
+14007	Bone Axe III	1ーー	170			Focus 2, Attack Boost 1
+14008	Bone Axe IV	21ー	200			Focus 3, Attack Boost 1
+14009	Bone Smasher	321	230			Focus 3, Attack Boost 1
+14010	Iron Accelerator I	ーーー	120			Rapid Morph 1
+14011	Iron Accelerator II	1ーー	160			Rapid Morph 2
+14012	Iron Accelerator III	21ー	190			Rapid Morph 3
+14013	Chrome Accelerator	321	220			Rapid Morph 3
+14014	Barina Hache I	ーーー	100	10, Paralysis	10	Critical Draw 1
+14015	Barina Hache II	ーーー	120	12, Paralysis	10	Critical Draw 1, Critical Status 1
+14016	Barina Hache III	21ー	150	15, Paralysis	15	Critical Draw 1, Critical Status 1
+14017	Barina Hache IV	32ー	180	17, Paralysis	15	Critical Draw 2, Critical Status 1
+14018	Lala Selenocosmi	321	200	20, Paralysis	15	Critical Draw 2, Critical Status 1
+14019	Golba Vandal I	ーーー	120		5	Punishing Draw 1, Critical Draw 1
+14020	Golba Vandal II	21ー	170		5	Punishing Draw 2, Critical Draw 1
+14021	Gundava Vandal	321	220		5	Punishing Draw 2, Critical Draw 2
+14022	Dosha Fleshhacker I	ーーー	140		-5, 20 Def	Power Prolonger 1
+14023	Dosha Fleshhacker II	1ーー	180		-5, 20 Def	Power Prolonger 2
+14024	Dosha Fleshhacker III	21ー	210		-5, 20 Def	Power Prolonger 3
+14025	Uth Olacha I	ーーー	160	15, Water	-15	Power Prolonger 2
+14026	Uth Olacha II	21ー	190	19, Water	-15	Power Prolonger 2
+14027	Uth Olacha III	32ー	220	22, Water	-15	Power Prolonger 3
+14028	Olacha-of-the-Waves	321	240	25, Water	-15	Power Prolonger 3
+14029	Windsunder Axe I	ーーー	140	12, Ice		Focus 2, Airborne 1
+14030	Windsunder Axe II	21ー	170	15, Ice		Focus 2, Airborne 1
+14031	Windsunder Axe III	32ー	200	17, Ice		Focus 3, Airborne 1
+14032	Windsunder Sakibami	321	220	20, Ice		Focus 3, Airborne 1
+14033	Nu Zhangyu I	1ーー	170	12, Fire	-15	Rapid Morph 2
+14034	Nu Zhangyu II	32ー	200	17, Fire	-15	Rapid Morph 3
+14035	Abaddonian Zhangyu	321	220	20, Fire	-15	Rapid Morph 3
+14036	Dosha Gorehacker I	1ーー	180		-15	Focus 2
+14037	Dosha Gorehacker II	22ー	220		-15	Focus 2
+14038	Gorehacker Urgahaac	331	250		-15	Focus 2
+14039	Albirath Flamesplitter I	1ーー	160	14, Fire	15	Master's Touch 1, Critical Element 1
+14040	Albirath Flamesplitter II	21ー	180	17, Fire	15	Master's Touch 1, Critical Element 1
+14041	Albirath Blaze Splitter	321	210	20, Fire	15	Master's Touch 1, Critical Element 1
+14042	Nihil Switch Axe I	1ーー	160	12, Water		Power Prolonger 2
+14043	Nihil Switch Axe II	21ー	190	15, Water		Power Prolonger 3
+14044	Brutus's Abolishment	321	210	18, Water		Power Prolonger 3
+14045	G. Veldian Securis I	11ー	170	12, Dragon	-10	Focus 2
+14046	G. Veldian Securis II	22ー	210	15, Dragon	-10	Focus 2
+14047	G. Indomitable Perceval	331	230	18, Dragon	-10	Focus 2
+14048	Beak Axe I	21ー	180	26, Fire		Power Prolonger 2
+14049	Beak Axe II	32ー	210	32, Fire		Power Prolonger 3
+14050	Sawbill Axe	321	220	35, Fire		Power Prolonger 3
+14051	Dragonmaiden Axe I	21ー	160	12, Poison	15	Critical Status 2, Poison Duration Up 1
+14052	Dragonmaiden Axe II	32ー	190	15, Poison	15	Critical Status 3, Poison Duration Up 1
+14053	Gríðr's Landmaker	321	210	18, Poison	15	Critical Status 3, Poison Duration Up 1
+14054	Morphing Fulgur I	21ー	180	21, Thunder	15	Critical Element 3
+14055	Fulgurswitch Guardiana	321	210	25, Thunder	15	Critical Element 3
+14056	Rath Flamesplitter I	21ー	180	21, Fire	10	Critical Boost 3
+14057	Rath Blaze Splitter	321	200	25, Fire	10	Critical Boost 3
+14058	Eisenleib I	32ー	180	16, Dragon	20	Critical Element 3
+14059	Eisengeist	321	200	20, Dragon	20	Critical Element 3
+14060	Veldian Securis I	32ー	200	22, Dragon		Focus 3
+14061	Artian Saw I	222	170	22	5	
+14062	Artian Saw II	222	180	22	5	
+14063	Mundus Altus	333	190	26	5	
+14064	Esperanza Axe	321	210			Speed Sharpening 2, Critical Eye 2
+14065	Fleshhacker Yaogahaac	321	230		-5, 20 Def	Power Prolonger 3
+14066	Indomitable Perceval	321	220	25, Dragon		Focus 3

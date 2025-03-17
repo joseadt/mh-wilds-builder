@@ -1,75 +1,75 @@
 id	name	slots	damage	element	affinity	skills
-0	Hope Edge I	ーーー	90
-1	Hope Edge II	ーーー	100			Speed Sharpening 1
-2	Hope Edge III	ーーー	130			Speed Sharpening 1, Critical Eye 1
-3	Hope Edge IV	21ー	160			Speed Sharpening 2, Critical Eye 1
-4	Hope Edge V	32ー	190			Speed Sharpening 2, Critical Eye 1
-5	Rey Tonitrus I	ーーー	140	15, Thunder		Focus 1, Punishing Draw 1
-6	Rey Tonitrus II	21ー	170	19, Thunder		Focus 1, Punishing Draw 1
-7	Rey Tonitrus III	32ー	200	22, Thunder		Focus 2, Punishing Draw 1
-8	Tonitrus Clairblade	321	220	25, Thunder		Focus 2, Punishing Draw 1
-9	Stahlfakt I	32ー	180	27, Dragon	20	Critical Element 3
-10	Stahlrecht	321	210	30, Dragon	20	Critical Element 3
-11	Uth Khlunda I	ーーー	160	20, Water	-15	Power Prolonger 2
-12	Uth Khlunda II	21ー	190	26, Water	-15	Power Prolonger 2
-13	Uth Khlunda III	32ー	220	32, Water	-15	Power Prolonger 3
-14	Khlunda-of-the-Waves	321	240	35, Water	-15	Power Prolonger 3
-15	Windclaw Blade I	ーーー	140	18, Ice		Focus 2, Airborne 1
-16	Windclaw Blade II	21ー	170	23, Ice		Focus 2, Airborne 1
-17	Windclaw Blade III	32ー	200	27, Ice		Focus 3, Airborne 1
-18	Windclaw Kiribami	321	220	30, Ice		Focus 3, Airborne 1
-19	Quematrice Lima I	ーーー	100	10, Fire	5	Punishing Draw 1
-20	Quematrice Lima II	ーーー	140	12, Fire	5	Punishing Draw 2
-21	Quematrice Lima III	21ー	170	15, Fire	5	Punishing Draw 2
-22	Quematrice Lima IV	32ー	210	17, Fire	5	Punishing Draw 3
-23	Firetrail Ferrocere	321	230	20, Fire	5	Punishing Draw 3
-24	Iron Katana I	ーーー	120			Critical Draw 1
-25	Iron Katana II	1ーー	160			Critical Draw 2
-26	Iron Katana III	21ー	190			Critical Draw 3
-27	Keen Edge	321	220			Critical Draw 3
-28	Wyvern Blade "Ash" I	1ーー	160	21, Fire	15	Master's Touch 1, Critical Element 1
-29	Wyvern Blade "Ash" II	21ー	180	26, Fire	15	Master's Touch 1, Critical Element 1
-30	Wyvern Blade "Lily"	321	210	30, Fire	15	Master's Touch 1, Critical Element 1
-31	Wyvern Blade "Blood" I	21ー	180	29, Fire	10	Critical Boost 3
-32	Wyvern Blade "Maple"	321	200	35, Fire	10	Critical Boost 3
-33	Wyvern Blade "Verde" I	21ー	160	14, Poison	15	Critical Status 2, Poison Duration Up 1
-34	Wyvern Blade "Verde" II	32ー	190	17, Poison	15	Critical Status 3, Poison Duration Up 1
-35	Wyvern Blade "Holly"	321	210	20, Poison	15	Critical Status 3, Poison Duration Up 1
-36	Barina Flamberge I	ーーー	100	10, Paralysis	10	Critical Draw 1
-37	Barina Flamberge II	ーーー	120	13, Paralysis	10	Critical Draw 1, Critical Status 1
-38	Barina Flamberge III	21ー	150	18, Paralysis	15	Critical Draw 1, Critical Status 1
-39	Barina Flamberge IV	32ー	180	21, Paralysis	15	Critical Draw 2, Critical Status 1
-40	Lala Ornithocton	321	200	25, Paralysis	15	Critical Draw 2, Critical Status 1
-41	Blood Cry I	ーーー	120	13, Sleep	10	Power Prolonger 2
-42	Blood Cry II	21ー	150	18, Sleep	15	Power Prolonger 2
-43	Blood Cry III	32ー	180	22, Sleep	15	Power Prolonger 3
-44	Blood Scream	321	200	25, Sleep	15	Power Prolonger 3
-45	Bone Shotel I	ーーー	110			Focus 1
-46	Bone Shotel II	ーーー	130			Focus 1, Attack Boost 1
-47	Bone Shotel III	1ーー	170			Focus 2, Attack Boost 1
-48	Bone Shotel IV	21ー	200			Focus 3, Attack Boost 1
-49	Hard Bone Shotel	321	230			Focus 3, Attack Boost 1
-50	Gnashing Fulgur I	21ー	180	29, Thunder	20	Critical Element 3
-51	Fulgurblade Guardiana	321	210	35, Thunder	20	Critical Element 3
-52	Rompo Hacker I	ーーー	140	15, Poison		Power Prolonger 2
-53	Rompo Hacker II	21ー	170	19, Poison		Power Prolonger 2
-54	Rompo Hacker III	32ー	200	22, Poison		Power Prolonger 3
-55	Rompo Mytoxin	321	220	25, Poison		Power Prolonger 3
-56	Dosha Fatecleaver I	ーーー	140		-5, 20 Def	Punishing Draw 1
-57	Dosha Fatecleaver II	1ーー	180		-5, 20 Def	Punishing Draw 2
-58	Dosha Fatecleaver III	21ー	210		-5, 20 Def	Punishing Draw 3
-59	Blanberge I	21ー	200	16, Ice	-10	Critical Draw 3
-60	Blangongaberge	321	230	20, Ice	-10	Critical Draw 3
-61	Dosha Gravecleaver I	1ーー	180		-15	Power Prolonger 2
-62	Dosha Gravecleaver II	21ー	220		-15	Power Prolonger 3
-63	Gravecleaver Urkemush	321	250		-15	Power Prolonger 3
-64	G. Veldian Ensis I	11ー	170	14, Dragon	-10	Focus 2
-65	G. Veldian Ensis II	22ー	210	17, Dragon	-10	Focus 2
-66	G. Righteous Lancelot	331	240	20, Dragon	-10	Focus 2
-67	Veldian Ensis I	32ー	200	32, Dragon		Focus 3
-68	Artian Saber I	222	170	23	5
-69	Artian Saber II	222	180	23	5
-70	Dimensius	333	190	27	5
-71	Esperanza Edge	321	210			Speed Sharpening 2, Critical Eye 2
-72	Fatecleaver Kimkemush	321	240		-5, 20 Def	Punishing Draw 3
-73	Righteous Lancelot	321	220	35, Dragon		Focus 3
+13000	Hope Edge I	ーーー	90			
+13001	Hope Edge II	ーーー	100			Speed Sharpening 1
+13002	Hope Edge III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+13003	Hope Edge IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+13004	Hope Edge V	32ー	190			Speed Sharpening 2, Critical Eye 1
+13005	Rey Tonitrus I	ーーー	140	15, Thunder		Focus 1, Punishing Draw 1
+13006	Rey Tonitrus II	21ー	170	19, Thunder		Focus 1, Punishing Draw 1
+13007	Rey Tonitrus III	32ー	200	22, Thunder		Focus 2, Punishing Draw 1
+13008	Tonitrus Clairblade	321	220	25, Thunder		Focus 2, Punishing Draw 1
+13009	Stahlfakt I	32ー	180	27, Dragon	20	Critical Element 3
+13010	Stahlrecht	321	210	30, Dragon	20	Critical Element 3
+13011	Uth Khlunda I	ーーー	160	20, Water	-15	Power Prolonger 2
+13012	Uth Khlunda II	21ー	190	26, Water	-15	Power Prolonger 2
+13013	Uth Khlunda III	32ー	220	32, Water	-15	Power Prolonger 3
+13014	Khlunda-of-the-Waves	321	240	35, Water	-15	Power Prolonger 3
+13015	Windclaw Blade I	ーーー	140	18, Ice		Focus 2, Airborne 1
+13016	Windclaw Blade II	21ー	170	23, Ice		Focus 2, Airborne 1
+13017	Windclaw Blade III	32ー	200	27, Ice		Focus 3, Airborne 1
+13018	Windclaw Kiribami	321	220	30, Ice		Focus 3, Airborne 1
+13019	Quematrice Lima I	ーーー	100	10, Fire	5	Punishing Draw 1
+13020	Quematrice Lima II	ーーー	140	12, Fire	5	Punishing Draw 2
+13021	Quematrice Lima III	21ー	170	15, Fire	5	Punishing Draw 2
+13022	Quematrice Lima IV	32ー	210	17, Fire	5	Punishing Draw 3
+13023	Firetrail Ferrocere	321	230	20, Fire	5	Punishing Draw 3
+13024	Iron Katana I	ーーー	120			Critical Draw 1
+13025	Iron Katana II	1ーー	160			Critical Draw 2
+13026	Iron Katana III	21ー	190			Critical Draw 3
+13027	Keen Edge	321	220			Critical Draw 3
+13028	"Wyvern Blade ""Ash"" I"	1ーー	160	21, Fire	15	Master's Touch 1, Critical Element 1
+13029	"Wyvern Blade ""Ash"" II"	21ー	180	26, Fire	15	Master's Touch 1, Critical Element 1
+13030	"Wyvern Blade ""Lily"""	321	210	30, Fire	15	Master's Touch 1, Critical Element 1
+13031	"Wyvern Blade ""Blood"" I"	21ー	180	29, Fire	10	Critical Boost 3
+13032	"Wyvern Blade ""Maple"""	321	200	35, Fire	10	Critical Boost 3
+13033	"Wyvern Blade ""Verde"" I"	21ー	160	14, Poison	15	Critical Status 2, Poison Duration Up 1
+13034	"Wyvern Blade ""Verde"" II"	32ー	190	17, Poison	15	Critical Status 3, Poison Duration Up 1
+13035	"Wyvern Blade ""Holly"""	321	210	20, Poison	15	Critical Status 3, Poison Duration Up 1
+13036	Barina Flamberge I	ーーー	100	10, Paralysis	10	Critical Draw 1
+13037	Barina Flamberge II	ーーー	120	13, Paralysis	10	Critical Draw 1, Critical Status 1
+13038	Barina Flamberge III	21ー	150	18, Paralysis	15	Critical Draw 1, Critical Status 1
+13039	Barina Flamberge IV	32ー	180	21, Paralysis	15	Critical Draw 2, Critical Status 1
+13040	Lala Ornithocton	321	200	25, Paralysis	15	Critical Draw 2, Critical Status 1
+13041	Blood Cry I	ーーー	120	13, Sleep	10	Power Prolonger 2
+13042	Blood Cry II	21ー	150	18, Sleep	15	Power Prolonger 2
+13043	Blood Cry III	32ー	180	22, Sleep	15	Power Prolonger 3
+13044	Blood Scream	321	200	25, Sleep	15	Power Prolonger 3
+13045	Bone Shotel I	ーーー	110			Focus 1
+13046	Bone Shotel II	ーーー	130			Focus 1, Attack Boost 1
+13047	Bone Shotel III	1ーー	170			Focus 2, Attack Boost 1
+13048	Bone Shotel IV	21ー	200			Focus 3, Attack Boost 1
+13049	Hard Bone Shotel	321	230			Focus 3, Attack Boost 1
+13050	Gnashing Fulgur I	21ー	180	29, Thunder	20	Critical Element 3
+13051	Fulgurblade Guardiana	321	210	35, Thunder	20	Critical Element 3
+13052	Rompo Hacker I	ーーー	140	15, Poison		Power Prolonger 2
+13053	Rompo Hacker II	21ー	170	19, Poison		Power Prolonger 2
+13054	Rompo Hacker III	32ー	200	22, Poison		Power Prolonger 3
+13055	Rompo Mytoxin	321	220	25, Poison		Power Prolonger 3
+13056	Dosha Fatecleaver I	ーーー	140		-5, 20 Def	Punishing Draw 1
+13057	Dosha Fatecleaver II	1ーー	180		-5, 20 Def	Punishing Draw 2
+13058	Dosha Fatecleaver III	21ー	210		-5, 20 Def	Punishing Draw 3
+13059	Blanberge I	21ー	200	16, Ice	-10	Critical Draw 3
+13060	Blangongaberge	321	230	20, Ice	-10	Critical Draw 3
+13061	Dosha Gravecleaver I	1ーー	180		-15	Power Prolonger 2
+13062	Dosha Gravecleaver II	21ー	220		-15	Power Prolonger 3
+13063	Gravecleaver Urkemush	321	250		-15	Power Prolonger 3
+13064	G. Veldian Ensis I	11ー	170	14, Dragon	-10	Focus 2
+13065	G. Veldian Ensis II	22ー	210	17, Dragon	-10	Focus 2
+13066	G. Righteous Lancelot	331	240	20, Dragon	-10	Focus 2
+13067	Veldian Ensis I	32ー	200	32, Dragon		Focus 3
+13068	Artian Saber I	222	170	23	5	
+13069	Artian Saber II	222	180	23	5	
+13070	Dimensius	333	190	27	5	
+13071	Esperanza Edge	321	210			Speed Sharpening 2, Critical Eye 2
+13072	Fatecleaver Kimkemush	321	240		-5, 20 Def	Punishing Draw 3
+13073	Righteous Lancelot	321	220	35, Dragon		Focus 3

@@ -16,4 +16,5 @@ export interface Decoration {
 
 export interface DecorationSlot {
     level: SlotLevel;
+    equiped?: Decoration;
 }

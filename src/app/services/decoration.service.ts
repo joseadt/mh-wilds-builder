@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { parse } from 'papaparse';
+import { firstValueFrom } from 'rxjs';
 import { environment } from '../../environments/environment';
 import { Decoration, SlotLevel } from '../models/decoration.model';
 import { GearSkill } from '../models/gear-skill.model';
@@ -20,32 +21,46 @@ export class DecorationService {
 
     constructor(private httpClient: HttpClient) {}
 
-    loadDecorations() {
-        this.httpClient
-            .get(environment.decorationsUrl, { responseType: 'text' })
-            .subscribe(this.readTsv);
+    async loadDecorations() {
+        const response = await firstValueFrom(
+            this.httpClient.get(environment.decorationsUrl, {
+                responseType: 'text',
+            })
+        );
+
+        this.decorations = await this.readTsv(response);
+        return this.decorations;
     }
 
     get(slotLevel: number) {
         return this.decorations.filter((d) => d.slotLevel <= slotLevel);
     }
 
-    private readTsv = (response: string) => {
-        parse<TsvDecoration>(response, {
-            delimiter: '\t',
-            header: true,
-            skipEmptyLines: true,
-            complete: (result) =>
-                (this.decorations = result.data.map(this.mapTsvRow.bind(this))),
+    getById(id?: number): Decoration | undefined {
+        if (id == null) {
+            return undefined;
+        }
+        return structuredClone(this.decorations?.find((d) => d.id === id));
+    }
+
+    private readTsv(response: string): Promise<Decoration[]> {
+        return new Promise((resolve) => {
+            parse<TsvDecoration>(response, {
+                delimiter: '\t',
+                header: true,
+                skipEmptyLines: true,
+                complete: (result) =>
+                    resolve(result.data.map(this.mapTsvRow.bind(this))),
+            });
         });
-    };
+    }
 
     private mapTsvRow(tsvRow: TsvDecoration): Decoration {
         return {
-            id: tsvRow.id,
+            id: Number(tsvRow.id),
             color: '#ffffff',
             name: tsvRow.name,
-            slotLevel: tsvRow.slotLevel as SlotLevel,
+            slotLevel: Number(tsvRow.slotLevel) as SlotLevel,
             skills: tsvRow.skill.split(',').map(this.mapTsvSkill),
         };
     }

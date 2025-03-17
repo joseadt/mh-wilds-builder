@@ -51,18 +51,8 @@
 
         }
 
-        .container-box {
-            filter: blur(2px);
-        }
     }
 }
 
 
-.container-box {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: -1;
-}
+

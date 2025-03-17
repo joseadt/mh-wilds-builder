@@ -1,69 +1,69 @@
 id	name	slots	damage	element	affinity	skills
-0	Hope Gunlance I	ーーー	90
-1	Hope Gunlance II	ーーー	100			Speed Sharpening 1
-2	Hope Gunlance III	ーーー	130			Speed Sharpening 1, Critical Eye 1
-3	Hope Gunlance IV	21ー	160			Speed Sharpening 2, Critical Eye 1
-4	Hope Gunlance V	32ー	190			Speed Sharpening 2, Critical Eye 1
-5	Bone Gunlance I	ーーー	110			Guard 1
-6	Bone Gunlance II	ーーー	130			Guard 1, Attack Boost 1
-7	Bone Gunlance III	1ーー	170			Guard 2, Attack Boost 1
-8	Bone Gunlance IV	21ー	200			Guard 3, Attack Boost 1
-9	Great Bone Gunlance	321	230			Guard 3, Attack Boost 1
-10	Triple Bayonet I	ーーー	120			Guard Up 1
-11	Triple Bayonet II	1ーー	160			Guard Up 2
-12	Triple Bayonet III	21ー	190			Guard Up 2
-13	Triumvirate Edge	321	220			Guard Up 3
-14	Quematrice Culebrina I	ーーー	100	14, Fire	5	Guard 1
-15	Quematrice Culebrina II	ーーー	140	16, Fire	5	Guard 2
-16	Quematrice Culebrina III	21ー	170	20, Fire	5	Guard 2
-17	Quematrice Culebrina IV	32ー	200	22, Fire	5	Guard 3
-18	Firetrail Quemador	321	220	25, Fire	5	Guard 3
-19	Balahara Exploder I	ーーー	110	16, Water	10	Offensive Guard 1
-20	Balahara Exploder II	1ーー	150	20, Water	10	Offensive Guard 2
-21	Balahara Exploder III	21ー	160	23, Water	10	Offensive Guard 2
-22	Balahara Exploder IV	32ー	190	27, Water	10	Offensive Guard 3
-23	Sandsea Visponan	321	210	30, Water	10	Offensive Guard 3
-24	Uth Falarmata I	ーーー	170	25, Water	-15	Guard 2
-25	Uth Falarmata II	21ー	200	31, Water	-15	Guard 2
-26	Uth Falarmata III	32ー	230	37, Water	-15	Guard 3
-27	Falarmata-of-the-Waves	321	250	40, Water	-15	Guard 3
-28	Shell Gunberd I	ーーー	120	15, Sleep	10	Critical Draw 1, Critical Status 1
-29	Shell Gunberd II	21ー	150	21, Sleep	15	Critical Draw 1, Critical Status 1
-30	Shell Gunberd III	32ー	180	27, Sleep	15	Critical Draw 2, Critical Status 1
-31	Solid Gunberd	321	200	30, Sleep	15	Critical Draw 2, Critical Status 1
-32	Ajara Gunpike I	ーーー	130	19, Nitro	10	Load Shells 1, Offensive Guard 1
-33	Ajara Gunpike II	21ー	180	22, Nitro	10	Load Shells 2, Offensive Guard 1
-34	Ajara-Kalika	321	210	25, Nitro	10	Load Shells 2, Offensive Guard 1
-35	Albirath Rook I	1ーー	160	21, Fire	15	Master's Touch 1, Critical Element 1
-36	Albirath Rook II	21ー	180	26, Fire	15	Master's Touch 1, Critical Element 1
-37	Shining Rook	321	210	30, Fire	15	Master's Touch 1, Critical Element 1
-38	Jin Dhatop I	32ー	190	47, Ice		Guard 3
-39	Precipice Lohamata	321	210	50, Ice		Guard 3
-40	G. Veldian Hasta I	11ー	170	16, Dragon	-10	Guard 2
-41	G. Veldian Hasta II	22ー	210	21, Dragon	-10	Guard 2
-42	G. Lawful Bors	331	240	25, Dragon	-10	Guard 2
-43	Hard Hitter I	21ー	180	31, Poison		Punishing Draw 2, Critical Draw 1
-44	Hard Hitter II	21ー	200	34, Poison		Punishing Draw 2, Critical Draw 2
-45	Big Slugger	321	230	40, Poison		Punishing Draw 3, Critical Draw 2
-46	Princess Panoply I	21ー	160	19, Poison	15	Critical Status 2, Poison Duration Up 1
-47	Princess Panoply II	32ー	190	22, Poison	15	Critical Status 3, Poison Duration Up 1
-48	Ortlinde	321	210	25, Poison	15	Critical Status 3, Poison Duration Up 1
-49	Warring Fulgur I	21ー	180	34, Thunder	15	Critical Element 3
-50	Fulgurcannon Guardiana	321	210	40, Thunder	15	Critical Element 3
-51	White Gunlance I	21ー	220	34, Nitro	-15, 30 Def	Guard Up 3
-52	White Cannon	321	240	40, Nitro	-15, 30 Def	Guard Up 3
-53	Red Rook I	21ー	180	34, Fire	10	Critical Boost 3
-54	Crimson Rook	321	200	40, Fire	10	Critical Boost 3
-55	Tyrannenarm I	32ー	180	27, Dragon	20	Critical Element 3
-56	Verräterarm	321	200	30, Dragon	20	Critical Element 3
-57	Veldian Hasta I	32ー	200	37, Dragon		Guard 3
-58	Paretic Gunlance I	ーーー	100	15, Paralysis		Offensive Guard 1
-59	Paretic Gunlance II	ーーー	130	21, Paralysis		Offensive Guard 2
-60	Paretic Gunlance III	21ー	160	31, Paralysis		Offensive Guard 2
-61	Paretic Gunlance IV	32ー	190	37, Paralysis		Offensive Guard 3
-62	Debilitating Torpor	321	210	40, Paralysis		Offensive Guard 3
-63	Artian Cannon I	222	170	27	5
-64	Artian Cannon II	222	180	27	5
-65	Argenesis	333	190	32	5
-66	Esperanza Gunlance	321	210			Speed Sharpening 2, Critical Eye 2
-67	Lawful Bors	321	220	40, Dragon		Guard 3
+5000	Hope Gunlance I	ーーー	90			
+5001	Hope Gunlance II	ーーー	100			Speed Sharpening 1
+5002	Hope Gunlance III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+5003	Hope Gunlance IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+5004	Hope Gunlance V	32ー	190			Speed Sharpening 2, Critical Eye 1
+5005	Bone Gunlance I	ーーー	110			Guard 1
+5006	Bone Gunlance II	ーーー	130			Guard 1, Attack Boost 1
+5007	Bone Gunlance III	1ーー	170			Guard 2, Attack Boost 1
+5008	Bone Gunlance IV	21ー	200			Guard 3, Attack Boost 1
+5009	Great Bone Gunlance	321	230			Guard 3, Attack Boost 1
+5010	Triple Bayonet I	ーーー	120			Guard Up 1
+5011	Triple Bayonet II	1ーー	160			Guard Up 2
+5012	Triple Bayonet III	21ー	190			Guard Up 2
+5013	Triumvirate Edge	321	220			Guard Up 3
+5014	Quematrice Culebrina I	ーーー	100	14, Fire	5	Guard 1
+5015	Quematrice Culebrina II	ーーー	140	16, Fire	5	Guard 2
+5016	Quematrice Culebrina III	21ー	170	20, Fire	5	Guard 2
+5017	Quematrice Culebrina IV	32ー	200	22, Fire	5	Guard 3
+5018	Firetrail Quemador	321	220	25, Fire	5	Guard 3
+5019	Balahara Exploder I	ーーー	110	16, Water	10	Offensive Guard 1
+5020	Balahara Exploder II	1ーー	150	20, Water	10	Offensive Guard 2
+5021	Balahara Exploder III	21ー	160	23, Water	10	Offensive Guard 2
+5022	Balahara Exploder IV	32ー	190	27, Water	10	Offensive Guard 3
+5023	Sandsea Visponan	321	210	30, Water	10	Offensive Guard 3
+5024	Uth Falarmata I	ーーー	170	25, Water	-15	Guard 2
+5025	Uth Falarmata II	21ー	200	31, Water	-15	Guard 2
+5026	Uth Falarmata III	32ー	230	37, Water	-15	Guard 3
+5027	Falarmata-of-the-Waves	321	250	40, Water	-15	Guard 3
+5028	Shell Gunberd I	ーーー	120	15, Sleep	10	Critical Draw 1, Critical Status 1
+5029	Shell Gunberd II	21ー	150	21, Sleep	15	Critical Draw 1, Critical Status 1
+5030	Shell Gunberd III	32ー	180	27, Sleep	15	Critical Draw 2, Critical Status 1
+5031	Solid Gunberd	321	200	30, Sleep	15	Critical Draw 2, Critical Status 1
+5032	Ajara Gunpike I	ーーー	130	19, Nitro	10	Load Shells 1, Offensive Guard 1
+5033	Ajara Gunpike II	21ー	180	22, Nitro	10	Load Shells 2, Offensive Guard 1
+5034	Ajara-Kalika	321	210	25, Nitro	10	Load Shells 2, Offensive Guard 1
+5035	Albirath Rook I	1ーー	160	21, Fire	15	Master's Touch 1, Critical Element 1
+5036	Albirath Rook II	21ー	180	26, Fire	15	Master's Touch 1, Critical Element 1
+5037	Shining Rook	321	210	30, Fire	15	Master's Touch 1, Critical Element 1
+5038	Jin Dhatop I	32ー	190	47, Ice		Guard 3
+5039	Precipice Lohamata	321	210	50, Ice		Guard 3
+5040	G. Veldian Hasta I	11ー	170	16, Dragon	-10	Guard 2
+5041	G. Veldian Hasta II	22ー	210	21, Dragon	-10	Guard 2
+5042	G. Lawful Bors	331	240	25, Dragon	-10	Guard 2
+5043	Hard Hitter I	21ー	180	31, Poison		Punishing Draw 2, Critical Draw 1
+5044	Hard Hitter II	21ー	200	34, Poison		Punishing Draw 2, Critical Draw 2
+5045	Big Slugger	321	230	40, Poison		Punishing Draw 3, Critical Draw 2
+5046	Princess Panoply I	21ー	160	19, Poison	15	Critical Status 2, Poison Duration Up 1
+5047	Princess Panoply II	32ー	190	22, Poison	15	Critical Status 3, Poison Duration Up 1
+5048	Ortlinde	321	210	25, Poison	15	Critical Status 3, Poison Duration Up 1
+5049	Warring Fulgur I	21ー	180	34, Thunder	15	Critical Element 3
+5050	Fulgurcannon Guardiana	321	210	40, Thunder	15	Critical Element 3
+5051	White Gunlance I	21ー	220	34, Nitro	-15, 30 Def	Guard Up 3
+5052	White Cannon	321	240	40, Nitro	-15, 30 Def	Guard Up 3
+5053	Red Rook I	21ー	180	34, Fire	10	Critical Boost 3
+5054	Crimson Rook	321	200	40, Fire	10	Critical Boost 3
+5055	Tyrannenarm I	32ー	180	27, Dragon	20	Critical Element 3
+5056	Verräterarm	321	200	30, Dragon	20	Critical Element 3
+5057	Veldian Hasta I	32ー	200	37, Dragon		Guard 3
+5058	Paretic Gunlance I	ーーー	100	15, Paralysis		Offensive Guard 1
+5059	Paretic Gunlance II	ーーー	130	21, Paralysis		Offensive Guard 2
+5060	Paretic Gunlance III	21ー	160	31, Paralysis		Offensive Guard 2
+5061	Paretic Gunlance IV	32ー	190	37, Paralysis		Offensive Guard 3
+5062	Debilitating Torpor	321	210	40, Paralysis		Offensive Guard 3
+5063	Artian Cannon I	222	170	27	5	
+5064	Artian Cannon II	222	180	27	5	
+5065	Argenesis	333	190	32	5	
+5066	Esperanza Gunlance	321	210			Speed Sharpening 2, Critical Eye 2
+5067	Lawful Bors	321	220	40, Dragon		Guard 3

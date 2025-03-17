@@ -14,19 +14,19 @@
     </div>
 </app-container>
 
-@if (this.slots()) {
+@if (this.selected()?.slots) {
 <div class="mx-3 mb-2">
     <div class="flex row">
-        @for(item of slots(); track $index) {
+        @for(item of this.selected()?.slots; track $index) {
         <app-container class="col-12 col-lg-6 col-xl-4 decoration-container" simple inline>
             <div class="flex row">
-                <div class="slot col-10" (click)="onClickSlot($index)">
-                    <img [src]="slotUrl(item.slotLevel!)" class="mr-1">
-                    {{item.name || '-'}}
+                <div class="slot col-10" (click)="onClickSlot(item)">
+                    <img [src]="slotUrl(item.level!)" class="mr-1">
+                    {{item.equiped?.name || '-'}}
                 </div>
-                @if(item.name) {
+                @if(item.equiped) {
                 <div class="col-1">
-                    <span class="delete-button " (click)="clearSlot($index)">
+                    <span class="delete-button " (click)="clearSlot(item)">
                     </span>
                 </div>
                 }

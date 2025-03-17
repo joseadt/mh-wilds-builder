@@ -1,75 +1,75 @@
 id	name	slots	damage	element	affinity	skills
-0	Hope Lance I	ーーー	90
-1	Hope Lance II	ーーー	100			Speed Sharpening 1
-2	Hope Lance III	ーーー	130			Speed Sharpening 1, Critical Eye 1
-3	Hope Lance IV	21ー	160			Speed Sharpening 2, Critical Eye 1
-4	Hope Lance V	32ー	190			Speed Sharpening 2, Critical Eye 1
-5	Bone Lance I	ーーー	110			Guard 1
-6	Bone Lance II	ーーー	130			Guard 1, Attack Boost 1
-7	Bone Lance III	1ーー	170			Guard 2, Attack Boost 1
-8	Bone Lance IV	21ー	200			Guard 3, Attack Boost 1
-9	Hard Bone Lance	321	230			Guard 3, Attack Boost 1
-10	Chrome Drill I	ーーー	120			Guard Up 1
-11	Chrome Drill II	1ーー	160			Guard Up 2
-12	Chrome Drill III	21ー	190			Guard Up 2
-13	Chrome Lance	321	220			Guard Up 3
-14	Quematrice Lanza I	ーーー	100	10, Fire	5	Guard 1
-15	Quematrice Lanza II	ーーー	140	12, Fire	5	Guard 2
-16	Quematrice Lanza III	21ー	170	15, Fire	5	Guard 2
-17	Quematrice Lanza IV	32ー	210	17, Fire	5	Guard 3
-18	Firetrail Kaminet	321	240	20, Fire	5	Guard 3
-19	Barina Sarissa I	ーーー	100	10, Paralysis	10	Critical Draw 1
-20	Barina Sarissa II	ーーー	120	13, Paralysis	10	Critical Draw 1, Critical Status 1
-21	Barina Sarissa III	21ー	150	18, Paralysis	15	Critical Draw 1, Critical Status 1
-22	Barina Sarissa IV	32ー	180	21, Paralysis	15	Critical Draw 2, Critical Status 1
-23	Lala Aviculari	321	200	25, Paralysis	15	Critical Draw 2, Critical Status 1
-24	Balahara Lance I	ーーー	110	14, Water	10	Offensive Guard 1
-25	Balahara Lance II	1ーー	150	16, Water	10	Offensive Guard 2
-26	Balahara Lance III	21ー	160	20, Water	10	Offensive Guard 2
-27	Balahara Lance IV	32ー	190	22, Water	10	Offensive Guard 3
-28	Sandsea Prallaya	321	210	25, Water	10	Offensive Guard 3
-29	Dosha Fierceborer I	ーーー	140		-5, 20 Def	Punishing Draw 1
-30	Dosha Fierceborer II	11ー	180		-5, 20 Def	Punishing Draw 2
-31	Dosha Fierceborer III	22ー	210		-5, 20 Def	Punishing Draw 3
-32	Rompo Piercer I	ーーー	140	15, Poison		Guard Up 2
-33	Rompo Piercer II	21ー	170	19, Poison		Guard Up 2
-34	Rompo Piercer III	32ー	200	22, Poison		Guard Up 3
-35	Rompo Tetrotox	321	220	25, Poison		Guard Up 3
-36	Rey Indra I	ーーー	140	15, Thunder		Guard 1, Offensive Guard 1
-37	Rey Indra II	21ー	170	19, Thunder		Guard 1, Offensive Guard 1
-38	Rey Indra III	32ー	200	22, Thunder		Guard 2, Offensive Guard 1
-39	Indra Clairlance	321	220	25, Thunder		Guard 2, Offensive Guard 1
-40	Windpierce Lance I	ーーー	140	15, Ice		Guard 2, Airborne 1
-41	Windpierce Lance II	21ー	170	19, Ice		Guard 2, Airborne 1
-42	Windpierce Lance III	32ー	200	22, Ice		Guard 3, Airborne 1
-43	Windpierce Tsukibami	321	220	25, Ice		Guard 3, Airborne 1
-44	Nu Osminog I	1ーー	170	15, Fire	-15	Offensive Guard 2
-45	Nu Osminog II	32ー	210	22, Fire	-15	Offensive Guard 3
-46	Abaddonian Osminog	321	230	25, Fire	-15	Offensive Guard 3
-47	Dosha Gloomborer I	1ーー	180		-15	Offensive Guard 2
-48	Dosha Gloomborer II	21ー	220		-15	Offensive Guard 3
-49	Gloomborer Urshanith	321	250		-15	Offensive Guard 3
-50	Albirath Tail I	1ーー	160	16, Fire	15	Master's Touch 1, Critical Element 1
-51	Albirath Tail II	21ー	180	21, Fire	15	Master's Touch 1, Critical Element 1
-52	Shining Pillar	321	220	25, Fire	15	Master's Touch 1, Critical Element 1
-53	Chthonian Firewheel I	1ーー	140	26, Dragon	10	Offensive Guard 2
-54	Chthonian Firewheel II	21ー	170	31, Dragon	10	Offensive Guard 3
-55	Bequeathed Regret	321	210	35, Dragon	10	Offensive Guard 3
-56	G. Veldian Lancea I	11ー	170	14, Dragon	-10	Guard 2
-57	G. Veldian Lancea II	22ー	210	17, Dragon	-10	Guard 2
-58	G. Purifying Beaumains	331	240	20, Dragon	-10	Guard 2
-59	Gravios Spear I	21ー	210	29, Nitro	-15, 30 Def	Guard Up 3
-60	Gravios Lance	321	250	35, Nitro	-15, 30 Def	Guard Up 3
-61	Red Tail I	21ー	190	29, Fire	10	Critical Boost 3
-62	Spear of Prominence	321	210	35, Fire	10	Critical Boost 3
-63	Eiferschild I	32ー	180	22, Dragon	20	Critical Element 3
-64	Fieberschild	321	210	25, Dragon	20	Critical Element 3
-65	Veldian Lancea I	32ー	200	32, Dragon		Guard 3
-66	Artian Lance I	222	170	23	5
-67	Artian Lance II	222	180	23	5
-68	Skyscraper	333	190	27	5
-69	Esperanza Lance	321	210			Speed Sharpening 2, Critical Eye 2
-70	Fierceborer Dubhanith	331	240		-5, 20 Def	Punishing Draw 3
-71	Purifying Beaumains	321	220	35, Dragon		Guard 3
-72	Paladin Lance I	21ー	190			Critical Draw 3, Guard 1
-73	Babel Spear	321	220			Critical Draw 3, Guard 1
+11000	Hope Lance I	ーーー	90			
+11001	Hope Lance II	ーーー	100			Speed Sharpening 1
+11002	Hope Lance III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+11003	Hope Lance IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+11004	Hope Lance V	32ー	190			Speed Sharpening 2, Critical Eye 1
+11005	Bone Lance I	ーーー	110			Guard 1
+11006	Bone Lance II	ーーー	130			Guard 1, Attack Boost 1
+11007	Bone Lance III	1ーー	170			Guard 2, Attack Boost 1
+11008	Bone Lance IV	21ー	200			Guard 3, Attack Boost 1
+11009	Hard Bone Lance	321	230			Guard 3, Attack Boost 1
+11010	Chrome Drill I	ーーー	120			Guard Up 1
+11011	Chrome Drill II	1ーー	160			Guard Up 2
+11012	Chrome Drill III	21ー	190			Guard Up 2
+11013	Chrome Lance	321	220			Guard Up 3
+11014	Quematrice Lanza I	ーーー	100	10, Fire	5	Guard 1
+11015	Quematrice Lanza II	ーーー	140	12, Fire	5	Guard 2
+11016	Quematrice Lanza III	21ー	170	15, Fire	5	Guard 2
+11017	Quematrice Lanza IV	32ー	210	17, Fire	5	Guard 3
+11018	Firetrail Kaminet	321	240	20, Fire	5	Guard 3
+11019	Barina Sarissa I	ーーー	100	10, Paralysis	10	Critical Draw 1
+11020	Barina Sarissa II	ーーー	120	13, Paralysis	10	Critical Draw 1, Critical Status 1
+11021	Barina Sarissa III	21ー	150	18, Paralysis	15	Critical Draw 1, Critical Status 1
+11022	Barina Sarissa IV	32ー	180	21, Paralysis	15	Critical Draw 2, Critical Status 1
+11023	Lala Aviculari	321	200	25, Paralysis	15	Critical Draw 2, Critical Status 1
+11024	Balahara Lance I	ーーー	110	14, Water	10	Offensive Guard 1
+11025	Balahara Lance II	1ーー	150	16, Water	10	Offensive Guard 2
+11026	Balahara Lance III	21ー	160	20, Water	10	Offensive Guard 2
+11027	Balahara Lance IV	32ー	190	22, Water	10	Offensive Guard 3
+11028	Sandsea Prallaya	321	210	25, Water	10	Offensive Guard 3
+11029	Dosha Fierceborer I	ーーー	140		-5, 20 Def	Punishing Draw 1
+11030	Dosha Fierceborer II	11ー	180		-5, 20 Def	Punishing Draw 2
+11031	Dosha Fierceborer III	22ー	210		-5, 20 Def	Punishing Draw 3
+11032	Rompo Piercer I	ーーー	140	15, Poison		Guard Up 2
+11033	Rompo Piercer II	21ー	170	19, Poison		Guard Up 2
+11034	Rompo Piercer III	32ー	200	22, Poison		Guard Up 3
+11035	Rompo Tetrotox	321	220	25, Poison		Guard Up 3
+11036	Rey Indra I	ーーー	140	15, Thunder		Guard 1, Offensive Guard 1
+11037	Rey Indra II	21ー	170	19, Thunder		Guard 1, Offensive Guard 1
+11038	Rey Indra III	32ー	200	22, Thunder		Guard 2, Offensive Guard 1
+11039	Indra Clairlance	321	220	25, Thunder		Guard 2, Offensive Guard 1
+11040	Windpierce Lance I	ーーー	140	15, Ice		Guard 2, Airborne 1
+11041	Windpierce Lance II	21ー	170	19, Ice		Guard 2, Airborne 1
+11042	Windpierce Lance III	32ー	200	22, Ice		Guard 3, Airborne 1
+11043	Windpierce Tsukibami	321	220	25, Ice		Guard 3, Airborne 1
+11044	Nu Osminog I	1ーー	170	15, Fire	-15	Offensive Guard 2
+11045	Nu Osminog II	32ー	210	22, Fire	-15	Offensive Guard 3
+11046	Abaddonian Osminog	321	230	25, Fire	-15	Offensive Guard 3
+11047	Dosha Gloomborer I	1ーー	180		-15	Offensive Guard 2
+11048	Dosha Gloomborer II	21ー	220		-15	Offensive Guard 3
+11049	Gloomborer Urshanith	321	250		-15	Offensive Guard 3
+11050	Albirath Tail I	1ーー	160	16, Fire	15	Master's Touch 1, Critical Element 1
+11051	Albirath Tail II	21ー	180	21, Fire	15	Master's Touch 1, Critical Element 1
+11052	Shining Pillar	321	220	25, Fire	15	Master's Touch 1, Critical Element 1
+11053	Chthonian Firewheel I	1ーー	140	26, Dragon	10	Offensive Guard 2
+11054	Chthonian Firewheel II	21ー	170	31, Dragon	10	Offensive Guard 3
+11055	Bequeathed Regret	321	210	35, Dragon	10	Offensive Guard 3
+11056	G. Veldian Lancea I	11ー	170	14, Dragon	-10	Guard 2
+11057	G. Veldian Lancea II	22ー	210	17, Dragon	-10	Guard 2
+11058	G. Purifying Beaumains	331	240	20, Dragon	-10	Guard 2
+11059	Gravios Spear I	21ー	210	29, Nitro	-15, 30 Def	Guard Up 3
+11060	Gravios Lance	321	250	35, Nitro	-15, 30 Def	Guard Up 3
+11061	Red Tail I	21ー	190	29, Fire	10	Critical Boost 3
+11062	Spear of Prominence	321	210	35, Fire	10	Critical Boost 3
+11063	Eiferschild I	32ー	180	22, Dragon	20	Critical Element 3
+11064	Fieberschild	321	210	25, Dragon	20	Critical Element 3
+11065	Veldian Lancea I	32ー	200	32, Dragon		Guard 3
+11066	Artian Lance I	222	170	23	5	
+11067	Artian Lance II	222	180	23	5	
+11068	Skyscraper	333	190	27	5	
+11069	Esperanza Lance	321	210			Speed Sharpening 2, Critical Eye 2
+11070	Fierceborer Dubhanith	331	240		-5, 20 Def	Punishing Draw 3
+11071	Purifying Beaumains	321	220	35, Dragon		Guard 3
+11072	Paladin Lance I	21ー	190			Critical Draw 3, Guard 1
+11073	Babel Spear	321	220			Critical Draw 3, Guard 1

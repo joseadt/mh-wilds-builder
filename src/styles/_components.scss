@@ -1,5 +1,6 @@
 @use "theme";
 @use "variables";
+@use "functions" as fn;
 
 
 .nav-menu {
@@ -78,3 +79,54 @@ input {
 
 }
 
+
+button.btn {
+    color: variables.$container-text-color;
+    background: none;
+    border: none;
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    grid-row: 1;
+    height: 3em;
+    padding: 1em;
+    padding-bottom: 3em;
+
+    z-index: 5;
+
+    position: relative;
+
+    cursor: pointer;
+
+    &:active {
+        background-color: rgba(variables.$container-bg-color-dark, 0.6);
+    }
+
+    &::before {
+        @include fn.corner-border(url("/images/borders/simple_top.png"));
+        background-size: 1.5rem;
+        pointer-events: none;
+
+    }
+
+    &::after {
+        @include fn.corner-border(url("/images/borders/simple_bottom.png"), bottom);
+        background-size: 1.5rem;
+        bottom: 0;
+        right: 0;
+        background-position: 100% 100%;
+        pointer-events: none;
+    }
+}
+
+
+.container-box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    @include theme.container(0.8);
+    filter: blur(6px);
+}

@@ -54,9 +54,12 @@ export class EquipmentService {
             this.httpClient.get(environment.charmsUrl, { responseType: 'text' })
         );
 
-        this.armor.push(
+        this.charms = [];
+        this.charms.push(
             ...(await this.equipmentTsvReader.readCharmTsv(charms))
         );
+
+        return this.armor;
     }
 
     loadWeapons() {
@@ -64,17 +67,53 @@ export class EquipmentService {
         for (const fileName in WEAPONS_NAMES) {
             this.retrieveTsvWeapon(fileName, WEAPONS_NAMES[fileName]);
         }
+
+        return this.weaponMap;
     }
 
     get(armorType: GearType): Gear[] {
         if (armorType === GearType.WEAPON) {
-            return this.weaponMap.get(WeaponType.BOW) as Gear[];
+            return [];
         }
+
+        if (armorType === GearType.CHARM) {
+            return this.charms;
+        }
+
         return this.armor?.filter((a) => a.type === armorType);
+    }
+
+    getById(id: number, gearType: GearType) {
+        if (id == null) {
+            return undefined;
+        }
+
+        if (gearType === GearType.WEAPON) {
+            return this.getWeaponById(id);
+        }
+
+        if (gearType === GearType.CHARM) {
+            return structuredClone(this.charms?.find((a) => a.id == id));
+        }
+
+        return structuredClone(
+            this.armor?.find((a) => a.id === id && a.type === gearType)
+        );
     }
 
     getWeapons(weaponType: WeaponType): Weapon[] {
         return this.weaponMap.get(weaponType)!;
+    }
+
+    private getWeaponById(id: number) {
+        for (const weaponList of this.weaponMap.values()) {
+            const weapon = weaponList.find((w) => w.id == id);
+            if (weapon) {
+                return structuredClone(weapon);
+            }
+        }
+
+        return undefined;
     }
 
     private retrieveTsvWeapon(fileName: string, weaponType: WeaponType) {

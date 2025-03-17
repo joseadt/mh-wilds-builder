@@ -1,17 +1,8 @@
 import { Dialog, DialogModule } from '@angular/cdk/dialog';
 import { CommonModule } from '@angular/common';
-import {
-    Component,
-    computed,
-    effect,
-    input,
-    linkedSignal,
-    model,
-    signal,
-} from '@angular/core';
+import { Component, computed, input, model, OnInit } from '@angular/core';
 import { GearType, WeaponType } from '../../enums/armor-type.enum';
-import { Decoration } from '../../models/decoration.model';
-import { GearSkill } from '../../models/gear-skill.model';
+import { DecorationSlot } from '../../models/decoration.model';
 import { Gear, isWeapon } from '../../models/gear.model';
 import { DecorationService } from '../../services/decoration.service';
 import { EquipmentService } from '../../services/equipment.service';
@@ -25,7 +16,7 @@ import { EquipmentSearchModalComponent } from '../equipment-search-modal/equipme
     templateUrl: './armor-selector.component.html',
     styleUrl: './armor-selector.component.scss',
 })
-export class ArmorSelectorComponent {
+export class ArmorSelectorComponent implements OnInit {
     type = input(GearType.HEAD, {
         transform: (value: GearType | keyof typeof GearType) =>
             typeof value === 'string' ? GearType[value] : value,
@@ -33,42 +24,18 @@ export class ArmorSelectorComponent {
 
     iconUrl = computed(() => this.computeIconUrl());
 
-    selectedAmor = signal<Gear | null>(null);
-
     selected = model<Gear | null | undefined>(null);
-
-    slots = linkedSignal(() =>
-        this.selectedAmor()
-            ?.slots?.sort((s1, s2) => s2.level - s1.level)
-            ?.map((s) => ({ slotLevel: s.level } as Partial<Decoration>))
-    );
 
     constructor(
         private equipmentService: EquipmentService,
         private decorationService: DecorationService,
         private dialog: Dialog
-    ) {
-        effect(() => {
-            if (!this.selectedAmor()) {
-                this.selected.set(null);
-                return;
-            }
-            const selected = structuredClone(this.selectedAmor()) as Gear;
+    ) {}
 
-            const slotSkills = this.slots()
-                ?.map((s) => s.skills)
-                .filter((s) => s)
-                .flat();
-            if (slotSkills?.length) {
-                selected?.skills?.push(...(slotSkills as GearSkill[]));
-            }
-
-            this.selected.set(selected);
-        });
-    }
+    ngOnInit(): void {}
 
     computeIconUrl() {
-        const selected = this.selectedAmor();
+        const selected = this.selected();
         if (isWeapon(selected)) {
             return `/images/${selected.weaponType.toLowerCase()}.png`;
         }
@@ -91,43 +58,46 @@ export class ArmorSelectorComponent {
 
         dialogRef.closed.subscribe((result: any) => {
             if (result?.selection) {
-                this.selectedAmor.update(() => result.selection as Gear);
+                this.selected.update(() => result.selection as Gear);
             }
         });
     }
 
-    onClickSlot(slotIndex: number) {
-        const slot = this.slots()?.[slotIndex];
+    onClickSlot(slot: DecorationSlot) {
         if (!slot) {
             return;
         }
         const dialogRef = this.dialog.open(DecorationSearchModalComponent, {
             data: {
-                decorations: this.decorationService.get(slot.slotLevel!),
+                decorations: this.decorationService.get(slot.level!),
             },
         });
 
         dialogRef.closed.subscribe((result: any) => {
             if (result?.selection) {
-                this.slots.update((currentValue) => {
-                    const slots = [...currentValue!];
-                    slots[slotIndex] = result?.selection;
-                    return slots;
+                this.selected.update((currentValue) => {
+                    if (!currentValue) {
+                        return null;
+                    }
+                    slot.equiped = result.selection;
+                    return { ...currentValue! };
                 });
             }
         });
     }
 
     clearArmor() {
-        this.selectedAmor.set(null);
+        this.selected.set(null);
     }
 
-    clearSlot(index: number) {
-        this.slots.update((currentValue) =>
-            currentValue?.toSpliced(index, 1, {
-                slotLevel: currentValue[index].slotLevel,
-            })
-        );
+    clearSlot(item: DecorationSlot) {
+        this.selected.update((currentValue) => {
+            if (!currentValue) {
+                return null;
+            }
+            item.equiped = undefined;
+            return { ...currentValue! };
+        });
     }
 
     slotUrl(slotLevel: number) {

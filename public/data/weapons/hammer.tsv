@@ -1,74 +1,74 @@
 id	name	slots	damage	element	affinity	skills
-0	Hope Hammer I	ーーー	90
-1	Hope Hammer II	ーーー	100			Speed Sharpening 1
-2	Hope Hammer III	ーーー	130			Speed Sharpening 1, Critical Eye 1
-3	Hope Hammer IV	21ー	160			Speed Sharpening 2, Critical Eye 1
-4	Hope Hammer V	32ー	190			Speed Sharpening 2, Critical Eye 1
-5	Bone Bludgeon I	ーーー	110			Focus 1
-6	Bone Bludgeon II	ーーー	130			Focus 2, Attack Boost 1
-7	Bone Bludgeon III	1ーー	170			Focus 2, Attack Boost 1
-8	Bone Bludgeon IV	21ー	200			Focus 3, Attack Boost 1
-9	Heavy Bone Bludgeon	321	230			Focus 3, Attack Boost 1
-10	Iron Hammer I	ーーー	120			Critical Draw 1
-11	Iron Hammer II	1ーー	160			Critical Draw 2
-12	Iron Hammer III	21ー	190			Critical Draw 2
-13	Iron Devil	321	220			Critical Draw 3
-14	Chata Clobberer I	ーーー	110		, 15 Def	Charge Up 1
-15	Chata Clobberer II	ーーー	150		, 15 Def	Charge Up 1, Stamina Thief 1
-16	Chata Clobberer III	21ー	180		, 15 Def	Charge Up 1, Stamina Thief 1
-17	Chata Clobberer IV	32ー	210		, 15 Def	Charge Up 1, Stamina Thief 2
-18	Balahara Hammer I	ーーー	110	16, Water	10	Slugger 1
-19	Balahara Hammer II	1ーー	150	20, Water	10	Slugger 2
-20	Balahara Hammer III	21ー	160	23, Water	10	Slugger 2
-21	Balahara Hammer IV	32ー	190	27, Water	10	Slugger 3
-22	Sandsea Siamitiya	321	210	30, Water	10	Slugger 3
-23	Rompo Wrecker I	ーーー	140	17, Poison		Focus 2
-24	Rompo Wrecker II	21ー	170	24, Poison		Focus 2
-25	Rompo Wrecker III	32ー	200	27, Poison		Focus 3
-26	Rompo Robustox	321	220	30, Poison		Focus 3
-27	Cluster Hammer I	ーーー	120	15, Sleep	10	Charge Master 1, Focus 1
-28	Cluster Hammer II	21ー	150	21, Sleep	15	Charge Master 1, Focus 1
-29	Cluster Hammer III	32ー	180	27, Sleep	15	Charge Master 2, Focus 1
-30	Nerscrapper	321	200	30, Sleep	15	Charge Master 2, Focus 1
-31	Nu Pulpo I	1ーー	170	20, Fire	-15	Protective Polish 2, Speed Sharpening 1
-32	Nu Pulpo II	32ー	210	27, Fire	-15	Protective Polish 2, Speed Sharpening 2
-33	Abaddonian Pulpo	321	230	30, Fire	-15	Protective Polish 3, Speed Sharpening 2
-34	Albirath Bludgeon I	1ーー	160	21, Fire	15	Master's Touch 1, Critical Element 1
-35	Albirath Bludgeon II	21ー	180	26, Fire	15	Master's Touch 1, Critical Element 1
-36	Gibil Hammer	321	210	30, Fire	15	Master's Touch 1, Critical Element 1
-37	Jin Dhauda I	32ー	190	47, Ice		Focus 3
-38	Precipice Logamtu	321	210	50, Ice		Focus 3
-39	Nihil Hammer I	1ーー	160	16, Water		Focus 2
-40	Nihil Hammer II	21ー	190	21, Water		Focus 3
-41	Zaccio's Execution	321	220	25, Water		Focus 3
-42	G. Veldian Malleus I	11ー	170	16, Dragon	-10	Focus 2
-43	G. Veldian Malleus II	22ー	210	21, Dragon	-10	Focus 2
-44	G. Exultant Bedivere	331	240	25, Dragon	-10	Focus 2
-45	Kut-Ku Pick I	21ー	180	41, Fire		Charge Master 2
-46	Kut-Ku Pick II	32ー	210	47, Fire		Charge Master 3
-47	Kut-Ku Thwap	321	220	50, Fire		Charge Master 3
-48	Venom Monster I	21ー	180	31, Poison		Critical Draw 1, Charge Up 1
-49	Venom Monster II	21ー	200	34, Poison		Critical Draw 2, Charge Up 1
-50	Death Venom Hammer	331	230	40, Poison		Critical Draw 3, Charge Up 1
-51	Crashing Fulgur I	21ー	180	39, Thunder	15	Critical Element 3
-52	Fulgurhammer Guardiana	321	210	45, Thunder	15	Critical Element 3
-53	Blan Gada I	21ー	200	21, Ice	-10	Slugger 3
-54	Singha Gada	321	230	25, Ice	-10	Slugger 3
-55	Shell Hammer I	21ー	210	34, Nitro	-20, 30 Def	Charge Master 3
-56	Graviton Hammer	321	250	40, Nitro	-20, 30 Def	Charge Master 3
-57	Red Bludgeon I	21ー	180	34, Fire	10	Critical Boost 3
-58	Huracan Hammer	321	200	40, Fire	10	Critical Boost 3
-59	Wuchtblick I	32ー	180	27, Dragon	20	Critical Element 3
-60	Grimmblick	321	210	30, Dragon	20	Critical Element 3
-61	Veldian Malleus I	32ー	200	32, Dragon		Focus 3
-62	Jail Hammer I	ーーー	100	15, Paralysis		Stamina Thief 1
-63	Jail Hammer II	ーーー	140	17, Paralysis		Stamina Thief 2
-64	Jail Hammer III	21ー	170	20, Paralysis		Stamina Thief 2
-65	Jail Hammer IV	321	200	22, Paralysis		Stamina Thief 3
-66	Binder Mace	331	220	25, Paralysis		Stamina Thief 3
-67	Artian Hammer I	222	170	27	5
-68	Artian Hammer II	222	180	27	5
-69	Moteurvankel	333	190	32	5
-70	Esperanza Hammer	321	210			Speed Sharpening 2, Critical Eye 2
-71	Shrouded Aghaturi	321	230		, 15 Def	Charge Up 1, Stamina Thief 3
-72	Exultant Bedivere	321	220	35, Dragon		Focus 3
+6000	Hope Hammer I	ーーー	90			
+6001	Hope Hammer II	ーーー	100			Speed Sharpening 1
+6002	Hope Hammer III	ーーー	130			Speed Sharpening 1, Critical Eye 1
+6003	Hope Hammer IV	21ー	160			Speed Sharpening 2, Critical Eye 1
+6004	Hope Hammer V	32ー	190			Speed Sharpening 2, Critical Eye 1
+6005	Bone Bludgeon I	ーーー	110			Focus 1
+6006	Bone Bludgeon II	ーーー	130			Focus 2, Attack Boost 1
+6007	Bone Bludgeon III	1ーー	170			Focus 2, Attack Boost 1
+6008	Bone Bludgeon IV	21ー	200			Focus 3, Attack Boost 1
+6009	Heavy Bone Bludgeon	321	230			Focus 3, Attack Boost 1
+6010	Iron Hammer I	ーーー	120			Critical Draw 1
+6011	Iron Hammer II	1ーー	160			Critical Draw 2
+6012	Iron Hammer III	21ー	190			Critical Draw 2
+6013	Iron Devil	321	220			Critical Draw 3
+6014	Chata Clobberer I	ーーー	110		, 15 Def	Charge Up 1
+6015	Chata Clobberer II	ーーー	150		, 15 Def	Charge Up 1, Stamina Thief 1
+6016	Chata Clobberer III	21ー	180		, 15 Def	Charge Up 1, Stamina Thief 1
+6017	Chata Clobberer IV	32ー	210		, 15 Def	Charge Up 1, Stamina Thief 2
+6018	Balahara Hammer I	ーーー	110	16, Water	10	Slugger 1
+6019	Balahara Hammer II	1ーー	150	20, Water	10	Slugger 2
+6020	Balahara Hammer III	21ー	160	23, Water	10	Slugger 2
+6021	Balahara Hammer IV	32ー	190	27, Water	10	Slugger 3
+6022	Sandsea Siamitiya	321	210	30, Water	10	Slugger 3
+6023	Rompo Wrecker I	ーーー	140	17, Poison		Focus 2
+6024	Rompo Wrecker II	21ー	170	24, Poison		Focus 2
+6025	Rompo Wrecker III	32ー	200	27, Poison		Focus 3
+6026	Rompo Robustox	321	220	30, Poison		Focus 3
+6027	Cluster Hammer I	ーーー	120	15, Sleep	10	Charge Master 1, Focus 1
+6028	Cluster Hammer II	21ー	150	21, Sleep	15	Charge Master 1, Focus 1
+6029	Cluster Hammer III	32ー	180	27, Sleep	15	Charge Master 2, Focus 1
+6030	Nerscrapper	321	200	30, Sleep	15	Charge Master 2, Focus 1
+6031	Nu Pulpo I	1ーー	170	20, Fire	-15	Protective Polish 2, Speed Sharpening 1
+6032	Nu Pulpo II	32ー	210	27, Fire	-15	Protective Polish 2, Speed Sharpening 2
+6033	Abaddonian Pulpo	321	230	30, Fire	-15	Protective Polish 3, Speed Sharpening 2
+6034	Albirath Bludgeon I	1ーー	160	21, Fire	15	Master's Touch 1, Critical Element 1
+6035	Albirath Bludgeon II	21ー	180	26, Fire	15	Master's Touch 1, Critical Element 1
+6036	Gibil Hammer	321	210	30, Fire	15	Master's Touch 1, Critical Element 1
+6037	Jin Dhauda I	32ー	190	47, Ice		Focus 3
+6038	Precipice Logamtu	321	210	50, Ice		Focus 3
+6039	Nihil Hammer I	1ーー	160	16, Water		Focus 2
+6040	Nihil Hammer II	21ー	190	21, Water		Focus 3
+6041	Zaccio's Execution	321	220	25, Water		Focus 3
+6042	G. Veldian Malleus I	11ー	170	16, Dragon	-10	Focus 2
+6043	G. Veldian Malleus II	22ー	210	21, Dragon	-10	Focus 2
+6044	G. Exultant Bedivere	331	240	25, Dragon	-10	Focus 2
+6045	Kut-Ku Pick I	21ー	180	41, Fire		Charge Master 2
+6046	Kut-Ku Pick II	32ー	210	47, Fire		Charge Master 3
+6047	Kut-Ku Thwap	321	220	50, Fire		Charge Master 3
+6048	Venom Monster I	21ー	180	31, Poison		Critical Draw 1, Charge Up 1
+6049	Venom Monster II	21ー	200	34, Poison		Critical Draw 2, Charge Up 1
+6050	Death Venom Hammer	331	230	40, Poison		Critical Draw 3, Charge Up 1
+6051	Crashing Fulgur I	21ー	180	39, Thunder	15	Critical Element 3
+6052	Fulgurhammer Guardiana	321	210	45, Thunder	15	Critical Element 3
+6053	Blan Gada I	21ー	200	21, Ice	-10	Slugger 3
+6054	Singha Gada	321	230	25, Ice	-10	Slugger 3
+6055	Shell Hammer I	21ー	210	34, Nitro	-20, 30 Def	Charge Master 3
+6056	Graviton Hammer	321	250	40, Nitro	-20, 30 Def	Charge Master 3
+6057	Red Bludgeon I	21ー	180	34, Fire	10	Critical Boost 3
+6058	Huracan Hammer	321	200	40, Fire	10	Critical Boost 3
+6059	Wuchtblick I	32ー	180	27, Dragon	20	Critical Element 3
+6060	Grimmblick	321	210	30, Dragon	20	Critical Element 3
+6061	Veldian Malleus I	32ー	200	32, Dragon		Focus 3
+6062	Jail Hammer I	ーーー	100	15, Paralysis		Stamina Thief 1
+6063	Jail Hammer II	ーーー	140	17, Paralysis		Stamina Thief 2
+6064	Jail Hammer III	21ー	170	20, Paralysis		Stamina Thief 2
+6065	Jail Hammer IV	321	200	22, Paralysis		Stamina Thief 3
+6066	Binder Mace	331	220	25, Paralysis		Stamina Thief 3
+6067	Artian Hammer I	222	170	27	5	
+6068	Artian Hammer II	222	180	27	5	
+6069	Moteurvankel	333	190	32	5	
+6070	Esperanza Hammer	321	210			Speed Sharpening 2, Critical Eye 2
+6071	Shrouded Aghaturi	321	230		, 15 Def	Charge Up 1, Stamina Thief 3
+6072	Exultant Bedivere	321	220	35, Dragon		Focus 3

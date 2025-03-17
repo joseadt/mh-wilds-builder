@@ -77,14 +77,25 @@ export class StatsComponent {
 
     private calculateSkills(): GearSkill[] {
         const data = Object.values(this.loadout())
-            .filter((a) => a)
-            .map((a: Gear) => a?.skills)
+            .map((a: Gear) => this.getGearSkills(a))
             .flat()
             .reduce(this.skillAccumulator, {});
 
         return Object.values(data).sort(
             (a: any, b: any) => b?.level - a?.level
         ) as GearSkill[];
+    }
+
+    private getGearSkills(gear?: Gear): GearSkill[] {
+        if (!gear) {
+            return [];
+        }
+        const skills = gear.skills || [];
+
+        const decorationSkills = gear.slots
+            ?.map((d) => d?.equiped?.skills || [])
+            .flat();
+        return skills.concat(decorationSkills || []);
     }
 
     private skillAccumulator(acc: any, current: GearSkill) {
